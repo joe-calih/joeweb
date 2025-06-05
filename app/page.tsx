@@ -10,6 +10,8 @@ import { HomeLightroomPresets } from "@/components/sections/home-lightroom-prese
 import { LandingTestimonials } from "@/components/sections/landing-testimonials"
 import { LandingFAQ } from "@/components/sections/landing-faq"
 import { HomepageCTA } from "@/components/ui/homepage-cta"
+import { HomeFeatures } from "@/components/sections/home-features"
+import { HomeStats } from "@/components/sections/home-stats"
 
 export const metadata: Metadata = generateMetadata({
   title: "Joecalih - Creative Resources Hub",
@@ -41,6 +43,8 @@ export default function HomePage() {
         <StructuredData type="WebSite" data={updatedWebsiteSchema} />
 
         <HomeHero />
+        <HomeFeatures />
+        <HomeStats />
         <HomeSamplePacks />
         <HomeLUTs />
         <HomeBlog />
