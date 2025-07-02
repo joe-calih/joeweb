@@ -5,6 +5,7 @@ import "./globals.css"
 import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 import { ThemeProvider } from "@/components/theme-provider"
+import Script from "next/script"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -73,12 +74,12 @@ export const metadata: Metadata = {
     images: ["https://joecalih.co.ke/twitter-image.jpg"],
   },
   verification: {
-    google: "GOOGLE_VERIFICATION_CODE_HERE",
-    yandex: "YANDEX_VERIFICATION_CODE_HERE",
+    google: "LSRpF_oK5HgGFFqiwtIxtl_EZV-0VbcvCkvIrncY-hM",
+    yandex: "e8c5015c48a5adb4",
     yahoo: "YAHOO_VERIFICATION_CODE_HERE",
     other: {
-      "msvalidate.01": "BING_VERIFICATION_CODE_HERE",
-      "p:domain_verify": "PINTEREST_VERIFICATION_CODE_HERE",
+      "msvalidate.01": "66D54DB1A92E531DE760D7B860BD9849",
+      "p:domain_verify": "7aea570bfdd6e651a594a46fff06247e",
     },
   },
 }
@@ -95,7 +96,7 @@ export default function RootLayout({
         <meta name="google-site-verification" content="LSRpF_oK5HgGFFqiwtIxtl_EZV-0VbcvCkvIrncY-hM" />
         <meta name="msvalidate.01" content="66D54DB1A92E531DE760D7B860BD9849" />
         <meta name="yandex-verification" content="e8c5015c48a5adb4" />
-        <meta name="p:domain_verify" content="7aea570bfdd6e651a594a46fff06247e"/>
+        <meta name="p:domain_verify" content="7aea570bfdd6e651a594a46fff06247e" />
 
         {/* Additional SEO meta tags */}
         <meta name="theme-color" content="#121212" />
@@ -107,10 +108,12 @@ export default function RootLayout({
         {/* Preconnect to external domains */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
 
         {/* DNS prefetch for performance */}
         <link rel="dns-prefetch" href="//www.google-analytics.com" />
         <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
 
         {/* Structured data for organization */}
         <script
@@ -139,6 +142,28 @@ export default function RootLayout({
         />
       </head>
       <body className={inter.className}>
+        {/* Google AdSense Script - Using Next.js Script component for better performance */}
+        <Script
+          id="adsense-init"
+          strategy="afterInteractive"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9986560445421982"
+          crossOrigin="anonymous"
+        />
+
+        {/* Auto Ads Configuration */}
+        <Script
+          id="adsense-auto-ads"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-9986560445421982",
+                enable_page_level_ads: true
+              });
+            `,
+          }}
+        />
+
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false} disableTransitionOnChange={false}>
           <div className="min-h-screen bg-background">
             <a href="#main-content" className="skip-link">

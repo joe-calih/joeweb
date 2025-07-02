@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: PresetPageProps): Promise<Met
     ],
     url: `https://joecalih.co.ke/lightroom-presets/${preset.slug}`,
     image: preset.previewImage,
-    type: "product",
+    type: "article",
     author: preset.author,
     publishedTime: preset.datePublished,
   })

@@ -65,7 +65,7 @@ In this section, we are going to look at the code that search engine bots use to
 
 5: If you find it REPLACE with the below set of codes.
 
-```
+\`\`\`
 <!-- Fixed Meta Description semdeals.com tool Search Console -->
 <b:if cond='data:blog.pageType != &quot;index&quot;'>
 <b:if cond='data:blog.pageType != &quot;item&quot; and data:blog.pageType != &quot;static_page&quot;'>
@@ -77,6 +77,6 @@ In this section, we are going to look at the code that search engine bots use to
 </b:if>
 </b:if>
 <!-- Duplicate Meta Description Error Fixing tool Search Console --> 
-```
+\`\`\`
 
 That's all now your website will not show duplicate meta descriptions again. The best way to now get the original meta description working is by fast indexing and rendering to get the results fast. To do so you have to access the [**Google search console**](https://www.google.com/webmasters/tools/home?hl=en) click on Fetch as Google option and click on the fetch and render option. The indexing will take place in minutes and you will notice changes in the next 10 hrs of time. Now your duplicate meta description is no more, in case you had difficulty in the process feel free to comment and [**Contact me**](/contact) for assistance.

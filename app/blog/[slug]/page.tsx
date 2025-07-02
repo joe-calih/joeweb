@@ -10,6 +10,7 @@ import { BlogTableOfContents } from "@/components/blog/blog-table-of-contents"
 import { BlogNewsletter } from "@/components/blog/blog-newsletter"
 import { Breadcrumbs } from "@/components/layout/breadcrumbs"
 import { StructuredData } from "@/components/seo/structured-data"
+import { AdSenseSidebar } from "@/components/ads/adsense-sidebar"
 
 interface BlogPostPageProps {
   params: {
@@ -126,6 +127,9 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
 
             {/* Sidebar - 28% on desktop, hidden on mobile */}
             <div className="lg:w-[28%] lg:sticky lg:top-8 space-y-8 lg:self-start">
+              {/* AdSense Sidebar Ad */}
+              <AdSenseSidebar />
+
               <div className="hidden lg:block">
                 <BlogTableOfContents content={post.content} />
               </div>

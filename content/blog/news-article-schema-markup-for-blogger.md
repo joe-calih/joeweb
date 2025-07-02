@@ -46,15 +46,15 @@ In that case, that's why I chose the Json-ld news article schema markup over the
 
 Google recommends the use of the following version, so use this one instead of the one below. It will change your blogger's blog-rich results.
 
-```
+\`\`\`
 <script type="application/ld+json"> {   "@context": "http://schema.org",   "@type": "NewsArticle",   "mainEntityOfPage": {     "@type": "WebPage",     "@id": "https://google.com/article"   },   "headline": "Article headline",   "image": {     "@type": "ImageObject",     "url": "https://google.com/thumbnail1.jpg",     "height": 800,     "width": 800   },   "datePublished": "2017-02-05T08:00:00+08:00",   "dateModified": "2017-02-05T09:20:00+08:00",   "author": {     "@type": "Person",     "name": "John Doe"   },    "publisher": {     "@type": "Organization",     "name": "Google",     "logo": {       "@type": "ImageObject",       "url": "https://google.com/logo.jpg",       "width": 600,       "height": 60     }   },   "description": "A most wonderful article" } </script> 
-```
+\`\`\`
 
 ### MICRODATA News Article For News Blogger
 
-```
+\`\`\`
 <div itemscope itemtype="http://schema.org/NewsArticle">   <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://google.com/article"/>   <h2 itemprop="headline">Article headline</h2>   <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">     By <span itemprop="name">John Doe</span>   </h3>   <span itemprop="description">A most wonderful article</span>   <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">     <img src="https://google.com/thumbnail1.jpg"/>     <meta itemprop="url" content="https://google.com/thumbnail1.jpg">     <meta itemprop="width" content="800">     <meta itemprop="height" content="800">   </div>   <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">       <img src="https://google.com/logo.jpg"/>       <meta itemprop="url" content="https://google.com/logo.jpg">       <meta itemprop="width" content="600">       <meta itemprop="height" content="60">     </div>     <meta itemprop="name" content="Google">   </div>   <meta itemprop="datePublished" content="2017-02-05T08:00:00+08:00"/>   <meta itemprop="dateModified" content="2017-02-05T09:20:00+08:00"/> </div> 
-```
+\`\`\`
 
 ### How To Implement News Article In Blogger Template Theme
 
@@ -76,9 +76,9 @@ Step 6. Locate the below by pasting it in the search box.
 
 Step 7. After getting the above code, just below it, you will paste the below jslod code the same as highlighted above.
 
-```
+\`\`\`
 <script type='application/ld+json'> {   "@context": "http://schema.org",   "@type": "NewsArticle",   "mainEntityOfPage": {     "@type": "WebPage",     "@id": "<data:post.title/>"   },   "headline": "Article headline",   "image": {     "@type": "ImageObject",     "url": "<data:post.firstImageUrl/>",     "height": 800,     "width": 800   },   "datePublished": "<data:post.timestampISO8601/>",   "dateModified": "<data:post.timestampISO8601/>",   "author": {     "@type": "Person",     "name": "<data:post.author/>"   },    "publisher": {     "@type": "Organization",     "name": "<data:blog.title/>",     "logo": {       "@type": "ImageObject",       "url": "https://google.com/logo.jpg",       "width": 600,       "height": 60     }   },   "description": "<data:post.snippet/>" } </script>
-```
+\`\`\`
 
 Step 8. Finally, Click on Save Theme.
 
@@ -90,9 +90,9 @@ This will be a lot of work for you to set up every time you post on your blogger
 
 Step 1. Change the following fields in **Green** with your articles.
 
-```
+\`\`\`
 <div itemscope itemtype="http://schema.org/NewsArticle">   <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://google.com/article"/>   <h2 itemprop="headline">Article headline</h2>   <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">     By <span itemprop="name">John Doe</span>   </h3>   <span itemprop="description">A most wonderful article</span>   <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">     <img src="https://google.com/thumbnail1.jpg"/>     <meta itemprop="url" content="https://google.com/thumbnail1.jpg">     <meta itemprop="width" content="800">     <meta itemprop="height" content="800">   </div>   <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">       <img src="https://google.com/logo.jpg"/>       <meta itemprop="url" content="https://google.com/logo.jpg">       <meta itemprop="width" content="600">       <meta itemprop="height" content="60">     </div>     <meta itemprop="name" content="Google">   </div>   <meta itemprop="datePublished" content="2017-02-05T08:00:00+08:00"/>   <meta itemprop="dateModified" content="2017-02-05T09:20:00+08:00"/> </div> 
-```
+\`\`\`
 
 Last Step. Import it to google highlighter.
 

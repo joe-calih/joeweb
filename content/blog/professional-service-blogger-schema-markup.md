@@ -30,7 +30,7 @@ Just from the word schema, we know they involve scripts of Java code lines and h
 5. Press Ctrl + F and search for the code <b:skin>  
 6. Just Before the Code Above. Paste the below professional service code.
 
-```
+\`\`\`
 <script type='application/ld+json'>
 {
   &quot;@context&quot;: &quot;http://www.schema.org&quot;,
@@ -83,7 +83,7 @@ Just from the word schema, we know they involve scripts of Java code lines and h
  }
 }
  </script>
-```
+\`\`\`
 
 After adding the above code Save your theme. You will have to tweak the links and names that are indicated below with what your website is all about.  
 1. Contact Name  

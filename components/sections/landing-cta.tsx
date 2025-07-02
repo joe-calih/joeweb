@@ -21,13 +21,13 @@ export function LandingCTA() {
           whileInView={{ scale: 1 }}
           transition={{ duration: 0.5, delay: 0.2 }}
           viewport={{ once: true }}
-          className="w-20 h-20 bg-[#fc3c44] rounded-full flex items-center justify-center mx-auto mb-8"
+          className="w-12 h-12 bg-[#fc3c44] rounded-full flex items-center justify-center mx-auto mb-4"
         >
-          <Music className="w-10 h-10 text-white" />
+          <Music className="w-6 h-6 text-white" />
         </motion.div>
 
         <motion.h2
-          className="text-3xl md:text-5xl font-bold text-white mb-6"
+          className="text-2xl md:text-3xl font-bold text-white mb-4"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.3 }}
@@ -37,7 +37,7 @@ export function LandingCTA() {
         </motion.h2>
 
         <motion.p
-          className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto"
+          className="text-lg text-gray-300 mb-6 max-w-3xl mx-auto"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
@@ -66,7 +66,7 @@ export function LandingCTA() {
         </motion.div>
 
         <motion.p
-          className="text-sm text-gray-400 mt-6"
+          className="text-sm text-gray-400 mt-4"
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.6 }}

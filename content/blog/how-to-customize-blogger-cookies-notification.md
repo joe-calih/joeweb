@@ -25,9 +25,9 @@ To customize the text shown in the notification, follow these steps
 1. Go to Template > Edit HTML and find `</head>`  
 2. Above `</head>` place the following script
 
-```
+\`\`\`
 <!-- joecalih.co.ke Custom EU Cookies Notice --> <script type="text/javascript">  cookieOptions = {  msg: "This site uses cookies from Google ",  link: "https://www.blogger.com/go/blogspot-cookies",  close: "Okay!",  learn: "Learn More" }; </script> <!-- Semdeals Custom EU Cookies Notice -->
-```
+\`\`\`
 
   
 3. Edit the values above (the text in between quotes of `msg`, `link`, `close`, `learn`), see [this page](http://www.cookiechoices.org/) for help.  
@@ -43,9 +43,9 @@ To customize the text shown in the notification, follow these steps
 4. Now find **]]></b:skin>** by using Crtl F in windows & CMD F in Mac.  
 5. Copy the code from below and paste it before**/**After  **]]></b:skin>**
 
-```
+\`\`\`
 <script type="text/javascript">   cookieOptions = {     msg: "This site uses cookies from Google to deliver its services. By using this site, you agree to its use of cookies.",     link: "https://www.blogger.com/go/blogspot-cookies",     close: "Got it!",     learn: "Learn More" }; </script> <style> .cookie-choices-info { z-index:999999!important; background-color:#181818!important; border-bottom: 3px solid #0697FD;  box-shadow: 4px 4px 0px rgba(33,33,33,0.45)!important;  padding:3px 0px!important; } .cookie-choices-info .cookie-choices-text{ font-size:14px !important; font-weight:500;  color:#dddddd!important; } .cookie-choices-info .cookie-choices-button{   background-color: #0697FD!important; border-radius: 50px!important; box-shadow:4px 4px 0px rgba(33,33,33,0.45); padding:6px!important; text-transform: uppercase!important;} </style>
-```
+\`\`\`
 
 ### How to Hide/Disable the EU Cookies Notice
 
@@ -53,9 +53,9 @@ As mentioned above, it is a law that this message is shown! If you are already s
 1. Go to Template > Edit HTML and find `</head>`  
 2. Above `</head>` place the following script
 
-```
+\`\`\`
 <script type="text/javascript">cookieChoices = {};</script>
-```
+\`\`\`
 
 3. Save your template.
 
@@ -66,9 +66,9 @@ You may want to customize the design of the notification bar so that it better m
 1. Go to Template > Edit HTML and find ]] </b:skin>  
 2. Above ]] </b:skin> add the following
 
-```
+\`\`\`
 .cookie-choices-info { /* Add your styles here to change overall wrapper design */ }.cookie-choices-info .cookie-choices-text{ /* Add your styles here to change text styles */}.cookie-choices-info .cookie-choices-button { /* Add your styles here to change button styles */ }.cookie-choices-info #cookieChoiceDismiss { /* Add your styles here to change dismiss button styles */ }
-```
+\`\`\`
 
 ### How to move the EU Cookies Notice to the bottom of the screen
 

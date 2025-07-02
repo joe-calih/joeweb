@@ -25,7 +25,7 @@ React Hooks were introduced in React 16.8 as a way to use state and other React 
 
 The `useState` hook allows you to add state to your functional components. Here's a simple example:
 
-```jsx
+\`\`\`jsx
 import React, { useState } from 'react';
 
 function Counter() {
@@ -40,13 +40,13 @@ function Counter() {
     </div>
   );
 }
-```
+\`\`\`
 
 ### useEffect
 
 The `useEffect` hook lets you perform side effects in function components. It serves the same purpose as `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount` in React classes.
 
-```jsx
+\`\`\`jsx
 import React, { useState, useEffect } from 'react';
 
 function Example() {
@@ -65,7 +65,7 @@ function Example() {
     </div>
   );
 }
-```
+\`\`\`
 
 ## Best Practices for Using Hooks
 

@@ -27,7 +27,7 @@ export function SamplePackHeader({ samplePack }: SamplePackHeaderProps) {
         >
           <div className="relative aspect-square rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src={samplePack.cover || "/placeholder.svg?height=400&width=400"}
+              src={samplePack.cover || samplePack.coverImage || "/placeholder.svg?height=400&width=400"}
               alt={samplePack.title}
               fill
               className="object-cover"
@@ -126,7 +126,9 @@ export function SamplePackHeader({ samplePack }: SamplePackHeaderProps) {
           <div className="flex items-center gap-6 text-sm text-gray-400 pt-4 border-t border-white/10">
             <div className="flex items-center gap-2">
               <Calendar className="w-4 h-4" />
-              <span>Released {new Date(samplePack.releaseDate || Date.now()).toLocaleDateString()}</span>
+              <span>
+                Released {samplePack.releaseDate ? new Date(samplePack.releaseDate).toLocaleDateString() : "Recently"}
+              </span>
             </div>
             <div className="text-2xl font-bold text-[#fc3c44]">{samplePack.price || "$29.99"}</div>
           </div>

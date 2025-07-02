@@ -24,7 +24,7 @@ Now to serve different countries with [translated variations](https://joecalih.c
 4. Click on **HTML/Javascript**  
 5. Copy and paste the below code into the code box provided.
 
-```
+\`\`\`
 <style type=”text/css”>
 #translator-wrapper {
   display:block;
@@ -100,7 +100,7 @@ option {
 <script type=”text/javascript”>(function(){var mylang=“id”,anchor=document.getElementById(‘translate-me’);anchor.onclick=function(){window.open(‘http:return!1}})();</script>
 
 
-```
+\`\`\`
 
 6. Save your Google translate widget in layout and refresh your website for final results.
 

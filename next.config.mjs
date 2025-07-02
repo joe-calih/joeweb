@@ -7,20 +7,15 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    unoptimized: false,
-    formats: ['image/webp', 'image/avif'],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
-    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-    domains: ['placeholder.svg', 'artists.apple.com'],
-    dangerouslyAllowSVG: true,
-    contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
+    domains: ['placeholder.svg'],
+    unoptimized: true,
   },
   experimental: {
-    optimizeCss: true,
+    optimizeCss: false, // Disable CSS optimization that requires critters
     optimizePackageImports: ['lucide-react', 'framer-motion'],
   },
   compiler: {
-    removeConsole: process.env.NODE_ENV === 'production',
+    removeConsole: process.env.NODE_ENV === "production",
   },
   headers: async () => {
     return [
@@ -55,6 +50,10 @@ const nextConfig = {
         ],
       },
     ]
+  },
+  // Disable static optimization for problematic pages
+  async generateBuildId() {
+    return 'build-' + Date.now()
   },
 }
 

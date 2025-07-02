@@ -27,15 +27,15 @@ In this tutorial, we will get the page view stats widget that displays total web
 
 5. Replace the code With the Below Code.
 
-```
+\`\`\`
     <b:widget id='Stats1' locked='false' title='Custom Stats' type='Stats' version='1' visible='true'>    <b:includable id='main'>  <b:if cond='data:title'><h2><data:title/></h2></b:if>  <div class='widget-content'>    <!-- Content is going to be visible when data will be fetched from server. -->    <div expr:id='data:widget.instanceId + &quot;_content&quot;' style='display: none;'>      <!-- Counter and image will be injected later via AJAX call. -->      <b:if cond='data:showSparkline'>        <img alt='Sparkline' expr:id='data:widget.instanceId + &quot;_sparkline&quot;' height='30' src='http://2.bp.blogspot.com/-nsxCtkYnchQ/VLEifAyf97I/AAAAAAAAIlk/9Viyy0W9r04/s1600/FFF.png' title='Sparkline' width='75'/>      </b:if>      <b:if cond='data:showGraphicalCounter'>        <span class='counter-wrapper graph-counter-wrapper' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'/>      <b:else/>        <span class='counter-wrapper text-counter-wrapper' expr:id='data:widget.instanceId + &quot;_totalCount&quot;'/>      </b:if><script type='text/javascript'>function postCount(json){document.write(&quot;<span class='counts post2'> Total Posts &quot;);var count = json.feed.openSearch$totalResults.$t;document.write(&quot;<span class='count'>&quot; + count + &quot;</span>&quot;);document.write(&quot;</span>&quot;)}
-```
+\`\`\`
 
 6. Search for the code </head> and paste the below code just BEFORE the head tag.
 
-```
+\`\`\`
  <link href='//fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'/><link href='//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css' rel='stylesheet'/><style type='text/css'>/* Blogger Custom Stats widget by seoblur.com */.Stats img {display:none!important;background-image:none;}.Stats .counter-wrapper {width:92%;text-align:right;margin:10px;line-height:35px;color:#333;font-weight:700;font-size:16px;margin-left: 0;}.Stats .counter-wrapper:after {content:&quot;Page Views&quot;;float:left;text-align:left;font-size:13px;font-weight:700;color:#333;}.counts {display:inline-block;width:92%;font-size:13px;line-height:35px;color:#333;font-weight:700;}.counts .count {display:inline-block;font-size:16px;height:30px;vertical-align:top;direction:ltr;float:right;color:#333;font-weight:700!important;}.counts:hover .titles:before {color:#333!important;border-radius:2px;border-color:rgba(255,255,255,0.1);}.counter-wrapper.text-counter-wrapper:before, .counts:before {display:inline-block;font-size:13px;font-family:FontAwesome;font-style:normal;font-weight:normal;margin:0 10px 0 10px;float:left;width:10px;text-align:center;}.counter-wrapper.text-counter-wrapper:before, .counts:before {display:block;background-color:#fff;color:#333;width:35px;height:35px;font-size:18px;line-height:35px;border-radius:2px;margin:0px 8px 0 0;}.counter-wrapper.text-counter-wrapper:before {content:&quot;f06e&quot;;}.counts.post2:before {content:&quot;f044&quot;;}.counts.comment:before {content:&quot;f0e6&quot;;}#Stats1_content {width:auto;height:auto;background-color:#fff;}</style>
-```
+\`\`\`
 
 That’s all, now visit your [website](/category/marketing) to view your website page stats views widget look.
 

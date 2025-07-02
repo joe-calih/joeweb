@@ -49,7 +49,7 @@ Follow the below procedure to add the SCHEMA version of the star review schema m
 **5.** Search for **<data:post.body/>**  
 **6. Replace** the above line with the following code.
 
-```
+\`\`\`
 <data:post.body/>
 <div itemscope='' itemtype='http://schema.org/Review' style='display:none;'>
 <div itemprop='itemReviewed' itemscope='' itemtype='http://schema.org/Thing'>
@@ -66,7 +66,7 @@ Follow the below procedure to add the SCHEMA version of the star review schema m
 </span>
 <span itemprop='reviewBody'><data:post.snippet/></span>
 </div> 
-```
+\`\`\`
 
 That's a microdata star rating schema markup that you can use also instead of the vocabulary microdata. It works well and the same. The main difference between the star rating of vocabulary and microdata is the name of the person who has reviewed the blogger posts only shows in the microdata format and not in the vocabulary version.
 
@@ -84,7 +84,7 @@ For the J**SLOD-LD** schema markup for star rating search results for blogger po
 **5.** Search for **</head>**  
 **6. Place** the following code Above the code.
 
-```
+\`\`\`
 <!-- Review Star Rating In Google Search Results -->
 <script type='application/ld+json'>
 {"@context":"http://schema.org",
@@ -113,7 +113,7 @@ For the J**SLOD-LD** schema markup for star rating search results for blogger po
 "ratingCount": "2"}}}
 </script>
 <!-- joecalih.co.ke Review Star Rating --> 
-```
+\`\`\`
 
 You have to change the words & URL written in **Green Bold** Color to your own.  
 That's all you have to add, now Your template offers blogger posts with rich star rating structured data schema snippets. The settings and changes will take place in about one day and you will see the structured data [review](https://whitespark.ca/blog/how-to-use-aggregate-review-schema-to-get-stars-in-the-serps/) in your posts as soon as possible.

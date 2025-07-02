@@ -36,23 +36,23 @@ For WordPress users, it determines the theme template that you are using since s
 
 Find the below line of code in your template code.
 
-```
+\`\`\`
 https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js OR https://ajax.googleapis.com/ajax/libs/jquery/1.13.0/jquery.min.js .
-```
+\`\`\`
 
 **Note :**  
 The **version** of the codes may be different depending on the functionalities needed in coding the theme jQuery. For this reason, you may need to only search for the front part of the link as shown below.
 
-```
+\`\`\`
 <figure>
 <div>https://ajax.googleapis.com/ajax/libs/jquery</div>
 </figure>
-```
+\`\`\`
 
 By finding the code in the above way, you can be sure to find it in every blogger template and some WordPress websites. The speeding-up script works with all versions of the jQuery script and hence you only need to do the below.  
 **2. CUT and PASTE below script**
 
-```
+\`\`\`
  <script id=’script-batch’ type=’text/javascript’>
         (function(d){
             var js = d.createElement('script'); js.async = true; js.defer = true;
@@ -60,7 +60,7 @@ By finding the code in the above way, you can be sure to find it in every blogge
             d.getElementsByTagName('head')[0].appendChild(js);
         }(document));
  </script>
-```
+\`\`\`
 
 Adjust the code above with the 1.11.0 version of the jQuery Ajax code version format to resemble the previous version. Adjust the code to avoid using a different query version of the speeding-up script.
 

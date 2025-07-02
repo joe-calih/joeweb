@@ -33,15 +33,15 @@ Those are the top recognized social media profiles you can expect in search resu
 
 Follow the easy steps below to add the code to the blogger blog. Copy the code and paste it above the **</head>** tag.
 
-```
+\`\`\`
 <script type="application/ld+json">{ "@context" : "http://schema.org","@type" : "Person","name" : "your name","url" : "http://www.your-site.com","sameAs" : [ "http://www.facebook.com/your-profile","http://instagram.com/yourProfile","http://www.linkedin.com/in/yourprofile","http://plus.google.com/your_profile"]}</script>
-```
+\`\`\`
 
 Copy the Jslod-ld code above to your notepad and change the URL that points to your profile and others. You can also add the other social media profile URLs to your code to make it even better to accommodate more social profiles. The bellow is an example of my social profile schema JSON-ld code that I have embedded in my blogger blog.
 
-```
+\`\`\`
 <!-- start social profiles seohuk.com--> <script type="application/ld+json">{ "@context" : "http://schema.org","@type" : "Organization","name" : "9 Clouds","url" : "https://www.Your Blog.com/","logo": "https://joecalih.co.ke/logo.png","sameAs" : [ "http://www.facebook.com/semdeals","http://www.twitter.com/semdeals","http://instagram.com/semdeals","https://www.linkedin.com/#.","https://www.youtube.com/channel/semdeals","https://www.pinterest.com/semdeals"]}</script><!-- end social profiles -->
-```
+\`\`\`
 
 ## How to Add Social Profile Schema to Blogger
 

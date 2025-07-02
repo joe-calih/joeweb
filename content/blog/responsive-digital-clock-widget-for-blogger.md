@@ -23,7 +23,7 @@ It's cool to engage your website visitors with things that are going to keep the
 5. In the dialogue box option, click on HTML/Javascript  
 6. Add the below Code in the code box
 
-```
+\`\`\`
 <style>
 #realtime {
     font-family: Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
@@ -74,7 +74,7 @@ function updateTime(){
 }
 updateTime();
 </script>
-```
+\`\`\`
 
 7. Save your layout and Refresh your website.
 

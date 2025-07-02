@@ -24,9 +24,9 @@ The sync script is meant to let other resources load first before allowing the l
 
 Your font awesome code may look like below.
 
-```
+\`\`\`
 <link href=’//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css’ rel=’stylesheet’/>
-```
+\`\`\`
 
 there are various versions of font awesome render-blocking font awesome CSS scripts and they are categorized in number digits. The sync script code works on the all Java script codes in your template that you would like to optimize. This time around we have specified special features in the sync code so that it would be more comfortable with loading content and all versions of font awesome CSS scripts. Do not use it for other Java scripts but I will direct you on how to add async scripts to other render-blocking CSS and Java scripts in your template.
 
@@ -40,22 +40,22 @@ Step 3. Click on the template command and then locate the Edit HTML next to Cust
 Step 4. Click anywhere in your code and then click on Ctrl+F in Windows or CMD+F in Mac.  
 Step 5. Search for the below scripts.
 
-```
+\`\`\`
 <link href=’//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css’ rel=’stylesheet’/>
-```
+\`\`\`
 
 If you search for this font’s awesome CSS script and don’t find it in this manner search for the below.
 
-```
+\`\`\`
 <link href=’ https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css’ rel=’stylesheet’/>
-```
+\`\`\`
 
 **Step 6.** After finding the **ABOVE** cut the code and paste it somewhere in your notepad or any editor.  
 **Step 7.** Now copy the below async code and paste it above/before the ending tag of head **</head>**
 
-```
+\`\`\`
 <script type='text/javascript'> //<![CDATA[ function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }loadCSS("Paste Your Font Awesome File Here"); //]]> </ Script>
-```
+\`\`\`
 
 **Step 8.** After pasting the above code now copy your font awesome CSS script code and paste it in the bold text written post your post awesome CSS code here.
 

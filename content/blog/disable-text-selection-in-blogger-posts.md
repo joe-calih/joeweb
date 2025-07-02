@@ -35,9 +35,9 @@ When you add the above code in your CSS part and save, nothing will be able to b
 
 The CSS below will allow users to copy the content in the blockquote or in code form. That’s for people who provide code details to blog visitors. Copy the below CSS and use the same procedure as the one used in the first example.
 
-```
+\`\`\`
 body {-webkit-touch-callout: none;-khtml-user-select: none;-moz-user-select: -moz-none;-ms-user-select: none;user-select: none;-webkit-user-select: none;}blockquote {-webkit-touch-callout: text; Except Blockqoute-khtml-user-select: text;-moz-user-select: text;-ms-user-select: text;user-select: text;-webkit-user-select: text;}.post code {-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;}
-```
+\`\`\`
 
 That’s all you need, use the code above, save changes and load your website and try to see if any text will be selected. If it doesn’t select, then you are good to go and your blogger users will be safe from plagiarism. If you would like to use the javascript code instead, follow the below steps.
 
@@ -50,8 +50,8 @@ The blogger javascript code to disable text highlighting is attached below. o us
 3.  Then click on Add a Gadget.
 4.  Choose HTML/javascript Option and add the below javascript code.
 
-```
+\`\`\`
 <script type="text/javascript">//form tags to omit in NS6+:var omitformtags=["input", "textarea", "select"]omitformtags=omitformtags.join("|")function disableselect(e){if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)return false}function reEnable(){return true}if (typeof document.onselectstart!="undefined")document.onselectstart=new Function ("return false")else{document.onmousedown=disableselectdocument.onmouseup=reEnable}</script>    
-```
+\`\`\`
 
 That’s all. When you use the javascript version of the code, everything will be protected and nothing can be highlighted. This is the best one if you don’t want to anything to be copied from your post or blogger blog. I hope you liked the easy tutorial. If you found any difficulty, be sure to contact me as soon.

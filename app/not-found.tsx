@@ -1,17 +1,11 @@
-"use client"
-
-import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Home, Search, ArrowLeft, Music, ImageIcon, Palette, BookOpen, Camera, Headphones } from "lucide-react"
 import Link from "next/link"
-import { useRouter } from "next/navigation"
 import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 
 export default function NotFound() {
-  const router = useRouter()
-
   const quickLinks = [
     {
       title: "Sample Packs",
@@ -63,43 +57,22 @@ export default function NotFound() {
 
       <main className="flex-1 flex items-center justify-center px-4 py-16">
         <div className="max-w-4xl mx-auto text-center">
-          {/* Animated 404 */}
-          <motion.div
-            initial={{ opacity: 0, scale: 0.5 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 0.8, ease: "easeOut" }}
-            className="mb-12"
-          >
+          {/* Static 404 */}
+          <div className="mb-12">
             <div className="relative">
               <h1 className="text-[8rem] md:text-[12rem] font-black text-muted-foreground/20 leading-none select-none">
                 404
               </h1>
-              <motion.div
-                animate={{
-                  rotate: [0, 10, -10, 0],
-                  scale: [1, 1.1, 1],
-                }}
-                transition={{
-                  duration: 2,
-                  repeat: Number.POSITIVE_INFINITY,
-                  repeatType: "reverse",
-                }}
-                className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
-              >
+              <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                 <div className="w-20 h-20 md:w-28 md:h-28 rounded-full bg-gradient-to-r from-[#fc3c44] to-[#ff6b6b] flex items-center justify-center shadow-2xl">
                   <Search className="w-10 h-10 md:w-14 md:h-14 text-white" />
                 </div>
-              </motion.div>
+              </div>
             </div>
-          </motion.div>
+          </div>
 
           {/* Content */}
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.3 }}
-            className="mb-16"
-          >
+          <div className="mb-16">
             <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6">Page Not Found</h2>
             <p className="text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
               The page you're looking for doesn't exist or has been moved. Let's get you back to creating amazing
@@ -108,9 +81,11 @@ export default function NotFound() {
 
             {/* Action Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-              <Button onClick={() => router.back()} size="lg" variant="outline" className="h-12 px-6">
-                <ArrowLeft className="w-5 h-5 mr-2" />
-                Go Back
+              <Button asChild size="lg" variant="outline" className="h-12 px-6">
+                <Link href="javascript:history.back()">
+                  <ArrowLeft className="w-5 h-5 mr-2" />
+                  Go Back
+                </Link>
               </Button>
               <Button
                 asChild
@@ -123,25 +98,14 @@ export default function NotFound() {
                 </Link>
               </Button>
             </div>
-          </motion.div>
+          </div>
 
           {/* Quick Links */}
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.6 }}
-          >
+          <div>
             <h3 className="text-2xl font-semibold text-foreground mb-8">Popular Destinations</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {quickLinks.map((link, index) => (
-                <motion.div
-                  key={link.href}
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.4, delay: 0.8 + index * 0.1 }}
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
+              {quickLinks.map((link) => (
+                <div key={link.href} className="transform hover:scale-105 transition-transform duration-300">
                   <Card className="p-6 hover:shadow-lg transition-all duration-300 group">
                     <Link href={link.href} className="block">
                       <div
@@ -153,25 +117,20 @@ export default function NotFound() {
                       <p className="text-muted-foreground text-sm">{link.description}</p>
                     </Link>
                   </Card>
-                </motion.div>
+                </div>
               ))}
             </div>
-          </motion.div>
+          </div>
 
           {/* Help Link */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.6, delay: 1.2 }}
-            className="mt-16 text-muted-foreground text-sm"
-          >
+          <div className="mt-16 text-muted-foreground text-sm">
             <p>
               Need help?{" "}
               <Link href="/support" className="text-[#fc3c44] hover:underline">
                 Contact Support
               </Link>
             </p>
-          </motion.div>
+          </div>
         </div>
       </main>
 

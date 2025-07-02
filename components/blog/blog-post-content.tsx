@@ -130,9 +130,6 @@ export function BlogPostContent({ content, post }: BlogPostContentProps) {
                 </code>
               )
             },
-            h1: ({ children }) => (
-              <h1 className="text-4xl md:text-5xl font-bold mb-8 text-white leading-tight">{children}</h1>
-            ),
             h2: ({ children }) => (
               <h2 className="text-3xl md:text-4xl font-bold mb-6 mt-12 text-white leading-tight">{children}</h2>
             ),

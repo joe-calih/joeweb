@@ -53,9 +53,9 @@ Google likes the schema presented on Vocabulary Schema Markup. The bellow is a s
 **Step 5.** Search for **]]></b:skin>**  
 **Step 6.** Just **ABOVE** the Above code, paste the CSS code below.
 
-```
+\`\`\`
 /* Blogger Breadcrumbs joecalih.co.ke */ .swtBreadCrumbs:before { content:"You are here:";font-size:  85%;letter-spacing: 2px;}.swtBreadCrumbs{width:auto;padding:0 0 5px  0;margin:0 5px;font-size:95%;border:2px solid  #EDE;-webkit-border-top-left-radius:  10px;-webkit-border-top-right-radius: 10px;-moz-border-radius-topleft:  10px;-moz-border-radius-topright: 10px;border-top-left-radius:  10px;border-top-right-radius: 10px;padding: 5px;text-align:  left;color:#000;background:#C3B9A8;background:-webkit-linear-gradient(top,#C3B9A8,#F3F1E6);background:-moz-linear-gradient(top,#C3B9A8,#F3F1E6);background:-ms-linear-gradient(top,#C3B9A8,#F3F1E6);background:-o-linear-gradient(top,#C3B9A8,#F3F1E6);background:linear-gradient(top,#C3B9A8,#F3F1E6);line-height:22px}
-```
+\`\`\`
 
 **Step 5.** Search for the below code by pasting it in the search box and press enter two times.
 
@@ -65,9 +65,9 @@ Google likes the schema presented on Vocabulary Schema Markup. The bellow is a s
 
 **Step 6.** Paste the below code just below the above code.
 
-```
+\`\`\`
 <b:if cond='data:blog.pageType == &quot;item&quot;'><div itemscope='' itemtype='http://data-vocabulary.org/Breadcrumb'><!--Breadcrumbs microdata markup joecalih.co.ke START. --><div class='swtBreadCrumbs'><a expr:href='data:blog.homepageUrl' itemprop='url' title='Home'><span itemprop='title'>Home</span></a>»<b:if cond='data:post.labels'><b:loop values='data:post.labels' var='label'><span typeof='v:breadcrumb'><a expr:href='data:label.url' itemprop='url' title='Categories' property='v:title' rel='v:url'><span itemprop='title'><data:label.name/></span></a></span><b:if cond='data:label.isLast != &quot;true&quot;'>|</b:if></b:loop></b:if>»<a expr:href='data:post.url' itemprop='url' title='Post Title'><span itemprop='title'><data:post.title/></span></a></div></div></b:if><!--Breadcrumbs microdata markup added by joecalih.co.ke --> 
-```
+\`\`\`
 
 ### 2. RDFA Breadcrumbs Markup Schema.
 
@@ -80,9 +80,9 @@ The following is the breadcrumbs RDFa schema. Follow the step-by-step lesson to 
 Step 5. Search for ]]></b:skin>  
 Step 6. Just ABOVE the Above code, paste the CSS code below.
 
-```
+\`\`\`
 .breadcrumbs {padding:5px 5px 5px 0px;margin: 0px 0px 15px 0px;font-size:90%;line-height: 1.4em;border-bottom:3px double #e6e4e3;font-weight:bold;}
-```
+\`\`\`
 
 **Step 7.** Now search for the following code.
 
@@ -102,8 +102,8 @@ In this case, it may also appear twice. As we said earlier, make sure you use th
 
 **Step 9.** **BELOW** the Above code paste the code below.
 
-```
+\`\`\`
 <b:includable id='breadcrumb' var='posts'><b:if cond='data:blog.homepageUrl != data:blog.url'><b:if cond='data:blog.pageType == "static_page"'><div class='breadcrumbs'><span><a  expr:href='data:blog.homepageUrl'  rel='tag'>Home</a></span> »  <span><data:blog.pageName/></span></div><b:else/><b:if cond='data:blog.pageType == "item"'><!– breadcrumb for the post page –><b:loop values='data:posts' var='post'><b:if cond='data:post.labels'><div class='breadcrumbs' xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a  expr:href='data:blog.homepageUrl' rel="v:url"  property="v:title">Home</a></span><b:loop values='data:post.labels' var='label'><b:if cond='data:label.isLast == "true"'>» <span typeof="v:Breadcrumb"><a expr:href='data:label.url'  rel="v:url"  property="v:title"><data:label.name/></a></span></b:if></b:loop>» <span><data:post.title/></span></div><b:else/><div class='breadcrumbs'><span><a  expr:href='data:blog.homepageUrl'  rel='tag'>Home</a></span> »  <span>Unlabelled</span> »  <span><data:post.title/></span></div></b:if></b:loop><b:else/><b:if cond='data:blog.pageType == "archive"'><!– breadcrumb for the label archive page and search pages.. –><div class='breadcrumbs'><span><a  expr:href='data:blog.homepageUrl'>Home</a></span> »  <span>Archives for <data:blog.pageName/></span></div><b:else/><b:if cond='data:blog.pageType == "index"'><div class='breadcrumbs'><b:if cond='data:blog.pageName == ""'><span><a expr:href='data:blog.homepageUrl'>Home</a></span> » <span>All posts</span><b:else/><span><a  expr:href='data:blog.homepageUrl'>Home</a></span> »  <span>Posts filed under <data:blog.pageName/></span></b:if></div></b:if></b:if></b:if></b:if></b:if></b:includable>
-```
+\`\`\`
 
 **Step 10.** Save Your Template code and wait for Google to crawl through your breadcrumbs.

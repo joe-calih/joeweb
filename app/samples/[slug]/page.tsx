@@ -1,211 +1,119 @@
-import type { Metadata } from "next"
-import fs from "fs"
-import path from "path"
-import matter from "gray-matter"
 import { notFound } from "next/navigation"
-import { generateMetadata as seoMetadata } from "@/components/seo/metadata"
-import { StructuredData } from "@/components/seo/structured-data"
+import { Suspense } from "react"
+import { getSampleBySlug, getAllSamples, getRelatedSamples } from "@/lib/samples"
+import { generateMetadata as generateSEOMetadata } from "@/components/seo/metadata"
+import { MusicAlbumSchema } from "@/components/seo/music-schema"
 import { SamplePackHeader } from "@/components/samples/sample-pack-header"
-import { SamplePackList } from "@/components/samples/sample-pack-list"
 import { SamplePackContent } from "@/components/samples/sample-pack-content"
 import { SamplePackRelated } from "@/components/samples/sample-pack-related"
 import { Breadcrumbs } from "@/components/layout/breadcrumbs"
+import type { Metadata } from "next"
 
-interface SamplePackData {
-  title: string
-  artist: string
-  slug: string
-  cover: string
-  genre: string
-  totalSamples: number
-  bpmRange: string
-  keySignatures: string[]
-  description: string
-  tags: string[]
-  price: string
-  releaseDate: string
-  duration: string
-  packSize: string
-}
-
-async function getSamplePackData(slug: string): Promise<{ data: SamplePackData; content: string } | null> {
-  try {
-    const filePath = path.join(process.cwd(), "content/samples", `${slug}.md`)
-    const fileContents = fs.readFileSync(filePath, "utf8")
-    const { data, content } = matter(fileContents)
-    return { data: data as SamplePackData, content }
-  } catch {
-    return null
+interface SamplePageProps {
+  params: {
+    slug: string
   }
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const samplePack = await getSamplePackData(params.slug)
+export async function generateStaticParams() {
+  const samples = getAllSamples()
+  return samples.map((sample) => ({
+    slug: sample.slug,
+  }))
+}
 
-  if (!samplePack) {
-    return seoMetadata({
+export async function generateMetadata({ params }: SamplePageProps): Promise<Metadata> {
+  const sample = getSampleBySlug(params.slug)
+
+  if (!sample) {
+    return {
       title: "Sample Pack Not Found",
       description: "The requested sample pack could not be found.",
-    })
+    }
   }
 
-  return seoMetadata({
-    title: `${samplePack.data.title} - ${samplePack.data.artist} | Premium Sample Pack`,
-    description: `${samplePack.data.description} Download high-quality ${samplePack.data.genre} samples, loops, and beats. ${samplePack.data.totalSamples} professional samples for music production.`,
+  return generateSEOMetadata({
+    title: `${sample.title} - Professional Sample Pack`,
+    description: `${sample.description} Download this professional ${sample.genre} sample pack. Created by ${sample.artist}.`,
     keywords: [
-      ...samplePack.data.tags,
+      sample.genre,
+      sample.mood || "music",
       "sample pack",
       "music production",
       "beats",
       "loops",
-      "royalty free samples",
-      samplePack.data.genre.toLowerCase(),
-      samplePack.data.artist.toLowerCase(),
-      "music samples download",
-      "producer tools",
-      "beat making",
-      "audio samples",
+      sample.artist,
     ],
-    url: `https://joecalih.co.ke/samples/${params.slug}`,
+    url: `https://joecalih.co.ke/samples/${sample.slug}`,
+    image: sample.coverImage || sample.cover || "/placeholder.svg?height=400&width=400",
+    type: "article",
+    author: sample.artist,
+    publishedTime: sample.releaseDate || new Date().toISOString(),
   })
 }
 
-export default async function SamplePackPage({ params }: { params: { slug: string } }) {
-  const samplePack = await getSamplePackData(params.slug)
+function SamplePageSkeleton() {
+  return (
+    <div className="min-h-screen bg-[#121212] text-white">
+      <div className="bg-[#1a1a1a] py-12">
+        <div className="max-w-[1200px] mx-auto px-4">
+          <div className="flex gap-8">
+            <div className="w-[35%] flex-shrink-0">
+              <div className="w-full aspect-square bg-gray-800 rounded-lg animate-pulse" />
+            </div>
+            <div className="flex-1 space-y-4">
+              <div className="h-8 bg-gray-800 rounded animate-pulse" />
+              <div className="h-4 bg-gray-800 rounded animate-pulse w-3/4" />
+              <div className="h-6 bg-gray-800 rounded animate-pulse w-1/2" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
 
-  if (!samplePack) {
+export default function SamplePage({ params }: SamplePageProps) {
+  const sample = getSampleBySlug(params.slug)
+  const relatedSamples = getRelatedSamples(params.slug)
+
+  if (!sample) {
     notFound()
-  }
-
-  // Parse samples from markdown content
-  const samples = parseSamplesFromContent(samplePack.content)
-
-  // Enhanced structured data for Google
-  const productSchema = {
-    "@type": "Product",
-    name: samplePack.data.title,
-    description: samplePack.data.description,
-    brand: {
-      "@type": "Brand",
-      name: "Joecalih",
-    },
-    manufacturer: {
-      "@type": "Organization",
-      name: samplePack.data.artist,
-    },
-    image: samplePack.data.cover,
-    offers: {
-      "@type": "Offer",
-      price: samplePack.data.price.replace("$", ""),
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      seller: {
-        "@type": "Organization",
-        name: "Joecalih",
-      },
-    },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "4.8",
-      reviewCount: "127",
-    },
-    category: "Music Sample Pack",
-    additionalProperty: [
-      {
-        "@type": "PropertyValue",
-        name: "Genre",
-        value: samplePack.data.genre,
-      },
-      {
-        "@type": "PropertyValue",
-        name: "Sample Count",
-        value: samplePack.data.totalSamples.toString(),
-      },
-      {
-        "@type": "PropertyValue",
-        name: "BPM Range",
-        value: samplePack.data.bpmRange,
-      },
-      {
-        "@type": "PropertyValue",
-        name: "Pack Size",
-        value: samplePack.data.packSize,
-      },
-    ],
-  }
-
-  const musicAlbumSchema = {
-    "@type": "MusicAlbum",
-    name: samplePack.data.title,
-    byArtist: {
-      "@type": "MusicGroup",
-      name: samplePack.data.artist,
-    },
-    datePublished: samplePack.data.releaseDate,
-    genre: samplePack.data.genre,
-    image: samplePack.data.cover,
-    numTracks: samplePack.data.totalSamples,
-    track: samples.map((sample, index) => ({
-      "@type": "MusicRecording",
-      name: sample.name,
-      position: index + 1,
-      duration: sample.duration,
-      byArtist: {
-        "@type": "MusicGroup",
-        name: samplePack.data.artist,
-      },
-    })),
   }
 
   return (
     <>
-      <StructuredData type="Product" data={productSchema} />
-      <StructuredData type="MusicAlbum" data={musicAlbumSchema} />
+      <MusicAlbumSchema
+        name={sample.title}
+        artist={sample.artist}
+        description={sample.description}
+        image={sample.coverImage}
+        datePublished={sample.releaseDate}
+        genre={sample.genre}
+        tracks={sample.samples}
+        url={`https://joecalih.co.ke/samples/${sample.slug}`}
+      />
 
       <div className="min-h-screen bg-[#121212] text-white">
         <Breadcrumbs />
 
-        <div className="max-w-[1200px] mx-auto px-4 py-8 space-y-16">
-          <SamplePackHeader samplePack={samplePack.data} />
-          <SamplePackList samples={samples} />
-          <SamplePackContent samplePack={samplePack.data} />
-          <SamplePackRelated />
+        <Suspense fallback={<SamplePageSkeleton />}>
+          <SamplePackHeader samplePack={sample} />
+        </Suspense>
+
+        <div className="bg-[#121212] py-12">
+          <div className="max-w-[1200px] mx-auto px-4">
+            <SamplePackContent sample={sample} />
+          </div>
         </div>
+
+        <Suspense fallback={<div className="h-96 bg-gray-800 animate-pulse" />}>
+          <SamplePackRelated samples={relatedSamples} currentSampleSlug={sample.slug} />
+        </Suspense>
       </div>
     </>
   )
 }
 
-function parseSamplesFromContent(content: string) {
-  const samples: Array<{
-    name: string
-    duration: string
-    bpm: string
-    key: string
-    type: string
-    category: string
-  }> = []
-
-  const lines = content.split("\n")
-  let currentCategory = ""
-
-  for (const line of lines) {
-    if (line.startsWith("### ")) {
-      currentCategory = line.replace("### ", "")
-    } else if (line.startsWith("- **")) {
-      const match = line.match(/- \*\*(.*?)\*\* - Duration: (.*?) - (?:BPM: (.*?) - )?(?:Key: (.*?) - )?Type: (.*?)$/)
-      if (match) {
-        samples.push({
-          name: match[1],
-          duration: match[2],
-          bpm: match[3] || "",
-          key: match[4] || "",
-          type: match[5],
-          category: currentCategory,
-        })
-      }
-    }
-  }
-
-  return samples
-}
+export const dynamic = "force-static"
+export const revalidate = 3600

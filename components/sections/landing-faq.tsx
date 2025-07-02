@@ -39,16 +39,16 @@ const faqs = [
 
 export function LandingFAQ() {
   return (
-    <Section background="dark">
+    <Section background="dark" verticalPadding="sm">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
         viewport={{ once: true }}
-        className="text-center mb-16"
+        className="text-center mb-8"
       >
-        <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Frequently Asked Questions</h2>
-        <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+        <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">Frequently Asked Questions</h2>
+        <p className="text-lg text-gray-400 max-w-3xl mx-auto">
           Get answers to the most common questions about our platform and services
         </p>
       </motion.div>
@@ -60,9 +60,9 @@ export function LandingFAQ() {
         viewport={{ once: true }}
         className="max-w-4xl mx-auto"
       >
-        <Accordion type="single" collapsible className="space-y-4">
+        <Accordion type="single" collapsible className="space-y-2">
           {faqs.map((faq, index) => (
-            <AccordionItem key={index} value={`item-${index}`} className="bg-[#1a1a1a] border-[#333] rounded-lg px-6">
+            <AccordionItem key={index} value={`item-${index}`} className="bg-[#1a1a1a] border-[#333] rounded-lg px-4">
               <AccordionTrigger className="text-white hover:text-[#fc3c44] text-left">{faq.question}</AccordionTrigger>
               <AccordionContent className="text-gray-400 leading-relaxed">{faq.answer}</AccordionContent>
             </AccordionItem>

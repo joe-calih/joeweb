@@ -47,18 +47,18 @@ Content is the main keyword utilization area that you should use always to get r
 3.  Go to **"Template" >>****"Edit HTML"**.
 4.  And find (Ctrl+F) the following code,
 
-```
+\`\`\`
 <b:include data=’blog’ name=’all-head-content’/>
-```
+\`\`\`
 
 5.  Paste the following codes below the above code.
 
-```
+\`\`\`
 <b:if cond='data:blog.url == "PAGE-URL"'>
 <meta content='PAGE-DESCRIPTION' name='description'/>
 <meta content='PAGE-KEYWORDS' name='keywords'/>
 </b:if>
-```
+\`\`\`
 
 6.  Now you have to paste the above code whenever you post new posts. If you have 50 posts, you should copy and paste the above code 50 times too.
 7.  Click on the **"Save Template"** button.

@@ -7,36 +7,40 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const features = [
   {
-    icon: BarChart3,
-    title: "Advanced Analytics",
+    icon: Zap,
+    title: "Professional LUTs",
     description:
-      "Get detailed insights into your music performance, audience demographics, and streaming patterns across all platforms.",
+      "Transform your videos with our collection of cinematic color grading LUTs. From vintage film looks to modern cinematic styles.",
   },
   {
-    icon: Globe,
-    title: "Global Distribution",
+    icon: BarChart3,
+    title: "Lightroom Presets",
     description:
-      "Distribute your music to 150+ streaming platforms worldwide including Spotify, Apple Music, and YouTube Music.",
+      "Enhance your photography with our professionally crafted Lightroom presets. Perfect for portraits, landscapes, and creative editing.",
   },
   {
     icon: Headphones,
-    title: "Professional Mastering",
-    description: "AI-powered mastering tools to ensure your tracks sound professional and radio-ready.",
-  },
-  {
-    icon: Shield,
-    title: "Rights Protection",
-    description: "Protect your intellectual property with our comprehensive copyright and royalty management system.",
-  },
-  {
-    icon: Zap,
-    title: "Instant Releases",
-    description: "Release your music instantly to all major platforms with our lightning-fast distribution network.",
+    title: "Sample Packs",
+    description:
+      "High-quality music samples and loops across Afro House genres. Perfect for producers and musicians looking for inspiration.",
   },
   {
     icon: Users,
-    title: "Fan Engagement",
-    description: "Connect with your audience through our integrated social tools and fan engagement features.",
+    title: "Creative Lessons",
+    description:
+      "Learn photography, music production, and video editing through our comprehensive tutorials and educational content.",
+  },
+  {
+    icon: Globe,
+    title: "Digital Resources",
+    description:
+      "Access a vast library of creative assets including graphics, templates, and tools to enhance your creative projects.",
+  },
+  {
+    icon: Shield,
+    title: "Quality Guaranteed",
+    description:
+      "All our resources are professionally created and tested to ensure the highest quality for your creative work.",
   },
 ]
 
@@ -52,7 +56,7 @@ export function HomeFeatures() {
       >
         <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Everything You Need to Succeed</h2>
         <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-          Our comprehensive platform provides all the tools and insights you need to grow your music career
+          Discover our comprehensive collection of creative resources
         </p>
       </motion.div>
 

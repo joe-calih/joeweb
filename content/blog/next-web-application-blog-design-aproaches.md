@@ -64,34 +64,34 @@ Here’s a **comprehensive breakdown** of all the best approaches, methodologies
    - Use Markdown (`.md`) for content storage  
 
 2. **Set Up Next.js with TypeScript:**  
-   ```sh
+   \`\`\`sh
    npx create-next-app@latest my-blog --typescript
    cd my-blog && npm install
-   ```
+   \`\`\`
 
 3. **Style with Tailwind + Shadcn UI:**  
-   ```sh
+   \`\`\`sh
    npm install tailwindcss postcss autoprefixer
    npx tailwindcss init -p
-   ```
+   \`\`\`
 
 4. **Enable Markdown Rendering:**  
-   ```sh
+   \`\`\`sh
    npm install remark remark-html rehype rehype-stringify
-   ```
+   \`\`\`
 
 5. **Integrate Database (Supabase for free!)**  
-   ```sh
+   \`\`\`sh
    npm install @supabase/supabase-js
-   ```
+   \`\`\`
 
 6. **Optimize SEO with Next.js Metadata API**  
    - Add Open Graph, Twitter Cards, Schema.org metadata  
 
 7. **Deploy on Vercel**  
-   ```sh
+   \`\`\`sh
    vercel
-   ```
+   \`\`\`
 
 ---
 

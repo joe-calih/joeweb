@@ -1,9 +1,8 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { Calendar, Clock, Eye, ArrowRight } from "lucide-react"
+import { Calendar, Clock, ArrowRight } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
 import Link from "next/link"
 import type { BlogPost } from "@/lib/blog"
 
@@ -44,15 +43,6 @@ export function BlogRelatedPosts({ posts }: BlogRelatedPostsProps) {
                       className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-                    <div className="absolute top-4 left-4">
-                      <Badge className="bg-[#fc3c44] text-white hover:bg-[#fc3c44]">{post.category}</Badge>
-                    </div>
-                    <div className="absolute bottom-4 right-4 flex items-center gap-4 text-white/80 text-sm">
-                      <div className="flex items-center gap-1">
-                        <Eye className="w-4 h-4" />
-                        <span>{post.views.toLocaleString()}</span>
-                      </div>
-                    </div>
                   </div>
 
                   <CardContent className="p-6">
@@ -73,20 +63,9 @@ export function BlogRelatedPosts({ posts }: BlogRelatedPostsProps) {
 
                     <p className="text-gray-400 mb-4 line-clamp-2 leading-relaxed text-sm">{post.excerpt}</p>
 
-                    <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-3">
-                        <img
-                          src={post.author.avatar || "/placeholder.svg?height=32&width=32"}
-                          alt={post.author.name}
-                          className="w-8 h-8 rounded-full border border-[#333]"
-                        />
-                        <span className="text-gray-400 text-sm">{post.author.name}</span>
-                      </div>
-
-                      <div className="flex items-center text-[#fc3c44] font-medium group-hover:text-white transition-colors text-sm">
-                        Read More
-                        <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
-                      </div>
+                    <div className="flex items-center text-[#fc3c44] font-medium group-hover:text-white transition-colors text-sm">
+                      Read More
+                      <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
                     </div>
                   </CardContent>
                 </Card>

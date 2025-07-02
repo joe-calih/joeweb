@@ -14,7 +14,7 @@ views: 5432
 
 This is the all-in-one SEO pack for Blogger that resembles Yoast SEO Code in WordPress. After the application of the above, you are guaranteed better search results for your website. You will enhance your [blogger](http://blogger.com/) search engine optimization later with Schema markup data for rich search results. Add the code from the beginning to where your template CSS starts.
 
-```
+\`\`\`
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
@@ -108,7 +108,7 @@ This is the all-in-one SEO pack for Blogger that resembles Yoast SEO Code in Wor
 <meta content='#1c1b1f' name='msapplication-navbutton-color'/>
 <meta content='yes' name='apple-mobile-web-app-capable'/>
 <meta content='#1c1b1f' name='apple-mobile-web-app-status-bar-style'/>
-```
+\`\`\`
 
 That's The code that will make your blogger website SEO-optimized. Change the colors and other details as indicated in X signs. The code is optimized for all purposes and created for marketing purposes. There are meta tags, status bar colors, and Facebook and Twitter cards. The code comprises language meta tags, meta description declarations, and canonical tags.
 

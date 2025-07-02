@@ -38,9 +38,9 @@ Step 6. After finding the Head Tag Copy all the code BELOW and Paste it BEFORE t
 
 **CODE**
 
-```
+\`\`\`
 <style> .techornate-social-buttons  ul{padding-left:0;list-style:none}.techornate-social-buttons li  a{text-transform:uppercase;text-decoration:none;padding:10px 1px 10px  10px;letter-spacing:2px;font-size:10px;color:#fff;display:block;border-radius:3px}.techornate-social-buttons  ul li{margin-bottom:10px;width:100%}.techornate-social-buttons li a  i{width:35px;height:14px;float:right;padding:0 0 0  10px;margin:0;font-size:14px;line-height:14px;border-left:1px solid  #B1B1B1}.techornate-social-buttons li  a.social-btn-facebook{background:#3b5998}.techornate-social-buttons li  a.social-btn-twitter{background:#1da1f2}.techornate-social-buttons li  a.social-btn-youtube{background:#cd201f}.techornate-social-buttons li  a.social-btn-instagram{background:#405de6}.techornate-social-buttons li  a.social-btn-google{background:#dd4b39} </style> <div class="techornate-social-buttons"> <ul class="sidebar-social clearfix"> <li><a href="#" class="social-btn-facebook">Like on Facebook <i class="fa fa-facebook"></i> </a></li> <li><a href="#" class="social-btn-twitter">Follow on Twitter <i class="fa fa-twitter"></i> </a></li> <li><a href="#" class="social-btn-google">Follow on Google+ <i class="fa fa-google"></i> </a></li> <li><a href="#" class="social-btn-instagram">Follow on Instagram <i class="fa fa-instagram"></i> </a></li> <li><a href="#" class="social-btn-youtube">Subscribe on Youtube <i class="fa fa-youtube"></i> </a></li> </ul>
-```
+\`\`\`
 
 **POINT NOTE:** You will have to replace the **” # “** character with your social media link URL for redirection from your template to the URL pages. This particular widget is an eye-catching one for your web page visitors.  
 It can generate lots of followers on Instagram, page followers on Facebook, and more subscribers for your Youtube channel. Do you want more followers? then use this as a sidebar widget for every page of your website and you will like the experience.
@@ -51,9 +51,9 @@ It can generate lots of followers on Instagram, page followers on Facebook, and 
 
 **CODE**
 
-```
+\`\`\`
 <style> .s-text strong,.social-counter{font-weight:900}.techornate-socials  a{display:block;color:#fff;padding:12px  15px;position:relative;margin-bottom:5px;text-decoration:none}.techornate-socials  a span,.techornate-socials  a:before{z-index:2;position:relative}.social-counter{position:absolute;font-size:14px;line-height:1;padding-top:4px}.s-text{float:right}.techornate-socials  a:after{content:"  ";height:100%;width:0;top:0;left:0;position:absolute;background:#252b42;z-index:1}.fa-facebook:before,.fa-subscribe:before,.fa-twitter:before{display:inline-block;width:16px;font-family:FontAwesome;margin-right:10px;padding-right:10px;font-size:18px;border-right:1px  solid  rgba(255,255,255,.3)}.fa-facebook{background:#1c3e67}.fa-facebook:before{content:"f09a"}.fa-twitter{background:#28a6c5}.fa-twitter:before{content:"f099"}.fa-subscribe{background:#d2002c}.fa-subscribe:before{content:"f167"} </style> <div class="techornate-socials"> <a target="_blank" href="#" class="fa-facebook"><span class="social-counter">146,200</span><span class="s-text">Follow us on <strong>Facebook</strong></span></a> <a target="_blank" href="#" class="fa-twitter"><span class="social-counter">50,748</span><span class="s-text">Follow us on <strong>Twitter</strong></span></a> <a target="_blank" href="#" class="fa-subscribe"><span class="social-counter">33,175</span><span class="s-text">Subscribe us on <strong>YouTube</strong></span></a> <div class="clear"></div> </div>
-```
+\`\`\`
 
 **POINT NOTE:** You will have to replace the **” # “** character with your social media link URL for redirection from your template to the URL pages.  
 Also, change the **GREEN** highlighted number to your social amount of followers so it can replace the customs number put in the code. After changing the number the social widget will change to the customer number and not exactly the number of followers you have on the social media platforms.  
@@ -65,9 +65,9 @@ This social media is like a simple all-in-one place that is like ” hey you, ju
 
 **CODE**
 
-```
+\`\`\`
 <style> ul.techornate-social-share{padding:0;margin:0;overflow:hidden}ul.techornate-social-share   li{list-style:none;float:left;margin-right:4%;width:48%;margin-bottom:10px;background:#fafafa;overflow:hidden}ul.techornate-social-share  li  a{text-decoration:none;display:inline-block;float:left;color:#fff;height:40px;width:40px;text-align:center;font-size:14px;line-height:40px;margin-right:16px;position:relative;transition:all  .2s ease-in-out;-webkit-transition:all .2s  ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s  ease-in-out}ul.techornate-social-share li  a:after{height:0;width:0;top:50%;left:100%;content:'';margin-top:-4px;position:absolute}ul.techornate-social-share  li a.facebook{background:#436feb}ul.techornate-social-share li  a.facebook:after{border:4px solid  #436feb;border-top-color:transparent;border-bottom-color:transparent;border-right-color:transparent}ul.techornate-social-share  li a.twitter{background:#43c9eb}ul.techornate-social-share li  a.twitter:after{border:4px solid  #43c9eb;border-top-color:transparent;border-bottom-color:transparent;border-right-color:transparent}ul.techornate-social-share  li a.google{background:#f14133}ul.techornate-social-share li  a.google:after{border:4px solid  #f14133;border-top-color:transparent;border-bottom-color:transparent;border-right-color:transparent}ul.techornate-social-share  li a.youtube{background:#b00}ul.techornate-social-share li  a.youtube:after{border:4px solid  #b00;border-top-color:transparent;border-bottom-color:transparent;border-right-color:transparent}ul.techornate-social-share  li a:hover{opacity:.7}ul.techornate-social-share li  span{font-size:12px;margin:0;line-height:15px;color:#999;font-weight:700;display:block}ul.techornate-social-share  li  span.scount-number{margin-top:5px;color:#333}ul.techornate-social-share  li:nth-child(2n){margin-right:0} </style> <ul class="techornate-social-share"> <li> <a href="#" class="facebook"><i class="fa fa-facebook"></i></a> <span class="scount-number">44,143</span> <span>Fans</span></li> <li> <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> <span class="scount-number">39,505</span> <span>Followers</span></li> <li> <a href="#" class="google"><i class="fa fa-google-plus"></i></a> <span class="scount-number">25,203</span> <span>Followers</span></li> <li> <a href="#" class="youtube"><i class="fa fa-youtube"></i></a><span class="scount-number">7,456</span> <span>Subscribers</span></li> </ul>
-```
+\`\`\`
 
 **POINT NOTE:** You will have to replace the **” # “** character with your social media link URL for redirection from your template to the URL pages.  
 Also, change the **GREEN** numbers in the code to the number of followers you have on the particular social media platform to match. In case you input any number the number is the one that is going to reflect in the widgets custom.  
@@ -79,9 +79,9 @@ You guys are so privileged that I decided to give out this one. I have kept it f
 
 **CODE**
 
-```
+\`\`\`
 <style> .to-social-follow{width:300px;padding:10px;margin:0}.to-social-follow  .fa{font-size:18px;padding:16px;text-align:center;margin:5px  2px;width:20%;text-decoration:none;color:#fff}.to-social-follow  .fa:hover{opacity:.7}.to-social-follow  .fa-facebook{background:#3B5998}.to-social-follow  .fa-twitter{background:#55ACEE}.to-social-follow  .fa-google{background:#dd4b39}.to-social-follow  .fa-linkedin{background:#007bb5}.to-social-follow  .fa-youtube{background:#b00}.to-social-follow  .fa-instagram{background:#125688}.to-social-follow  .fa-pinterest{background:#cb2027} </style> <div class="to-social-follow"> <a href="#" class="fa fa-facebook" target="_blank"></a> <a href="#" class="fa fa-twitter" target="_blank"></a> <a href="#" class="fa fa-google" target="_blank"></a> <a href="#" class="fa fa-linkedin" target="_blank"></a> <a href="#" class="fa fa-youtube" target="_blank"></a> <a href="#" class="fa fa-pinterest" target="_blank"></a> </div>
-```
+\`\`\`
 
 **POINT NOTE:** You will have to replace the **” # “** character with your social media link URL for redirection from your template to the URL pages.  
 stylish social media icon. Made by Graham. Very clean and very convenient social media add-ons for especially those with large numbers following them on different social media platforms. This can help them make the audience notice that the blog is from a famous person and can learn from his experience as I see it. very appealing.
@@ -92,9 +92,9 @@ stylish social media icon. Made by Graham. Very clean and very convenient social
 
 **CODE**
 
-```
+\`\`\`
 <style> ul.techornate-follow-buttons  a:hover{color:#03c9a9}.techornate-follow-buttons.b-title  li{text-align:center;background-color:#fff;width:31.5%;border:1px solid  #eee}.techornate-follow-buttons.b-title  a{text-transform:uppercase;text-decoration:none;margin:20px auto  0;font-size:10px}.techornate-follow-buttons  li{display:inline-block;padding:0 0  7px;margin-bottom:3px!important}.techornate-follow-buttons  li:last-child{border-bottom:1px solid  #eee!important;padding-bottom:7px!important}.techornate-follow-buttons.b-title  i{margin:0 auto 10px;display:block}.techornate-follow-buttons.style-1  i{height:32px;width:32px;line-height:32px;font-size:20px;margin:10px  auto 0;text-align:center;color:#333} </style> <ul class='techornate-follow-buttons style-1 b-title'> <li><a href='#'><i class="fa fa-facebook"></i>facebook</a></li> <li><a href='#'><i class="fa fa-twitter"></i>twitter</a></li> <li><a href='#'><i class="fa fa-google"></i>google +</a></li> <li><a href='#'><i class="fa fa-pinterest"></i>pinterest</a></li> <li><a href='#'><i class="fa fa-linkedin"></i>linkedin</a></li> <li><a href='#'><i class="fa fa-instagram"></i>instagram</a></li> </ul>
-```
+\`\`\`
 
 **  
 POINT NOTE:** You will have to replace the **” # “** character with your social media link URL for redirection from your template to the URL pages.  

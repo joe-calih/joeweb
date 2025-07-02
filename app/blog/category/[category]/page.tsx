@@ -30,10 +30,25 @@ export async function generateMetadata({ params }: { params: { category: string 
 }
 
 export async function generateStaticParams() {
-  const categories = getBlogCategories()
-  return categories.map((category) => ({
-    category: category.toLowerCase().replace(/\s+/g, "-"),
-  }))
+  try {
+    const categories = getBlogCategories()
+    return categories
+      .filter((category) => category && category.name && typeof category.name === "string")
+      .map((category) => ({
+        category: category.name.toLowerCase().replace(/\s+/g, "-"),
+      }))
+  } catch (error) {
+    console.error("Error generating static params:", error)
+    // Return default categories if there's an error
+    return [
+      { category: "marketing" },
+      { category: "seo" },
+      { category: "content-creation" },
+      { category: "digital-transformation" },
+      { category: "ai-technology" },
+      { category: "business" },
+    ]
+  }
 }
 
 export default function CategoryPage({ params }: { params: { category: string } }) {
@@ -42,11 +57,14 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
   const allPosts = getAllBlogPosts()
   const categoryPosts = allPosts.filter(
-    (post) => post.category.toLowerCase().replace(/\s+/g, "-") === category.toLowerCase(),
+    (post) =>
+      post.category &&
+      typeof post.category === "string" &&
+      post.category.toLowerCase().replace(/\s+/g, "-") === category.toLowerCase(),
   )
 
   // Get featured post (most viewed)
-  const featuredPost = [...categoryPosts].sort((a, b) => b.views - a.views)[0]
+  const featuredPost = [...categoryPosts].sort((a, b) => (b.views || 0) - (a.views || 0))[0]
 
   // Get remaining posts for the grid (4 per subcategory)
   const remainingPosts = categoryPosts.filter((post) => post.slug !== featuredPost?.slug)
@@ -55,7 +73,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const subcategories: Record<string, typeof remainingPosts> = {}
 
   remainingPosts.forEach((post) => {
-    const subcategory = post.subcategory || "General"
+    const subcategory = post.subcategory && typeof post.subcategory === "string" ? post.subcategory : "General"
     if (!subcategories[subcategory]) {
       subcategories[subcategory] = []
     }
@@ -138,7 +156,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
                     <span className="mx-2">•</span>
                     <span>{featuredPost.readTime}</span>
                     <span className="mx-2">•</span>
-                    <span>{featuredPost.views.toLocaleString()} views</span>
+                    <span>{(featuredPost.views || 0).toLocaleString()} views</span>
                   </div>
                   <Link href={`/blog/${featuredPost.slug}`}>
                     <Button className="bg-[#fc3c44] hover:bg-[#fc3c44]/90 text-white">Read Article</Button>

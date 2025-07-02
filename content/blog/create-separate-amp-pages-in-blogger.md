@@ -34,9 +34,9 @@ After finding the code shown above, then add the BELOW code to the one you have 
 **Step 2.**  
 Now search for the code </head> and add the code BELOW just Above the </head tag.
 
-```
+\`\`\`
 <b:if cond='data:blog.pageType not in  {&quot;static_page&quot;,&quot;error_page&quot;} and  data:blog.isMobileRequest == &quot;true&quot; and not  data:blog.searchQuery'>https://cdn.ampproject.org/v0/amp-ad-0.1.js</b:if>
-```
+\`\`\`
 
 The Orange words with XXXX show the specific place where you will paste your Adsense code. That will be used to show ads on your AMP pages so you can obtain revenue from the AMP pages still.
 

@@ -33,9 +33,9 @@ Bloggers that are providing articles for educational purposes have a great oppor
 **Step 7.** Again Search The Code **<b:if cond=’data:post.title’>**  
 **Step 8.** Add the name and URL itemprop accordingly by replacing the **above** code with the **Below** codes.
 
-```
+\`\`\`
 <b:if cond='data:post.title'><h1 class='post-title entry-title' itemprop='name'><b:if cond='data:post.link'><a expr:href='data:post.link' itemprop='url'><data:post.title/></a><b:else/><b:if cond='data:post.url'><b:if cond='data:blog.url != data:post.url'><a expr:href='data:post.url' itemprop='url'><data:post.title/>
-```
+\`\`\`
 
 That’s all, now save your theme template.  
 Now you have to test your website for the article schema markup to make sure your markup doesn’t have any eras. To do so just push the bellow button and input any URL of a post to test your markup.

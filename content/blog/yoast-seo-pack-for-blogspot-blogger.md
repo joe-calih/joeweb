@@ -24,9 +24,9 @@ All the above SEO activities in Blogger are well. You don’t have to waste time
 
 The below SEO Code is the one we are seeking and talking about.
 
-```
+\`\`\`
 <!-- Yoast SEO Semdeals.com Start --><b:if cond='data:blog.pageType == &quot;index&quot;'><title><data:blog.pageTitle/></title><b:else/><title><data:blog.pageName/> - <data:blog.title/></title></b:if><b:if cond='data:blog.metaDescription != &quot;&quot;'><meta expr:content='data:blog.metaDescription' name='description'/></b:if><b:if cond='data:blog.pageType == &quot;archive&quot;'><meta content='noindex, nofollow' name='robots'/><b:else/><b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.url == data:blog.homepageUrl'><meta expr:content='data:blog.title' name='keywords'/><meta content='index, follow' name='robots'/></b:if><b:else/><b:if cond='data:blog.pageTitle != data:blog.title'><meta expr:content='data:blog.pageName' name='keywords'/></b:if></b:if><b:if cond='data:blog.pageType == &quot;item&quot;'><meta content='article' property='og:type'/><meta expr:content='data:blog.title' property='og:site_name'/><meta expr:content='data:blog.pageName' property='og:title'/></b:if><b:if cond='data:blog.postImageThumbnailUrl'><meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/></b:if><meta content=’GOOGLE VERIFICATION CODE‘ name=’google-site-verification’/><meta content=’BING VERIFICATION CODE’ name=’msvalidate.01’/><meta content=’ALEXA VERIFICATION CODE‘ name=’alexaVerifyID’/><meta content='global' name='distribution'/><meta content='1 days' name='revisit'/><meta content='1 days' name='revisit-after'/><meta content='document' name='resource-type'/><meta content='all' name='audience'/><meta content='general' name='rating'/><meta content='all' name='robots'/><meta content='en-us' name='language'/><meta content='USA' name='country'/><meta content='@twitter.com/semdeals' name='twitter:site'/><meta content='@semdeals' name='twitter:creator'/><meta content='Calih Vevo' name='author'/><meta content='seorunk@gmail.com' name='email'/><link href='https://plus.google.com/112260880382697037857' rel='publisher'/
-```
+\`\`\`
 
 ## Features Of All In One SEO For Blogger Blog.
 

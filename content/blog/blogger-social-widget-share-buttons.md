@@ -26,7 +26,7 @@ Step 5. In the search bar search for the ]]></b:skin> tag.
 Step 6. After finding the Head Tag Copy all the code BELOW and Paste it BEFORE the above tag.  
 **CSS Code**
 
-```
+\`\`\`
 /* Social Buttons joecalih.co.ke */
 .post_social_share {
 display: block;
@@ -77,7 +77,7 @@ transition:border-color .2s
 }
 .share_this_content i{font-size:14px;}
 .share_this_content i.fa.fa-facebook,.share_this_content i.fa.fa-twitter{margin-right:5px;}
-```
+\`\`\`
 
 That's all with the CSS part, now let's move to the HTML part.
 
@@ -93,7 +93,7 @@ Follow the steps below to know where you will paste your codes.
 6. After finding the Head Tag Copy all the code BELOW and Paste it BEFORE the above tag.  
 **HTML Code.**
 
-```
+\`\`\`
  <div class='post_social_share'><div class='share_this_content'><a class='social_share fb' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><i class='fa fa-facebook'/> Share on Facebook</a>
       <a class='social_share tw' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><i class='fa fa-twitter'/> Share on Twitter</a>
       <a class='social_share gp' expr:href='&quot;https://plus.google.com/share?url=&quot; + data:post.url' onclick='javascript:window.open(this.href,   &quot;&quot;, &quot;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600&quot;);return false;' rel='nofollow' title='Share this on Google+'><i class='fa fa-google-plus'/></a>
@@ -103,7 +103,7 @@ Follow the steps below to know where you will paste your codes.
       <a class='social_share em' expr:href='data:post.sharePostUrl + &quot;&amp;target=pinterest&quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'><i class='fa fa-envelope-o'/></a>
     </div>
 </div>
-```
+\`\`\`
 
 That's all with the above social media widget, it's a simple implementation method. Refresh and your social share buttons will display below the title of the post body. If you want to add the blogger share buttons below the post then search the code **<div class='post-footer** and paste the HTML Code below it. That's all and thank you for learning this tutorial. I hope was of great assistance, contact me for more support.
 
