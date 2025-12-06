@@ -60,7 +60,7 @@ Sucuri Security is a security plugin that protects your website from malware, ha
 
 UpdraftPlus is a backup plugin that allows you to schedule automatic backups of your website. It supports remote storage options such as Dropbox and Google Drive, ensuring that your site's data is always safe and secure.
 
-
+<div><a href="https://businessfirms.co/company/joecalih-photography-thika" target="_blank"><img height="220" width="200" alt="company widget" src="https://businessfirms.co/images/bfirms-certified.png" /></a></div>
 
 **Conclusion**
 
