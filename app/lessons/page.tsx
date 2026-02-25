@@ -11,7 +11,7 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Learn from industry experts with our structured courses in photography, music production, and creative skills. Professional lessons for all skill levels.",
   keywords: ["professional lessons", "online courses", "photography", "music production", "creative education"],
-  url: "https://joecalih.co.ke/lessons",
+  url: "https://joecalih.com/lessons",
 })
 
 const lessonsSchema = {
@@ -21,7 +21,7 @@ const lessonsSchema = {
   provider: {
     "@type": "Organization",
     name: "Joecalih",
-    url: "https://joecalih.co.ke",
+    url: "https://joecalih.com",
   },
 }
 
