@@ -17,20 +17,20 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Discover music, sample packs, vocals, presets, LUTs, and graphic resources. Your one-stop destination for creative content and inspiration.",
   keywords: ["music", "sample packs", "vocals", "presets", "LUTs", "graphic resources", "creative content", "blog"],
-  url: "https://joecalih.co.ke",
+  url: "https://joecalih.com",
 })
 
 const updatedOrganizationSchema = {
   ...organizationSchema,
   name: "Joecalih",
-  url: "https://joecalih.co.ke",
+  url: "https://joecalih.com",
   description: "Creative resources hub for music, visuals, and educational content",
 }
 
 const updatedWebsiteSchema = {
   ...websiteSchema,
   name: "Joecalih",
-  url: "https://joecalih.co.ke",
+  url: "https://joecalih.com",
   description: "Creative resources hub for music, visuals, and educational content",
 }
 
