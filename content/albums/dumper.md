@@ -1,15 +1,15 @@
 ---
-title: "Live at Studio"
-artist: "Maya Patel"
-slug: "live-at-studio"
-cover: "/placeholder.svg?height=400&width=400"
+title: "Dumper"
+artist: "Joecalih"
+slug: "Dumper"
+cover: "/albums/Dumper.jpg?height=400&width=400"
 releaseDate: "2024-05-12"
-genre: "World Music"
-label: "Global Sounds"
-producer: "Live Recording"
+genre: "Afro House"
+label: "Joecalih"
+producer: "Joecalih"
 totalTracks: 8
 duration: "42:15"
-description: "An intimate live recording showcasing Maya's incredible vocal range and mastery of traditional and contemporary world music. Featuring traditional instruments from around the globe."
+description: "An intimate Joecalih showcasing Maya's incredible vocal range and mastery of traditional and contemporary world music. Featuring traditional instruments from around the globe."
 price: "$12.99"
 streamingLinks:
   spotify: "https://open.spotify.com/album/live-at-studio"
