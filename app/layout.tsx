@@ -74,8 +74,8 @@ export const metadata: Metadata = {
     images: ["https://joecalih.com/twitter-image.jpg"],
   },
   verification: {
-    google: "LSRpF_oK5HgGFFqiwtIxtl_EZV-0VbcvCkvIrncY-hM",
-    yandex: "e8c5015c48a5adb4",
+    google: "ESWDcccmiayAQw-C3Q3HOdjwcBhLzMp4mdQCSk6OmU4",
+    yandex: "38d515b533b9d65d",
     yahoo: "YAHOO_VERIFICATION_CODE_HERE",
     other: {
       "msvalidate.01": "66D54DB1A92E531DE760D7B860BD9849",
@@ -95,7 +95,7 @@ export default function RootLayout({
         {/* Additional verification meta tags */}
         <meta name="google-site-verification" content="ESWDcccmiayAQw-C3Q3HOdjwcBhLzMp4mdQCSk6OmU4" />
         <meta name="msvalidate.01" content="66D54DB1A92E531DE760D7B860BD9849" />
-        <meta name="yandex-verification" content="e8c5015c48a5adb4" />
+        <meta name="yandex-verification" content="38d515b533b9d65d" />
         <meta name="p:domain_verify" content="7aea570bfdd6e651a594a46fff06247e" />
 
         {/* Additional SEO meta tags */}
@@ -133,7 +133,7 @@ export default function RootLayout({
               ],
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+254-XXX-XXXX",
+                telephone: "+254-7177-1900",
                 contactType: "customer service",
                 availableLanguage: "English",
               },
