@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "creative support",
     "24/7 support",
   ],
-  url: "https://joecalih.co.ke/support",
+  url: "https://joecalih.com/support",
   type: "website",
 })
 
