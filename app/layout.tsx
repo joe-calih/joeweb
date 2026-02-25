@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://joecalih.co.ke"),
+  metadataBase: new URL("https://joecalih.com"),
   alternates: {
     canonical: "/",
     languages: {
@@ -35,11 +35,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Joecalih - Creative Resources Hub",
     description: "Professional creative resources, music samples, presets, and tutorials",
-    url: "https://joecalih.co.ke",
+    url: "https://joecalih.com",
     siteName: "Joecalih",
     images: [
       {
-        url: "https://joecalih.co.ke/og-image.jpg",
+        url: "https://joecalih.com/og-image.jpg",
         width: 1200,
         height: 630,
       },
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     title: "Joecalih - Creative Resources Hub",
     description: "Professional creative resources, music samples, presets, and tutorials",
     creator: "@joecalih",
-    images: ["https://joecalih.co.ke/twitter-image.jpg"],
+    images: ["https://joecalih.com/twitter-image.jpg"],
   },
   verification: {
     google: "LSRpF_oK5HgGFFqiwtIxtl_EZV-0VbcvCkvIrncY-hM",
@@ -93,7 +93,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* Additional verification meta tags */}
-        <meta name="google-site-verification" content="LSRpF_oK5HgGFFqiwtIxtl_EZV-0VbcvCkvIrncY-hM" />
+        <meta name="google-site-verification" content="d1Isr_Up507Hx6PnUKUycX267FKRI5ZJhweQVYnzgrY" />
         <meta name="msvalidate.01" content="66D54DB1A92E531DE760D7B860BD9849" />
         <meta name="yandex-verification" content="e8c5015c48a5adb4" />
         <meta name="p:domain_verify" content="7aea570bfdd6e651a594a46fff06247e" />
@@ -123,8 +123,8 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "Joecalih",
-              url: "https://joecalih.co.ke",
-              logo: "https://joecalih.co.ke/logo.png",
+              url: "https://joecalih.com",
+              logo: "https://joecalih.com/logo.png",
               description: "Professional creative resources, music samples, presets, and tutorials",
               sameAs: [
                 "https://twitter.com/joecalih",
