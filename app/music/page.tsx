@@ -37,7 +37,7 @@ export const metadata: Metadata = generateSeoMetadata({
     "playlists",
     "audio tracks",
   ],
-  url: "https://joecalih.co.ke/music",
+  url: "https://joecalih.com/music",
 })
 
 export default function MusicPage() {
@@ -88,7 +88,7 @@ export default function MusicPage() {
           "@type": "MusicGroup",
           name: "Joe Calih Music",
           description: "Original music tracks, albums, and exclusive releases",
-          url: "https://joecalih.co.ke/music",
+          url: "https://joecalih.com/music",
           genre: ["Electronic", "Hip Hop", "Ambient", "House"],
         }}
       />
