@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "platform rules",
     "legal compliance",
   ],
-  url: "https://joecalih.co.ke/disclaimer",
+  url: "https://joecalih.com/disclaimer",
   type: "website",
 })
 
@@ -40,7 +40,7 @@ const disclaimerSchema = {
   publisher: {
     "@type": "Organization",
     name: "Joecalih",
-    url: "https://joecalih.co.ke",
+    url: "https://joecalih.com",
   },
   mainEntity: {
     "@type": "TermsOfService",
