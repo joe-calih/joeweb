@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "data processing",
     "privacy controls",
   ],
-  url: "https://joecalih.co.ke/privacy",
+  url: "https://joecalih.com/privacy",
   type: "website",
 })
 
@@ -40,7 +40,7 @@ const privacySchema = {
   publisher: {
     "@type": "Organization",
     name: "Joecalih",
-    url: "https://joecalih.co.ke",
+    url: "https://joecalih.com",
   },
   mainEntity: {
     "@type": "PrivacyPolicy",
