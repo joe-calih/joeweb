@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: LutPageProps): Promise<Metada
       "Premiere Pro",
       lut.author,
     ],
-    url: `https://joecalih.co.ke/luts/${lut.slug}`,
+    url: `https://joecalih.com/luts/${lut.slug}`,
     image: lut.previewImage,
     type: "article",
     author: lut.author,
@@ -94,7 +94,7 @@ export default function LutPage({ params }: LutPageProps) {
         datePublished={lut.datePublished}
         genre={lut.category}
         tracks={[]}
-        url={`https://joecalih.co.ke/luts/${lut.slug}`}
+        url={`https://joecalih.com/luts/${lut.slug}`}
       />
 
       <div className="min-h-screen bg-[#121212] text-white">
