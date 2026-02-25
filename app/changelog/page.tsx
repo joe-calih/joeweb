@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "feature releases",
     "product roadmap",
   ],
-  url: "https://joecalih.co.ke/changelog",
+  url: "https://joecalih.com/changelog",
   type: "website",
 })
 
