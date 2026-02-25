@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "creative graphics",
     "professional templates",
   ],
-  url: "https://joecalih.co.ke/graphics",
+  url: "https://joecalih.com/graphics",
 })
 
 const graphicsSchema = {
@@ -36,7 +36,7 @@ const graphicsSchema = {
   "@type": "CollectionPage",
   name: "Graphics & Design Resources",
   description: "Premium graphics, design templates, and visual assets for creative professionals",
-  url: "https://joecalih.co.ke/graphics",
+  url: "https://joecalih.com/graphics",
   mainEntity: {
     "@type": "ItemList",
     name: "Graphics Collection",
