@@ -20,14 +20,14 @@ export const metadata: Metadata = generateMetadata({
     "Final Cut Pro",
     "professional video",
   ],
-  url: "https://joecalih.co.ke/luts",
+  url: "https://joecalih.com/luts",
 })
 
 const lutsSchema = {
   "@type": "ItemList",
   name: "Professional Video LUTs Collection",
   description: "Premium LUTs for professional video color grading and cinematic looks",
-  url: "https://joecalih.co.ke/luts",
+  url: "https://joecalih.com/luts",
   numberOfItems: getAllLUTs().length,
   itemListElement: getAllLUTs().map((lut, index) => ({
     "@type": "ListItem",
@@ -37,7 +37,7 @@ const lutsSchema = {
       name: lut.title,
       description: lut.description,
       image: lut.previewImage,
-      url: `https://joecalih.co.ke/luts/${lut.slug}`,
+      url: `https://joecalih.com/luts/${lut.slug}`,
       offers: {
         "@type": "Offer",
         price: lut.price,
