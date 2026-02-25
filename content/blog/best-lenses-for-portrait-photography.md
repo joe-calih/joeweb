@@ -1,7 +1,7 @@
 ---
 title: "Best Lenses for Portrait Photography"
 excerpt: "Learn the best lenses for portrait photography in general to help you choose from a large variety. Create the best of photos with best primes."
-date: "2023-05-15"
+date: "2025-09-17"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

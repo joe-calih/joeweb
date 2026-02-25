@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Photo Studios in Thika"
 excerpt: "Discover Thika's top photo studios! Studio Kenya is the best Studio in Thika, while Joecalih studio portraiture & family shoot. Book now!"
-date: "2024-06-21"
+date: "2026-02-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -36,7 +36,7 @@ Visit [studio.co.ke](https://studio.co.ke/) to explore their portfolio and book 
 
 ## **2. Joecalih Photography - Studio Portraiture**
 
-Website: [Joecalih.co.ke](https://joecalih.co.ke/)
+Website: [Joecalih.com](https://joecalih.com/)
 
 Joecalih Photography is another top-notch photography studio based in Thika town. Renowned for its colorful studio backgrounds and professional services, Joecalih Photography specializes in:
 
@@ -46,6 +46,6 @@ Joecalih Photography is another top-notch photography studio based in Thika town
 
 With a portfolio showcasing their expertise, Joecalih Photography is the go-to choice for individuals and businesses seeking high-quality photography services in Thika and Nairobi. Take a good look at his Instagram account attached below.
 
-Explore their portfolio and book your session today at [Joecalih.co.ke](https://joecalih.co.ke/).
+Explore their portfolio and book your session today at [Joecalih.com](https://joecalih.com/).
 
 Choose Studio Kenya or Joecalih Photography for all your photography needs in Thika and beyond. Capturing moments & creating memories - that's what they do best!

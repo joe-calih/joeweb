@@ -1,7 +1,7 @@
 ---
 title: "The Best Lenses for Landscape Photography"
 excerpt: " Discover the best lenses for landscape photography, From wide-angle to telephoto, to elevate your shots with stunning detail and clarity."
-date: "2024-6-28"
+date: "2026-01-24"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

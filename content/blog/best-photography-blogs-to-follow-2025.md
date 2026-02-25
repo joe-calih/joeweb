@@ -1,7 +1,7 @@
 ---
 title: "Best Photography Blogs to Follow in 2026"
 excerpt: " Discover the top photography blogs to follow in 2025. Stay updated on trends, gear reviews, and inspiration to elevate photography skills."
-date: "2026-02-02"
+date: "2026-02-12"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
