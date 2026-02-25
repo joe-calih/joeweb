@@ -24,7 +24,7 @@ function getValidDate(dateString: string | undefined): Date {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://joecalih.co.ke"
+  const baseUrl = "https://joecalih.com"
   const currentDate = new Date()
 
   // Static pages
