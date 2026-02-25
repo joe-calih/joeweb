@@ -93,7 +93,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         {/* Additional verification meta tags */}
-        <meta name="google-site-verification" content="d1Isr_Up507Hx6PnUKUycX267FKRI5ZJhweQVYnzgrY" />
+        <meta name="google-site-verification" content="ESWDcccmiayAQw-C3Q3HOdjwcBhLzMp4mdQCSk6OmU4" />
         <meta name="msvalidate.01" content="66D54DB1A92E531DE760D7B860BD9849" />
         <meta name="yandex-verification" content="e8c5015c48a5adb4" />
         <meta name="p:domain_verify" content="7aea570bfdd6e651a594a46fff06247e" />
