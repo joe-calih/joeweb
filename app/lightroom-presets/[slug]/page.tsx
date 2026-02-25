@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: PresetPageProps): Promise<Met
       "Adobe Lightroom",
       preset.author,
     ],
-    url: `https://joecalih.co.ke/lightroom-presets/${preset.slug}`,
+    url: `https://joecalih.com/lightroom-presets/${preset.slug}`,
     image: preset.previewImage,
     type: "article",
     author: preset.author,
@@ -93,7 +93,7 @@ export default function PresetPage({ params }: PresetPageProps) {
         datePublished={preset.datePublished}
         genre={preset.category}
         tracks={[]}
-        url={`https://joecalih.co.ke/lightroom-presets/${preset.slug}`}
+        url={`https://joecalih.com/lightroom-presets/${preset.slug}`}
       />
 
       <div className="min-h-screen bg-[#121212] text-white">
