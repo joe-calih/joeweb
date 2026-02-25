@@ -22,10 +22,10 @@ const albumsDirectory = path.join(process.cwd(), "content/albums")
 // Mock data with valid dates
 const mockAlbums: Album[] = [
   {
-    slug: "Hinya",
+    slug: "hinya",
     title: "Hinya",
     artist: "Joecalih",
-    cover: "/alburm/Hinyas.jpeg?height=400&width=400",
+    cover: "/albums/Hinyas.jpg?height=400&width=400",
     genre: "Electronic",
     releaseDate: "2026-01-15",
     totalTracks: 12,

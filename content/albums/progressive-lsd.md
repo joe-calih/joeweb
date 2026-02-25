@@ -1,7 +1,7 @@
 ---
 title: "Progressive LSD"
 artist: "Joecalih"
-slug: "acoustic-sessions"
+slug: "progressive-lsd"
 cover: "/albums/sld.jpg?height=400&width=400"
 releaseDate: "2026-02-20"
 genre: "Electronic"

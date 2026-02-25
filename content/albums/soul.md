@@ -1,15 +1,15 @@
 ---
-title: "Electronic Fusion"
-artist: "Alex Thompson"
+title: "Soul"
+artist: "Joecalih"
 slug: "electronic-fusion"
-cover: "/placeholder.svg?height=400&width=400"
-releaseDate: "2024-04-05"
+cover: "/albums/Soul.jpg?height=400&width=400"
+releaseDate: "2026-02-05"
 genre: "Electronic Jazz"
-label: "Future Sound Records"
-producer: "Alex Thompson"
+label: "Joecalih Records"
+producer: "Joecalih"
 totalTracks: 11
 duration: "48:23"
-description: "A groundbreaking fusion of electronic music and jazz improvisation. Alex Thompson pushes the boundaries of both genres, creating something entirely new and captivating."
+description: "A groundbreaking fusion of electronic music and jazz improvisation. Joecalih pushes the boundaries of both genres, creating something entirely new and captivating."
 price: "$14.99"
 streamingLinks:
   spotify: "https://open.spotify.com/album/electronic-fusion"
