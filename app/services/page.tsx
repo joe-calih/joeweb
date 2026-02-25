@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "audio engineering",
     "content creation services",
   ],
-  url: "https://joecalih.co.ke/services",
+  url: "https://joecalih.com/services",
   type: "website",
 })
 
@@ -39,7 +39,7 @@ const servicesSchema = {
   provider: {
     "@type": "Organization",
     name: "Joecalih",
-    url: "https://joecalih.co.ke",
+    url: "https://joecalih.com",
   },
   serviceType: "Creative Services",
   areaServed: "Worldwide",
