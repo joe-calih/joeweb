@@ -13,20 +13,20 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Have questions? Need support? Contact our team for help with your music career, technical issues, or partnership opportunities.",
   keywords: ["contact", "support", "help", "customer service", "music support"],
-  url: "https://artists.apple.com/contact",
+  url: "https://joecalih.com/contact",
 })
 
 const contactSchema = {
   "@type": "ContactPage",
-  name: "Contact Apple Music for Artists",
+  name: "Joecalih Photography",
   description: "Contact page for Apple Music for Artists platform",
   mainEntity: {
     "@type": "Organization",
-    name: "Apple Music for Artists",
+    name: "Joecalih Photography",
     contactPoint: [
       {
         "@type": "ContactPoint",
-        telephone: "+1-800-APL-MUSIC",
+        telephone: "+254717771900",
         contactType: "customer service",
         availableLanguage: ["English", "Spanish", "French"],
         hoursAvailable: {
@@ -38,7 +38,7 @@ const contactSchema = {
       },
       {
         "@type": "ContactPoint",
-        email: "support@artists.apple.com",
+        email: "joecalih254.gmail.com",
         contactType: "customer service",
       },
     ],
