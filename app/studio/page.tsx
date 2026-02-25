@@ -13,14 +13,14 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Access professional recording studio tools, mixing software, and production resources. Create, edit, and master your music with industry-standard equipment.",
   keywords: ["recording studio", "music production", "mixing", "mastering", "audio editing"],
-  url: "https://artists.apple.com/studio",
+  url: "https://joecalih.com/studio",
 })
 
 const studioSchema = {
   "@type": "Product",
-  name: "Music Studio Platform",
-  description: "Professional recording and production tools for artists",
-  category: "Music Production Software",
+  name: "Studio",
+  description: "Professional photo studio and sound recording and production tools for artists",
+  category: "Studio",
 }
 
 export default function StudioPage() {
