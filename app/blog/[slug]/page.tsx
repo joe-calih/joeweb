@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       title: "Post Not Found",
       description: "The requested blog post could not be found.",
       keywords: ["blog", "not found"],
-      url: `https://joecalih.co.ke/blog/${params.slug}`,
+      url: `https://joecalih.com/blog/${params.slug}`,
     })
   }
 
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
     title: post.title,
     description: post.excerpt,
     keywords: [post.category, "blog", "tutorial", "guide", ...(post.tags || [])],
-    url: `https://joecalih.co.ke/blog/${params.slug}`,
+    url: `https://joecalih.com/blog/${params.slug}`,
     image: post.image,
     type: "article",
     author: post.author.name,
@@ -76,12 +76,12 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
       name: "Joecalih",
       logo: {
         "@type": "ImageObject",
-        url: "https://joecalih.co.ke/logo.png",
+        url: "https://joecalih.com/logo.png",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://joecalih.co.ke/blog/${params.slug}`,
+      "@id": `https://joecalih.com/blog/${params.slug}`,
     },
     articleSection: post.category,
     keywords: post.tags?.join(", "),
