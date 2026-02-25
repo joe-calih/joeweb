@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: LessonCategoryPageProps): Pro
       title: "Category Not Found",
       description: "The requested lesson category could not be found.",
       keywords: ["lessons", "not found"],
-      url: `https://joecalih.co.ke/lessons/${params.category}`,
+      url: `https://joecalih.com/lessons/${params.category}`,
     })
   }
 
@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: LessonCategoryPageProps): Pro
     title: `${category.name} Lessons - Professional Training`,
     description: category.description,
     keywords: [category.name.toLowerCase(), "lessons", "professional training", "online course"],
-    url: `https://joecalih.co.ke/lessons/${params.category}`,
+    url: `https://joecalih.com/lessons/${params.category}`,
     image: category.image,
   })
 }
