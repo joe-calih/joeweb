@@ -13,7 +13,7 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Discover and connect with talented artists from around the world. Join our vibrant community of musicians, producers, and creators.",
   keywords: ["artist community", "music network", "artist collaboration", "music members"],
-  url: "https://artists.apple.com/members",
+  url: "https://joecalih.com/members",
 })
 
 const membersSchema = {
@@ -21,7 +21,7 @@ const membersSchema = {
   description: "A community of artists using Apple Music for Artists platform",
   memberOf: {
     "@type": "Organization",
-    name: "Apple Music for Artists",
+    name: "Joecalih Members",
   },
 }
 
