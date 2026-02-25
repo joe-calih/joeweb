@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: SamplePageProps): Promise<Met
       "loops",
       sample.artist,
     ],
-    url: `https://joecalih.co.ke/samples/${sample.slug}`,
+    url: `https://joecalih.com/samples/${sample.slug}`,
     image: sample.coverImage || sample.cover || "/placeholder.svg?height=400&width=400",
     type: "article",
     author: sample.artist,
@@ -91,7 +91,7 @@ export default function SamplePage({ params }: SamplePageProps) {
         datePublished={sample.releaseDate}
         genre={sample.genre}
         tracks={sample.samples}
-        url={`https://joecalih.co.ke/samples/${sample.slug}`}
+        url={`https://joecalih.com/samples/${sample.slug}`}
       />
 
       <div className="min-h-screen bg-[#121212] text-white">
