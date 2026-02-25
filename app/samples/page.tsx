@@ -20,14 +20,14 @@ export const metadata: Metadata = generateMetadata({
     "trap samples",
     "royalty-free",
   ],
-  url: "https://joecalih.co.ke/samples",
+  url: "https://joecalih.com/samples",
 })
 
 const samplesSchema = {
   "@type": "ItemList",
   name: "Premium Music Sample Packs Collection",
   description: "High-quality music sample packs for professional music production",
-  url: "https://joecalih.co.ke/samples",
+  url: "https://joecalih.com/samples",
   numberOfItems: 20,
   itemListElement: [],
 }
