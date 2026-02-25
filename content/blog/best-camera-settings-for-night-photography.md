@@ -1,7 +1,7 @@
 ---
 title: "The Best Camera Settings for Night Photography"
 excerpt: "Master night photography with the best camera settings for sharp, clear images. Learn how to optimize ISO & Shutter for stunning results."
-date: "2023-05-15"
+date: "2026-02-10"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

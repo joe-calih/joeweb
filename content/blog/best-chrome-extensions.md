@@ -1,7 +1,7 @@
 ---
 title: "Best and Poppular Chrome Extensions: A Comprehensive Guide"
 excerpt: "If you want to analyze any website we can use extensions. Get access to an SEO extension to track Google Page Rank, Alexa Rank, and Analysis."
-date: "2023-05-15"
+date: "2025-11-20"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
