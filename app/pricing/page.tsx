@@ -21,7 +21,7 @@ export const metadata: Metadata = generateMetadata({
     "LUTs pricing",
     "creative tools subscription",
   ],
-  url: "https://artists.apple.com/pricing",
+  url: "https://joecalih.com/pricing",
 })
 
 const pricingSchema = {
