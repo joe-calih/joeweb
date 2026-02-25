@@ -19,7 +19,7 @@ export const metadata: Metadata = generateMetadata({
     "cinematic presets",
     "vintage presets",
   ],
-  url: "https://joecalih.co.ke/lightroom-presets",
+  url: "https://joecalih.com/lightroom-presets",
 })
 
 export default function LightroomPresetsPage({
@@ -42,7 +42,7 @@ export default function LightroomPresetsPage({
     "@type": "ItemList",
     name: "Professional Lightroom Presets Collection",
     description: "Premium Lightroom presets for professional photography and photo editing",
-    url: "https://joecalih.co.ke/lightroom-presets",
+    url: "https://joecalih.com/lightroom-presets",
     numberOfItems: allPresets.length,
     itemListElement: allPresets.map((preset, index) => ({
       "@type": "ListItem",
@@ -52,7 +52,7 @@ export default function LightroomPresetsPage({
         name: preset.title,
         description: preset.description,
         image: preset.previewImage,
-        url: `https://joecalih.co.ke/lightroom-presets/${preset.slug}`,
+        url: `https://joecalih.com/lightroom-presets/${preset.slug}`,
         offers: {
           "@type": "Offer",
           price: preset.price,
