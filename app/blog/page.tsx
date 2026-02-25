@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Blog - Joe Calih | Digital Marketing & Creative Insights",
     description: "Discover the latest insights on digital marketing, SEO, content creation, and creative strategies.",
     type: "website",
-    url: "https://joecalih.co.ke/blog",
+    url: "https://joecalih.com/blog",
   },
 }
 
