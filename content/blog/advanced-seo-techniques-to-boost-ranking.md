@@ -1,7 +1,7 @@
 ---
 title: "5 Advanced SEO Techniques to Boost Ranking"
 excerpt: "Rank in search results with top advanced SEO techniques to boost and optimize your website pages. Improve your SERPs to advance in SEO."
-date: "2023-05-15"
+date: "2026-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

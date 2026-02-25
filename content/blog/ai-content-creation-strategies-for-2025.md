@@ -1,7 +1,7 @@
 ---
 title: "AI Content Creation Strategies for 2025"
 excerpt: "Discover how artificial intelligence is revolutionizing content creation and learn practical strategies to leverage AI tools for better, faster, and more engaging content."
-date: "2024-01-22"
+date: "2026-01-22"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

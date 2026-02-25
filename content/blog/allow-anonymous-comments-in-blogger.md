@@ -1,7 +1,7 @@
 ---
 title: "How to Allow Anonymous Comments In Blogger"
 excerpt: "How to Allow Anonymous Comments In Blogger. 1. Sign in Blogger. 2. Choose Your Blog. 3. Click on settings. 4. Anonymous comments. 5. Save"
-date: "2023-05-15"
+date: "2026-02-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

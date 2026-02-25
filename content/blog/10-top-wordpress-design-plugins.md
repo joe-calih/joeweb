@@ -1,7 +1,7 @@
 ---
 title: "Top 10+ WordPress Plugins enhance Your Design"
 excerpt: "The internet is an incredible resource, but it can also be a dangerous place. Thousands of websites fall victim to hacking attempts."
-date: "2025-01-15"
+date: "2026-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

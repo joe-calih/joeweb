@@ -2,7 +2,7 @@
 title: "Electronic Vibes"
 artist: "Beat Makers"
 slug: "electronic-vibes"
-cover: "/placeholder.svg?height=400&width=400"
+cover: "/packs/ExoticBox.webp?height=400&width=400"
 genre: "Electronic"
 totalSamples: 85
 bpmRange: "128-140"

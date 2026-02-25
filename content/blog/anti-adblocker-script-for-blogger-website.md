@@ -1,7 +1,7 @@
 ---
 title: "Anti Adblocker Script For Blogger Website"
 excerpt: "Get Anti Adblock Script For Blogger to block Blockers in browsers that would make you earn less. Learn to add an anti-adblocker to Blogger."
-date: "2024-04-15"
+date: "2026-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

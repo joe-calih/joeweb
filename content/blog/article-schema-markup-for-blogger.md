@@ -1,7 +1,7 @@
 ---
 title: "How To Add Article Schema Markup To Blogger"
 excerpt: "Add article schema markup to your blogger website to get rich snippets. Enhance your search results with Article Schema Markup for Blogger."
-date: "2024-05-27"
+date: "2026-01-17"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

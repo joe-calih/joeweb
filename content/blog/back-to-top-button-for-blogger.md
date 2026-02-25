@@ -1,7 +1,7 @@
 ---
 title: "How To Add Back To Top Button In Blogger"
 excerpt: "How to add a “back to top” widget button to blogger. 1. Go to Blogger 2. Get to the layout. 3. Add HTML/JavaScript 4. Copy and paste the code"
-date: "2023-05-15"
+date: "2026-02-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

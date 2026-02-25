@@ -1,7 +1,7 @@
 ---
 title: "10 Best Custom Blogger Contact Form Widgets"
 excerpt: "Learn How to Add a Contact Form to Blogger. Choose from 10 stylish blogger contact form widgets Responsive and premium design for websites."
-date: "2023-05-15"
+date: "2026-02-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

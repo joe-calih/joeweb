@@ -1,7 +1,7 @@
 ---
 title: "Apmody v1.5 - Premium APK Store Blogger Template"
 excerpt: "Apmody Blogger Template Free Download. Get Premium Apmody theme with modern App Store and elegant Blogger Template features download FREE."
-date: "2023-05-15"
+date: "2025-09-29"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

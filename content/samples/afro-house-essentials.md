@@ -2,7 +2,7 @@
 title: "Afro House Essentials"
 artist: "Infinity Audio"
 slug: "afro-house-essentials"
-cover: "/placeholder.svg?height=400&width=400"
+cover: "/packs/AfterhoursBox.webp?height=400&width=400"
 genre: "Afro House"
 totalSamples: 170
 bpmRange: "120-128"

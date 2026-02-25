@@ -12,7 +12,7 @@ const samplePacks = [
     slug: "afro-house-essentials",
     title: "Afro House Essentials",
     artist: "Infinity Audio",
-    cover: "/placeholder.svg?height=200&width=200",
+    cover: "/packs/AfterhoursBox.webp?height=200&width=200",
     genre: "Afro House",
     samples: 170,
     bpm: "120-128",
@@ -23,7 +23,7 @@ const samplePacks = [
     slug: "electronic-vibes",
     title: "Electronic Vibes",
     artist: "Beat Makers",
-    cover: "/placeholder.svg?height=200&width=200",
+    cover: "/packs/ExoticBox.webp?height=200&width=200",
     genre: "Electronic",
     samples: 85,
     bpm: "128-140",
@@ -34,7 +34,7 @@ const samplePacks = [
     slug: "hip-hop-classics",
     title: "Hip Hop Classics",
     artist: "Urban Sounds",
-    cover: "/placeholder.svg?height=200&width=200",
+    cover: "/packs/SavannahBox.webp?height=200&width=200",
     genre: "Hip Hop",
     samples: 120,
     bpm: "85-95",
@@ -45,7 +45,7 @@ const samplePacks = [
     slug: "ambient-textures",
     title: "Ambient Textures",
     artist: "Atmospheric",
-    cover: "/placeholder.svg?height=200&width=200",
+    cover: "/packs/Terra_Box.webp?height=200&width=200",
     genre: "Ambient",
     samples: 60,
     bpm: "70-90",
@@ -87,7 +87,7 @@ export function HomeSamplePacks() {
               <Link href={`/samples/${pack.slug}`}>
                 <div className="relative mb-4 overflow-hidden rounded-lg">
                   <img
-                    src={pack.cover || "/placeholder.svg"}
+                    src={pack.cover || "/packs/SavannahBox.webp"}
                     alt={pack.title}
                     className="w-full aspect-square object-cover transition-transform duration-300 group-hover:scale-105"
                   />
