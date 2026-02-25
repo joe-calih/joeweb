@@ -21,7 +21,7 @@ export const metadata: Metadata = generateMetadata({
     "new music",
     "album releases",
   ],
-  url: "https://joecalih.co.ke/album",
+  url: "https://joecalih.com/album",
 })
 
 interface AlbumData {
@@ -95,7 +95,7 @@ export default async function AlbumPage() {
     "@type": "ItemList",
     name: "Music Albums Collection",
     description: "Latest music albums from independent artists",
-    url: "https://joecalih.co.ke/album",
+    url: "https://joecalih.com/album",
     numberOfItems: albums.length,
     itemListElement: albums.map((album, index) => ({
       "@type": "ListItem",
@@ -110,7 +110,7 @@ export default async function AlbumPage() {
         genre: album.genre,
         datePublished: album.releaseDate,
         image: album.cover,
-        url: `https://joecalih.co.ke/album/${album.slug}`,
+        url: `https://joecalih.com/album/${album.slug}`,
         offers: {
           "@type": "Offer",
           price: album.price,
