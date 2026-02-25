@@ -28,7 +28,7 @@ export const metadata: Metadata = generateMetadata({
     "music production company",
     "creative tools provider",
   ],
-  url: "https://joecalih.co.ke/about",
+  url: "https://joecalih.com/about",
   type: "website",
 })
 
@@ -36,9 +36,9 @@ const aboutSchema = {
   "@type": "Organization",
   name: "Joecalih",
   description: "Professional creative resources platform for music producers, photographers, and content creators",
-  url: "https://joecalih.co.ke",
-  logo: "https://joecalih.co.ke/logo.png",
-  foundingDate: "2020",
+  url: "https://joecalih.com",
+  logo: "https://joecalih.com/logo.png",
+  foundingDate: "2026",
   founders: [
     {
       "@type": "Person",
@@ -49,9 +49,9 @@ const aboutSchema = {
   sameAs: ["https://twitter.com/joecalih", "https://instagram.com/joecalih", "https://youtube.com/joecalih"],
   contactPoint: {
     "@type": "ContactPoint",
-    telephone: "+254-700-000-000",
+    telephone: "+254-717-771-900",
     contactType: "customer service",
-    email: "hello@joecalih.co.ke",
+    email: "hello@joecalih.com",
   },
   address: {
     "@type": "PostalAddress",
