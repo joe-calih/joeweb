@@ -13,17 +13,17 @@ export const metadata: Metadata = generateMetadata({
   description:
     "Discover our comprehensive suite of music distribution tools, analytics platforms, and artist development products. Everything you need to succeed in the music industry.",
   keywords: ["music distribution", "analytics tools", "artist products", "music software", "streaming platforms"],
-  url: "https://artists.apple.com/products",
+  url: "https://joecalih.com/products",
 })
 
 const productsSchema = {
   "@type": "Product",
-  name: "Apple Music for Artists Platform",
+  name: "Joecalih Products",
   description: "Comprehensive music distribution and analytics platform",
   category: "Music Software",
   brand: {
     "@type": "Brand",
-    name: "Apple Music for Artists",
+    name: "Joecalih",
   },
 }
 
