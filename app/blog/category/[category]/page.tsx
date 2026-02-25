@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: { params: { category: string 
       `${category} insights`,
       "creative industry",
     ],
-    url: `https://joecalih.co.ke/blog/category/${category}`,
+    url: `https://joecalih.com/blog/category/${category}`,
   })
 }
 
@@ -90,7 +90,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
           "@type": "CollectionPage",
           name: `${formattedCategory} Articles`,
           description: `Explore our collection of ${formattedCategory.toLowerCase()} articles and tutorials`,
-          url: `https://joecalih.co.ke/blog/category/${category}`,
+          url: `https://joecalih.com/blog/category/${category}`,
         }}
       />
 
