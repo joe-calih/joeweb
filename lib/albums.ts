@@ -22,18 +22,18 @@ const albumsDirectory = path.join(process.cwd(), "content/albums")
 // Mock data with valid dates
 const mockAlbums: Album[] = [
   {
-    slug: "midnight-dreams",
-    title: "Midnight Dreams",
+    slug: "Hinya",
+    title: "Hinya",
     artist: "Joecalih",
-    cover: "/placeholder.svg?height=400&width=400",
+    cover: "/alburm/Hinyas.jpeg?height=400&width=400",
     genre: "Electronic",
-    releaseDate: "2024-01-15",
+    releaseDate: "2026-01-15",
     totalTracks: 12,
     duration: "45:30",
     description: "A journey through electronic soundscapes",
     tags: ["electronic", "ambient", "chill"],
     price: "$15",
-    content: "Midnight Dreams album content...",
+    content: "Hinya album content...",
   },
   {
     slug: "urban-vibes",

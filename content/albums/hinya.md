@@ -1,12 +1,12 @@
 ---
-title: "Midnight Dreams"
-artist: "Luna Martinez"
-slug: "midnight-dreams"
+title: "Hinya"
+artist: "Joecalih"
+slug: "hinya"
 cover: "/placeholder.svg?height=400&width=400"
 releaseDate: "2024-01-15"
-genre: "Electronic Pop"
-label: "Stellar Records"
-producer: "Alex Chen"
+genre: "3 Step"
+label: "Joecalih Records"
+producer: "Joecalih"
 totalTracks: 12
 duration: "45:32"
 description: "A mesmerizing journey through electronic soundscapes and dreamy pop melodies. Luna Martinez's debut album explores themes of love, loss, and self-discovery through innovative production and heartfelt lyrics."
