@@ -93,7 +93,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       "new music",
       "latest release",
     ],
-    url: `https://joecalih.co.ke/album/${data.slug}`,
+    url: `https://joecalih.com/album/${data.slug}`,
     image: data.cover,
     type: "music.album",
     author: data.artist,
@@ -117,7 +117,7 @@ export default async function AlbumPage({ params }: { params: { slug: string } }
       return {
         name: match?.[1] || `Track ${index + 1}`,
         duration: match?.[2] || "0:00",
-        url: `https://music.apple.com/track/${data.slug}-${index + 1}`,
+        url: `https://joeca.com/track/${data.slug}-${index + 1}`,
       }
     }) || []
 
@@ -133,7 +133,7 @@ export default async function AlbumPage({ params }: { params: { slug: string } }
         datePublished={data.releaseDate}
         genre={data.genre}
         tracks={tracks}
-        url={`https://joecalih.co.ke/album/${data.slug}`}
+        url={`https://joecalih.com/album/${data.slug}`}
         streamingLinks={data.streamingLinks}
       />
 
