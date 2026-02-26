@@ -1,7 +1,7 @@
 ---
 title: "How To Use Custom Keywords In Blogger for SEO"
 excerpt: "Learn how to add keywords to Blogger website and increase your SEO. Keywords can be added to posts, picture tags, post titles, and body."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

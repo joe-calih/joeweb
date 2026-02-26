@@ -1,7 +1,7 @@
 ---
 title: "Digital Transformation Guide for Modern Businesses"
 excerpt: "Navigate the digital transformation journey with proven strategies, tools, and frameworks to modernize your business and stay competitive in 2025."
-date: "2024-01-10"
+date: "2025-01-10"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

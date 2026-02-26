@@ -1,7 +1,7 @@
 ---
 title: "How To Remove Powered By Blogger Attribution"
 excerpt: " Learn How To Remove Powered By Blogger Attribution on Blogger website theme layout. Learn the blogger attribution removal in widget layout."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -26,7 +26,7 @@ Step 3. Click on the gadget named attribution.
 Step 4. Click on Edit.  
 Step 5. Click On Remove. That`s It.
 
-[![remove-powered-by-blogger-attribution-widget](https://joecalih.files.wordpress.com/2024/06/b8c13-remove-powered-by-blogger-attribution-widget.png?w=300 "remove-powered-by-blogger-attribution-widget")](http://joecalih.files.wordpress.com/2024/06/b8c13-remove-powered-by-blogger-attribution-widget.png)
+[![remove-powered-by-blogger-attribution-widget](https://joecalih.files.wordpress.com/2025/06/b8c13-remove-powered-by-blogger-attribution-widget.png?w=300 "remove-powered-by-blogger-attribution-widget")](http://joecalih.files.wordpress.com/2025/06/b8c13-remove-powered-by-blogger-attribution-widget.png)
 
 sometimes the gadget may be locked in some templates and that has to be removed by using the code to remove the locked value from true to false. To do so you have to use the Attribution1 id of the widget to search for the [widget](https://joecalih.co.ke/recent-posts-blogger-widgets/) code and change the locked widget id to false. Let`s go by the tutorial and see what to do.
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Blogger Social Media Share Buttons Widget"
 excerpt: " YouTube SEO refers to the process of optimizing your videos for search engines such as Google and YouTube."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

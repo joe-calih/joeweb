@@ -30,7 +30,7 @@ I am sure at some point in time you have gone through some articles on a website
 
 Read through the above articles to understand SEO better. Make sure you read through the topics attached below to start your journey to a better SEO website. Look at the picture below and observe the way SEO partners work.
 
-[![](https://joecalih.files.wordpress.com/2024/06/4cbb1-seo-for-photographers-website_wedding-sites_marriage-sites_artist.jpg?w=300)](http://joecalih.files.wordpress.com/2024/06/4cbb1-seo-for-photographers-website_wedding-sites_marriage-sites_artist.jpg)
+[![](https://joecalih.files.wordpress.com/2025/06/4cbb1-seo-for-photographers-website_wedding-sites_marriage-sites_artist.jpg?w=300)](http://joecalih.files.wordpress.com/2025/06/4cbb1-seo-for-photographers-website_wedding-sites_marriage-sites_artist.jpg)
 
 **The SEO diagram life cycle.**  
 SEO is divided into two major categories. I have articles for you that explain the two major parts in detail. Click the letter and read through it for a better understanding of the two and which one is easier for you.  

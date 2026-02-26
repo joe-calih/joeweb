@@ -1,7 +1,7 @@
 ---
 title: "How To Rank Without Long Content Blogger Posts"
 excerpt: "Learn how to rank in search results without having to write long content blogger posts. Rank using keywords. backlinks & schema on a website"
-date: "2024-8-15"
+date: "2025-8-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Open Graph & Twitter (X) Meta Tags for Blogger"
 excerpt: "Get X cards and open graph meta tags for blogger websites. Make our website URL appear better on Twitter and Facebook social media cards."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -92,7 +92,7 @@ Twitter Cards change the look of every website posting URL and that brings on th
 
 The About presentation shows a website without a Twitter open graph and that shows us how bad a URL looks in social media without markup open graphs. Let’s take a look also at a website with the Twitter open graph as presented below.
 
-View the Best Projects Photos of Joecalih 2023🔥💯 https://t.co/gGUrm8lBxR— Joecalih (@joe_calih) April 12, 2023
+View the Best Projects Photos of Joecalih 2025🔥💯 https://t.co/gGUrm8lBxR— Joecalih (@joe_calih) April 12, 2025
 
 Joecalih
 

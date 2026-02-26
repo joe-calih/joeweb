@@ -1,7 +1,7 @@
 ---
 title: "How to Edit Photos Like a Pro with Photoshop"
 excerpt: "Learn how to edit photos like a pro with Photoshop. Master essential tools, advanced techniques, and archive professional-quality images."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

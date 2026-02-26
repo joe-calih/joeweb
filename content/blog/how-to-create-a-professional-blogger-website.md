@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Professional Blogger Website"
 excerpt: "Learn on How to Create a Professional Blogger Website with advanced SEO optimization. Create blogs for Beginner and Advanced Bloggers."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

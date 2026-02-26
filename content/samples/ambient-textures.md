@@ -10,7 +10,7 @@ keySignatures: ["A min", "D min", "G maj", "C maj"]
 description: "Ethereal ambient soundscapes and atmospheric textures perfect for cinematic compositions, meditation music, and ambient electronic productions."
 tags: ["ambient", "atmospheric", "cinematic", "textures", "pads"]
 price: "$18.99"
-releaseDate: "2024-02-10"
+releaseDate: "2025-02-10"
 duration: "3:20:15"
 packSize: "1.5 GB"
 ---

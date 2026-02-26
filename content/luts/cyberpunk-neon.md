@@ -18,7 +18,7 @@ fileSize: "3.2 MB"
 instructions: "Best with urban night scenes and artificial lighting"
 tags: ["cyberpunk", "neon", "sci-fi", "futuristic", "gaming", "tech", "urban", "night"]
 featured: true
-dateCreated: "2024-12-14"
+dateCreated: "2025-12-14"
 author: "Neon Dreams Collective"
 ---
 

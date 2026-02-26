@@ -28,7 +28,7 @@ I will also write a complete article on this but let me take you to simpler step
 Assume you are a search engine bot, which you are not. You have these two great pieces of content talking about this awesome-looking jacket. You have to go through the code so you can load the page with the product. One has fewer codes that load so fast and you can easily go through. The other one has complex Java code that takes time to load and is disturbing. Which one would you go for?  
 The same way Google processes and ranks content with AMP SEO this year 2019. Use AMP today and thank me later since you will witness a good sign in the ranking of your content. I hope I have empowered someone today. 2019 SEO is now at your fingertips, I used the idea and Google is waiting for you to use it too so they can take your higher. Gods plan.
 
-### 2. Structured Data SEO Practice 2023
+### 2. Structured Data SEO Practice 2025
 
 This is something you have come across since you started your first blog. Since the time immemorial of your blogging history. This SEO practice is something we should not even talk about this Year 2018 since you should have implemented it a long time ago. Look at all the successful people with websites. People flock daily and look at the search engines’ structure and you will be amazed. They have used all the structured data available that match their content and give out better descriptions and specify logos and meta content.
 

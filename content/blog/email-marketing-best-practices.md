@@ -1,7 +1,7 @@
 ---
 title: "Email Marketing Best Practices for 2025"
 excerpt: "Learn the latest email marketing strategies to boost open rates, increase engagement, and drive conversions with proven best practices and techniques."
-date: "2024-01-15"
+date: "2025-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -30,7 +30,7 @@ Joecalih is known for the landscapes taken in Nairobi city and colorful portrait
 
 ![](https://joecalih.com/wp-content/uploads/2026/02/Head-Shot-Portrait.jpg)
 
-![Projects Photos of Joecalih 2024](https://joecalih.com/wp-content/uploads/2024/02/pic.jpg)
+![Projects Photos of Joecalih 2025](https://joecalih.com/wp-content/uploads/2025/02/pic.jpg)
 
 ![](https://joecalih.com/wp-content/uploads/2026/02/Portrait.jpg)
 

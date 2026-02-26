@@ -1,7 +1,7 @@
 ---
 title: "Breadcrumbs Schema Markup For Blogger Website"
 excerpt: "Breadcrumbs Schema Markup for Vocabulary and RDFA Breadcrumbs and JSON-LD breadcrumbs. You can get rich SEO search results with breadcrumbs."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

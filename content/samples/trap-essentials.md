@@ -10,7 +10,7 @@ keySignatures: ["F# min", "C# min", "A min", "E min"]
 description: "Hard-hitting trap elements with heavy 808s, crisp hi-hats, and melodic elements perfect for modern trap and hip hop production."
 tags: ["trap", "808", "hi-hats", "melody", "hard"]
 price: "$21.99"
-releaseDate: "2024-01-25"
+releaseDate: "2025-01-25"
 duration: "1:45:20"
 packSize: "750 MB"
 ---

@@ -4,7 +4,7 @@ artist: "Stellar Collective"
 slug: "cosmic-journey"
 cover: "/placeholder.svg?height=400&width=400"
 genre: "Ambient Electronic"
-releaseDate: "2024-01-20"
+releaseDate: "2025-01-20"
 duration: "56:32"
 totalTracks: 7
 label: "Deep Space Records"

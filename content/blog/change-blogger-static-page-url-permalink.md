@@ -1,7 +1,7 @@
 ---
 title: "How To Change Blogger Static Page URL Permalink"
 excerpt: "To change Blogger static page URL for your blogger blog page. This blogger static page URL permalink changes SEO. Chance the static page URL"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "How To Permanently Delete A Blogger Blog"
 excerpt: "Step by step on how to permanently Delete a Blogger Blog website. Learn to delete and safety cautions to backup Blogger data before deleting."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -28,7 +28,7 @@ You can permanently delete a blogger blog in Blogger with full backup or without
 7. On the select websites top left corner click on it.  
 8. Click on the Deleted website from the deleted blogs column and click on **Delete permanently** as shown below.
 
-[![Blogger Settings](https://joecalih.files.wordpress.com/2024/06/134f4-blogger2bsettings.png?w=300 "Blogger Settings")](http://joecalih.files.wordpress.com/2024/06/134f4-blogger2bsettings.png)
+[![Blogger Settings](https://joecalih.files.wordpress.com/2025/06/134f4-blogger2bsettings.png?w=300 "Blogger Settings")](http://joecalih.files.wordpress.com/2025/06/134f4-blogger2bsettings.png)
 
 Deleted blogs can be restored within 90 days before they are removed forever. You can create another blog at this address using the Google Account you’re currently logged in with.
 

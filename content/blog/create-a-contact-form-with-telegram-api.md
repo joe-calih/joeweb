@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Contact Form with Telegram API"
 excerpt: "Blogger website contact form widget made with telegram bot UI/UX. Get blogger contact form widgets that works on telegram bot API to layout."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

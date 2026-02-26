@@ -1,7 +1,7 @@
 ---
 title: "How to Use Natural Light for Perfect Portraits"
 excerpt: "Master natural light for perfect portraits with tips on using golden hour, window light, backlighting, and more to capture stunning images."
-date: "2024-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

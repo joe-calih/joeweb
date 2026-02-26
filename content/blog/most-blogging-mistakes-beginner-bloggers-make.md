@@ -1,7 +1,7 @@
 ---
 title: "Best SEO Optimization Website Practices 2025"
 excerpt: "Most Beginner blogging mistakes in common blogger posts. These mistakes make bloggers not rank in search engines and lose traffic."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

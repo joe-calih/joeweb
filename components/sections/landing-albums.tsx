@@ -12,7 +12,7 @@ const albums = [
     title: "Midnight Dreams",
     artist: "Joecalih",
     cover: "/placeholder.svg?height=200&width=200",
-    year: "2024",
+    year: "2025",
     tracks: 12,
   },
   {
@@ -21,7 +21,7 @@ const albums = [
     title: "Urban Vibes",
     artist: "Joecalih",
     cover: "/placeholder.svg?height=200&width=200",
-    year: "2023",
+    year: "2025",
     tracks: 10,
   },
   {
@@ -30,7 +30,7 @@ const albums = [
     title: "Acoustic Sessions",
     artist: "Joecalih",
     cover: "/placeholder.svg?height=200&width=200",
-    year: "2023",
+    year: "2025",
     tracks: 8,
   },
   {

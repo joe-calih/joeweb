@@ -33,8 +33,8 @@ resources:
     url: "#"
     type: "download"
 order: 1
-publishedAt: "2024-01-19"
-updatedAt: "2024-01-19"
+publishedAt: "2025-01-19"
+updatedAt: "2025-01-19"
 ---
 
 # SEO Analytics & Data-Driven Optimization: Master Performance Tracking
@@ -183,9 +183,9 @@ Top Performing Landing Pages:
 
 | Acquisition Month | Month 0 | Month 1 | Month 2 | Month 3 | Month 6 | Month 12 |
 |-------------------|---------|---------|---------|---------|---------|----------|
-| January 2024 | 100% | 15.2% | 8.7% | 6.3% | 3.8% | 2.1% |
-| February 2024 | 100% | 18.4% | 10.2% | 7.1% | 4.2% | - |
-| March 2024 | 100% | 16.8% | 9.5% | 6.8% | - | - |
+| January 2025 | 100% | 15.2% | 8.7% | 6.3% | 3.8% | 2.1% |
+| February 2025 | 100% | 18.4% | 10.2% | 7.1% | 4.2% | - |
+| March 2025 | 100% | 16.8% | 9.5% | 6.8% | - | - |
 
 **Insights:**
 - February cohort shows 21% higher retention in Month 1
@@ -352,9 +352,9 @@ Where:
 **Example Forecast:**
 | Month | Base Traffic | Seasonal Index | Growth Rate | Forecast |
 |-------|--------------|----------------|-------------|----------|
-| Jan 2024 | 40,000 | 0.85 | 1.15 | 39,100 |
-| Feb 2024 | 40,000 | 0.92 | 1.15 | 42,320 |
-| Mar 2024 | 40,000 | 1.08 | 1.15 | 49,680 |
+| Jan 2025 | 40,000 | 0.85 | 1.15 | 39,100 |
+| Feb 2025 | 40,000 | 0.92 | 1.15 | 42,320 |
+| Mar 2025 | 40,000 | 1.08 | 1.15 | 49,680 |
 
 ## Advanced Data Visualization
 
@@ -439,7 +439,7 @@ Control Group (50% of pages):
 Title: "SEO Guide: Complete Beginner's Tutorial"
 
 Test Group (50% of pages):
-Title: "Master SEO in 2024: Complete Beginner's Guide"
+Title: "Master SEO in 2025: Complete Beginner's Guide"
 
 Metrics to Track:
 ├── Click-through rate from SERPs

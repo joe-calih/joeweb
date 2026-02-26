@@ -30,8 +30,8 @@ resources:
     url: "#"
     type: "download"
 order: 1
-publishedAt: "2024-01-18"
-updatedAt: "2024-01-18"
+publishedAt: "2025-01-18"
+updatedAt: "2025-01-18"
 ---
 
 # Advanced Content Optimization: SEO Content Strategy That Converts
@@ -148,7 +148,7 @@ Strategy: Create 3000+ word ultimate guide
 | Position | Title Angle | Content Focus | Unique Value Prop |
 |----------|-------------|---------------|-------------------|
 | 1 | "Complete Guide" | Comprehensive coverage | Step-by-step process |
-| 2 | "2024 Strategies" | Current/trending | Latest techniques |
+| 2 | "2025 Strategies" | Current/trending | Latest techniques |
 | 3 | "Proven Tactics" | Results-focused | Case studies/proof |
 
 ## Semantic SEO Mastery

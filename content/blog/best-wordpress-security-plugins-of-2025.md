@@ -1,7 +1,7 @@
 ---
 title: "Best Wordpress Security Plugins of 2025"
-excerpt: "Discover the best WordPress security plugins of 2024 to protect your site from hackers, malware, and breaches. Keep your website secure!"
-date: "2023-05-15"
+excerpt: "Discover the best WordPress security plugins of 2025 to protect your site from hackers, malware, and breaches. Keep your website secure!"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "How To Make Money From Home Online"
 excerpt: " Make Money From Home Today with these simple steps & guides. Get Freelance jobs to work online and make money today. Learn website platforms"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

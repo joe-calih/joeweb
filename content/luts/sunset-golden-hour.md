@@ -19,7 +19,7 @@ fileSize: "2.1 MB"
 instructions: "Works best with outdoor footage shot during golden hour"
 tags: ["sunset", "golden hour", "warm", "romantic", "outdoor", "lifestyle", "natural"]
 featured: true
-dateCreated: "2024-12-12"
+dateCreated: "2025-12-12"
 author: "Nature Films Studio"
 ---
 

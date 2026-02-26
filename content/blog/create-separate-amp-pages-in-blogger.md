@@ -1,7 +1,7 @@
 ---
 title: "How to Create Separate AMP Pages In Blogger"
 excerpt: "Blogger AMP can be added to m=1 mobile redirect without adding AMP to whole Blogger Theme Template. Create Separate AMP Pages in Blogger."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

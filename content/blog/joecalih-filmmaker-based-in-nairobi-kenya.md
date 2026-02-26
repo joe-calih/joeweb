@@ -1,7 +1,7 @@
 ---
 title: "Joecalih Filmmaker Based In Nairobi Kenya"
 excerpt: "Learn more about Joecalih Filmmaker based in Kenya and the great projects he is known for. Preview the best arts by Joecalih Fimmaker archive."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

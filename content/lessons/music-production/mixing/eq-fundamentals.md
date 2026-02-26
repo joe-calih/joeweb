@@ -27,8 +27,8 @@ resources:
     url: "/downloads/eq-practice-stems.zip"
     type: "download"
 order: 1
-publishedAt: "2024-01-25"
-updatedAt: "2024-01-25"
+publishedAt: "2025-01-25"
+updatedAt: "2025-01-25"
 ---
 
 # EQ Fundamentals for Music Production

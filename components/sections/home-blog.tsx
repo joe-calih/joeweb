@@ -14,7 +14,7 @@ const blogPosts = [
     title: "20 Ways to Increase Website Traffic in 2025",
     excerpt:
       "Get in-depth lessons on how to increase website SEO & traffic with advanced tools and practices. Learn the most paramount SEO in optimization.",
-    date: "2024-09-22",
+    date: "2025-09-22",
     readTime: "8 min read",
     category: "SEO",
     image: "/Traffic.webp",
@@ -25,7 +25,7 @@ const blogPosts = [
     title: "Complete Guide to SEO Optimization in 2025",
     excerpt:
       "Master the art of SEO with this comprehensive guide covering keyword research, on-page optimization, technical SEO, and link building strategies.",
-    date: "2024-01-20",
+    date: "2025-01-20",
     readTime: "12 min read",
     category: "SEO",
     image: "/seo-guide.webp",
@@ -36,7 +36,7 @@ const blogPosts = [
     title: "Social Media Marketing Strategies That Drive Results",
     excerpt:
       "Discover proven social media marketing strategies to grow your brand, engage your audience, and drive conversions across all major platforms.",
-    date: "2024-01-18",
+    date: "2025-01-18",
     readTime: "10 min read",
     category: "Marketing",
     image: "/social-media.webp",
@@ -47,7 +47,7 @@ const blogPosts = [
     title: "Email Marketing Best Practices for 2025",
     excerpt:
       "Learn the latest email marketing strategies to boost open rates, increase engagement, and drive conversions with proven best practices and techniques.",
-    date: "2024-01-15",
+    date: "2025-01-15",
     readTime: "9 min read",
     category: "Marketing",
     image: "/email-marketing.webp",
@@ -58,7 +58,7 @@ const blogPosts = [
     title: "Content Creation Tips for Modern Creators",
     excerpt:
       "Discover essential content creation strategies, tools, and techniques to build your audience, improve engagement, and monetize your creative work effectively.",
-    date: "2024-01-12",
+    date: "2025-01-12",
     readTime: "11 min read",
     category: "Content",
     image: "/content-creation.webp",
@@ -69,7 +69,7 @@ const blogPosts = [
     title: "Digital Transformation Guide for Modern Businesses",
     excerpt:
       "Navigate the digital transformation journey with proven strategies, tools, and frameworks to modernize your business and stay competitive in 2025.",
-    date: "2024-01-10",
+    date: "2025-01-10",
     readTime: "13 min read",
     category: "Business",
     image: "/digital-transformation.webp",

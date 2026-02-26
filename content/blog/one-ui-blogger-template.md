@@ -1,7 +1,7 @@
 ---
 title: "One UI Premium Blogger Template Free Download"
 excerpt: "Download One UI Premium Blogger Template for a fully customizable theme. Perfect for blogs, magazines and SEO optimization!"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

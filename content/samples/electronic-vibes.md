@@ -10,7 +10,7 @@ keySignatures: ["E min", "D maj", "B min", "A maj"]
 description: "Modern electronic sounds and textures perfect for contemporary electronic music production. Features cutting-edge synths, atmospheric pads, and driving rhythms."
 tags: ["electronic", "synth", "techno", "house", "ambient"]
 price: "$19.99"
-releaseDate: "2024-02-01"
+releaseDate: "2025-02-01"
 duration: "1:58:45"
 packSize: "850 MB"
 ---

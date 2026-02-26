@@ -18,7 +18,7 @@ fileSize: "1.9 MB"
 instructions: "Ideal for overcast conditions and modern architecture"
 tags: ["nordic", "blue", "cool", "minimalist", "modern", "scandinavian", "clean"]
 featured: false
-dateCreated: "2024-12-18"
+dateCreated: "2025-12-18"
 author: "Nordic Films Collective"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Add Meta Description in Blogger"
 excerpt: "Steps to Add Meta Description in Blogger 1. Login to Blogger Settings 2. Click on search preferences 3. Enable search description and save"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

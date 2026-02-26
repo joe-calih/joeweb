@@ -1,7 +1,7 @@
 ---
 title: "How To Load Google Fonts Faster In Blogger"
 excerpt: "How to speed up website Google web fonts are optimized for SEO. Learn How To Load Google Web Fonts Faster In Blogger with steps."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

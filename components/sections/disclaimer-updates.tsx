@@ -16,7 +16,7 @@ export function DisclaimerUpdates() {
       changes: ["GDPR compliance improvements", "Enhanced data encryption", "User consent management"],
     },
     {
-      date: "December 15, 2024",
+      date: "December 15, 2025",
       version: "v3.0",
       type: "Policy Update",
       title: "Commercial Usage Terms",
@@ -24,7 +24,7 @@ export function DisclaimerUpdates() {
       changes: ["Commercial licensing clarity", "Attribution requirements", "Revenue sharing terms"],
     },
     {
-      date: "November 20, 2024",
+      date: "November 20, 2025",
       version: "v2.9",
       type: "Minor Update",
       title: "Platform Guidelines",

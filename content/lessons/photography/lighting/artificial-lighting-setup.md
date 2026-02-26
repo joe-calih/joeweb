@@ -27,8 +27,8 @@ resources:
     url: "/downloads/lighting-equipment.pdf"
     type: "download"
 order: 2
-publishedAt: "2024-01-20"
-updatedAt: "2024-01-20"
+publishedAt: "2025-01-20"
+updatedAt: "2025-01-20"
 ---
 
 # Artificial Lighting Setup for Beginners

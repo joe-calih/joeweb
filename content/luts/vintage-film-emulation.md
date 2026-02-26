@@ -19,7 +19,7 @@ fileSize: "1.8 MB"
 instructions: "Best applied at 80-90% intensity for natural look"
 tags: ["vintage", "film", "retro", "35mm", "nostalgic", "warm", "analog"]
 featured: true
-dateCreated: "2024-12-10"
+dateCreated: "2025-12-10"
 author: "Analog Dreams Studio"
 ---
 

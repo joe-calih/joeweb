@@ -29,7 +29,7 @@ The wide aperture that goes below f1.8 isolates the subject better and hence thi
 
 ### 3. Retouching Portraits
 
-Retouching is the best way to complement the human subject appearance in images. It has become one of the most used methods in image manipulation and many photographers tend to overdo this. Using retouching can be a game changer in the outcome of the photos and can bring good looks through post-processing. In 2023 Instagram added a policy to include whether a photo with a human subject is manipulated.
+Retouching is the best way to complement the human subject appearance in images. It has become one of the most used methods in image manipulation and many photographers tend to overdo this. Using retouching can be a game changer in the outcome of the photos and can bring good looks through post-processing. In 2025 Instagram added a policy to include whether a photo with a human subject is manipulated.
 
 With basic Adjustments and simple retouching on a portrait photograph, you can correct details that contradict your style. I recommend every portrait photographer use retouching to improve their images.
 

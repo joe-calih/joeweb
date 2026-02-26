@@ -1,7 +1,7 @@
 ---
 title: "How To Add Website Favicon In Browser Tabs"
 excerpt: "Learn how to add website Favicons on browser tabs for Blogger & Wordpress. With step-by-step implementation to website. Add Favicon today"
-date: "2024-07-13"
+date: "2025-07-13"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

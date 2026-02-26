@@ -19,7 +19,7 @@ fileSize: "2.4 MB"
 instructions: "Apply in Lumetri Color panel > Creative > Look > Browse"
 tags: ["cinematic", "orange", "teal", "hollywood", "dramatic", "action", "blockbuster"]
 featured: true
-dateCreated: "2024-12-15"
+dateCreated: "2025-12-15"
 author: "ColorGrade Pro"
 ---
 

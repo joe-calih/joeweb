@@ -1,7 +1,7 @@
 ---
 title: "Facebook Page Popup Widget For Blogger"
 excerpt: "Add Facebook Like Box Popup Widget For Blogger. Follow the steps and get the Facebook like box floating your blogger website Page load time."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

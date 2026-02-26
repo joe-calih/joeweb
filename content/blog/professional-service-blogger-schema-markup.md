@@ -1,7 +1,7 @@
 ---
 title: "Professional Service Blogger Schema Markup"
 excerpt: " Learn to add professional service blogger schema markup and increase conversions. Give your customers professional customer-rich spinets."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -16,7 +16,7 @@ Many businesses have various products that they sell online through eCommerce we
 
 In case you want to look at the search results after applying the professional schema markup to your blogger blog template code, then the below image shows shoe results with prices after the professional service blogger [schema markup](/search/label/Schema%20Markup) data implementation.
 
-[![Professional Service](https://joecalih.files.wordpress.com/2024/06/78595-contact-sky-featured-snippet.jpg?w=300 "Professional Service")](https://joecalih.files.wordpress.com/2024/06/78595-contact-sky-featured-snippet.jpg)
+[![Professional Service](https://joecalih.files.wordpress.com/2025/06/78595-contact-sky-featured-snippet.jpg?w=300 "Professional Service")](https://joecalih.files.wordpress.com/2025/06/78595-contact-sky-featured-snippet.jpg)
 
 To add the professional service schema markup is done through code integration in the blogger source code below the dynamic meta tags for the template CSS codes. Let's add them by following the steps that proceed below.
 

@@ -19,7 +19,7 @@ fileSize: "2.2 MB"
 instructions: "Works best with outdoor desert and landscape footage"
 tags: ["desert", "warm", "travel", "landscape", "adventure", "golden", "earth"]
 featured: true
-dateCreated: "2024-12-16"
+dateCreated: "2025-12-16"
 author: "Desert Vision Studios"
 ---
 

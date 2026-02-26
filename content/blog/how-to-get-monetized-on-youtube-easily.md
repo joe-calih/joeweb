@@ -1,7 +1,7 @@
 ---
 title: "How to Get YouTube Monetization Easily"
 excerpt: " Learn tips on how to get YouTube monetization easily with simple premium steps. Know the requirements to get monetized with a steps guide."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

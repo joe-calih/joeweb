@@ -1,7 +1,7 @@
 ---
 title: "Blogger SEO Tips to Grow Your Blogspot Traffic"
 excerpt: "Learn Blogger Search Engine Optimization (SEO) tips in social advertising, keywords, web design, structured data, and email marketing."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

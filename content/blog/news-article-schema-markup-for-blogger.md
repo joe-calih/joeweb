@@ -1,7 +1,7 @@
 ---
 title: "News Article Schema Markup For Blogger Blog"
 excerpt: "Get news article schema markup for Blogger with Jslod-ld and microdata. Best structured data for news blogger websites to snippets in Google."
-date: "2024-06-15"
+date: "2025-06-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

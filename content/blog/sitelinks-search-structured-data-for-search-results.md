@@ -15,7 +15,7 @@ views: 5432
 Sitelinks in search results of a website is a structured markup that shows how Google recommends a website for searching from a large number of content. Big well-known websites have their site links search box in the search results. Today I am going to take you over adding the site links search box for Blogger and WordPress to also wait to be indexed the same way by Google.  
 Sitelinks search box is found on the lower part of search results meta descriptions that act as a search subset or a search engine to search for a story in a topic written on the website. Today we are following the steps in adding the site links search box in the search results of a blogger or WordPress website nice and easy. This is a demo of how your search link search box will look in search results.
 
-[![Sitelinks-Search-Box](https://joecalih.files.wordpress.com/2024/06/295d3-sitelinks-search-box.jpg?w=300 "Sitelinks-Search-Box")](http://joecalih.files.wordpress.com/2024/06/295d3-sitelinks-search-box.jpg)
+[![Sitelinks-Search-Box](https://joecalih.files.wordpress.com/2025/06/295d3-sitelinks-search-box.jpg?w=300 "Sitelinks-Search-Box")](http://joecalih.files.wordpress.com/2025/06/295d3-sitelinks-search-box.jpg)
 
 ### How To Add Search Links Search Box in Blogger
 

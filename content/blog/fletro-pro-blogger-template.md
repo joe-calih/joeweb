@@ -1,7 +1,7 @@
 ---
 title: "Fletro Pro Blogger Template Premium Free Download"
 excerpt: "Download Latest Fletro Blogger Template Premium for free! Perfect for professional, high-quality blogs with modern design."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

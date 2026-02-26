@@ -34,7 +34,7 @@ Step 6. After finding the Head Tag Copy all the code BELOW and Paste it BEFORE t
 
 ### 1. Fine Colors Social Media Buttons widget For Blogger
 
-![Fine Colors Social Media Buttons widget For Blogger](https://joecalih.co.ke/wp-content/uploads/2024/02/Fine-Colors-Social-Media-Buttons-widget-For-Blogger.png "Fine Colors Social Media Buttons widget For Blogger")
+![Fine Colors Social Media Buttons widget For Blogger](https://joecalih.co.ke/wp-content/uploads/2025/02/Fine-Colors-Social-Media-Buttons-widget-For-Blogger.png "Fine Colors Social Media Buttons widget For Blogger")
 
 **CODE**
 
@@ -47,7 +47,7 @@ It can generate lots of followers on Instagram, page followers on Facebook, and 
 
 ### 2. Block-style colorful social media widget
 
-![Block style colorful social media widget](https://joecalih.co.ke/wp-content/uploads/2023/08/Block-2Bstyle-2Bcolorful-2Bsocial-2Bmedia-2Bwidget-300x180.png "Block style colorful social media widget")
+![Block style colorful social media widget](https://joecalih.co.ke/wp-content/uploads/2025/08/Block-2Bstyle-2Bcolorful-2Bsocial-2Bmedia-2Bwidget-300x180.png "Block style colorful social media widget")
 
 **CODE**
 
@@ -61,7 +61,7 @@ This social media is like a simple all-in-one place that is like ” hey you, ju
 
 ### 3. Beautiful colorful social media widget
 
-![Beautiful colorful social media widget](https://joecalih.co.ke/wp-content/uploads/2023/08/Beautiful-2Bcolorful-2Bsocial-2Bmedia-2Bwidget-300x133.png "Beautiful colorful social media widget")
+![Beautiful colorful social media widget](https://joecalih.co.ke/wp-content/uploads/2025/08/Beautiful-2Bcolorful-2Bsocial-2Bmedia-2Bwidget-300x133.png "Beautiful colorful social media widget")
 
 **CODE**
 
@@ -75,7 +75,7 @@ You guys are so privileged that I decided to give out this one. I have kept it f
 
 ### 4. Best stylish social media widget
 
-![Best stylish social media widget](https://joecalih.co.ke/wp-content/uploads/2023/08/Best-2Bstylish-2Bsocial-2Bmedia-2Bwidget-300x158.png "Best stylish social media widget")
+![Best stylish social media widget](https://joecalih.co.ke/wp-content/uploads/2025/08/Best-2Bstylish-2Bsocial-2Bmedia-2Bwidget-300x158.png "Best stylish social media widget")
 
 **CODE**
 
@@ -88,7 +88,7 @@ stylish social media icon. Made by Graham. Very clean and very convenient social
 
 ### **5. Stylish transparent social media widget**
 
-![Stylish transparent social media widget](https://joecalih.co.ke/wp-content/uploads/2023/08/Stylish-2Btransparent-2Bsocial-2Bmedia-2Bwidget-300x179.png "Stylish transparent social media widget")
+![Stylish transparent social media widget](https://joecalih.co.ke/wp-content/uploads/2025/08/Stylish-2Btransparent-2Bsocial-2Bmedia-2Bwidget-300x179.png "Stylish transparent social media widget")
 
 **CODE**
 

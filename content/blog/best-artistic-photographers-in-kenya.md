@@ -16,7 +16,7 @@ Artistic Photographers in Kenya have gone a notch higher with the effort of some
 
 ### 1. Truth Slinger (Mutua Matheka )
 
-Mutua Matheka is one of the best-ever artistic photographers in Kenyan history as his work is highly recognized by big brands such as East African Breweries ( EABL ). He has over 20 billboards showcasing him taking landscape photos around Nairobi Town. Below I have enough proof to show you why I consider him one of the best photographers in Kenya in 2023.
+Mutua Matheka is one of the best-ever artistic photographers in Kenyan history as his work is highly recognized by big brands such as East African Breweries ( EABL ). He has over 20 billboards showcasing him taking landscape photos around Nairobi Town. Below I have enough proof to show you why I consider him one of the best photographers in Kenya in 2025.
 
 -   Best Landscape Photographer Of the Year ( Royal Media Services Project )
 -   Test Selling artwork of all times ( Flea Market Awards )
@@ -30,7 +30,7 @@ Twitter : https://twitter.com/truthslinger
 
 ### 2. Osborn Macharia
 
-Osborn Macharia the best Artist photographer in Kenya in 2023 with a highly appreciated look of Afro-futurism. Expressing art through narratives that happen around Africa from time immemorial, with more to be launched soon. He is the top-rated brand photographer with over 50 brand collaborations. Some brands like Safaricom telecommunication service well known in Kenya and Guinness Brewery. The Kabangu project with the most appreciated photo in Kenya for showing the Normal Kenya narrative of the Kenyan Mwanainchi narrative. Soon he has a Mad-max narrative project that you have to look for soon. This is why Osborn Macharia is the Best of Artistic Photographers in 2023.
+Osborn Macharia the best Artist photographer in Kenya in 2025 with a highly appreciated look of Afro-futurism. Expressing art through narratives that happen around Africa from time immemorial, with more to be launched soon. He is the top-rated brand photographer with over 50 brand collaborations. Some brands like Safaricom telecommunication service well known in Kenya and Guinness Brewery. The Kabangu project with the most appreciated photo in Kenya for showing the Normal Kenya narrative of the Kenyan Mwanainchi narrative. Soon he has a Mad-max narrative project that you have to look for soon. This is why Osborn Macharia is the Best of Artistic Photographers in 2025.
 
 -   Kenya Cannes Lion Award (2015)
 -   One Show Finalist (2016)
@@ -45,6 +45,6 @@ Website: https://k63.studio/
 
 ### 3. Joecalih Artistic Photographers ( Joseph Karanja )
 
-Joecalih is the best portrait photographer and video director in Kenya in 2023. Download some of his project works on the website page. [Joecalih](https://www.joecalih.co.ke) is just one of the many talented artistic photographers in Kenya. Joecalih Mutua Matheka is one of the best-ever artistic photographers in Kenyan history as his work is high in vibrance. Each has its unique style and perspective, and all are worth following and admiring for their beautiful and thought-provoking work. Firstly, among the best artistic photographers in Kenya is Joecalih.
+Joecalih is the best portrait photographer and video director in Kenya in 2025. Download some of his project works on the website page. [Joecalih](https://www.joecalih.co.ke) is just one of the many talented artistic photographers in Kenya. Joecalih Mutua Matheka is one of the best-ever artistic photographers in Kenyan history as his work is high in vibrance. Each has its unique style and perspective, and all are worth following and admiring for their beautiful and thought-provoking work. Firstly, among the best artistic photographers in Kenya is Joecalih.
 
 Soon he will contribute to elevating the country's profile in the international art world, and their work continues to inspire and captivate audiences around the globe.

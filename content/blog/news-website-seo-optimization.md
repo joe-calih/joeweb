@@ -1,7 +1,7 @@
 ---
 title: "News Website SEO Optimization Services"
 excerpt: " Automate your news website SEO in a month with Semdeals. Optimize titles, meta descriptions, backlinks, and content for 100,000+ views."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

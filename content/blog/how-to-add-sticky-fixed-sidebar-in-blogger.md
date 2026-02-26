@@ -1,7 +1,7 @@
 ---
 title: "How To Add Sticky Fixed Sidebar In Blogger"
 excerpt: "Step by step on How To Add Sticky Fixed Sidebar In Blogger. Make your blogger sidebar fixed for better visibility and AdSense revenue."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

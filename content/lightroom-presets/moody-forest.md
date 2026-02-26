@@ -13,7 +13,7 @@ featured: false
 previewImage: "/placeholder.svg?height=600&width=600"
 beforeImage: "/placeholder.svg?height=800&width=600"
 afterImage: "/placeholder.svg?height=800&width=600"
-datePublished: "2024-01-12"
+datePublished: "2025-01-12"
 ---
 
 # Moody Forest Lightroom Presets

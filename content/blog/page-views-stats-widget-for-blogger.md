@@ -1,7 +1,7 @@
 ---
 title: "Page Views Stats Widget For Blogger Website"
 excerpt: "Tutorial on How To Add Page Views Stats Widget to Blogger Website. Show page views of posts in your blogger website sidebar and homepage."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

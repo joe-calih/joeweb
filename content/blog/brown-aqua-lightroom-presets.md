@@ -1,7 +1,7 @@
 ---
 title: "Brown & Aqua Lightroom Presets Free Download"
 excerpt: " Download brown & aqua lightroom presets for free and learn how to install them on all adobe platforms including lightroom mobile and CS6."
-date: "2024-05-25"
+date: "2025-05-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

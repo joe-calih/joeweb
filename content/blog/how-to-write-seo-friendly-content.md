@@ -1,7 +1,7 @@
 ---
 title: "How To Write SEO Friendly Content ( Tips & Tools )"
 excerpt: " This is how to Write SEO Friendly Content · Use headlines and sub-headers · Add links to previous content · Optimize your article today"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Google Translate Widget for Blogger Website"
 excerpt: "Add Google Translate For Blogger websites to increase your revenue, CTR & traffic from different countries. Add Google translate to Blogger."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "How To Set Image Before Post In Blogger"
 excerpt: "Set Blogger post Image Appear Before post in your blogger website post view. Follow the steps to add code to Blogger template to apply."
-date: "2024-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

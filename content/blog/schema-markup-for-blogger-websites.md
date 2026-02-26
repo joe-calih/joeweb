@@ -1,7 +1,7 @@
 ---
 title: "How To add Schema Markup to Blogger Website"
 excerpt: "Learn to add schema markup to blogger website and search results to enhance SEO. Add schema structured markup to blogger website today."
-date: "2024-11-04"
+date: "2025-11-04"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

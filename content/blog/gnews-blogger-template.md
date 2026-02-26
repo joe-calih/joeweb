@@ -1,7 +1,7 @@
 ---
 title: "GNews Premium Blogger Template Free Download"
 excerpt: "Download GNews Blogger Template with fast, user-friendly, and fully customizable news. Perfect for magazines, technology, sports, and more!"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

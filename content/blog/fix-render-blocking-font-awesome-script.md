@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Render Blocking Font Awesome Script"
 excerpt: " Font Awesome CSS Script Resources block render of websites. Pages speed insights are affected by Render Blocking Font Awesome CSS Script"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -14,7 +14,7 @@ views: 5432
 
 Font Awesome script is a cool CSS plugin in Blogger and also WordPress templates. The main purpose is to add simple small beautiful icons representing a known value of icons. Whenever we use the font awesome code in templates we add style. when the add-on is not optimized we get slower templates and that puts our ranking in jeopardy. To know which render-blocking scripts are blocking your speed you can use [Google Speed Insights](https://joecalih.co.ke/speed-up-google-ajax-jquery-code/). Font Awesome CSS Script is one of them. Today I am going to show you how to use the font awesome CSS and still have an optimized speed on the website. The topic is How to Fix Render Blocking Font Awesome CSS Script Resources.
 
-[![Font Awesome CSS Script](https://joecalih.files.wordpress.com/2024/06/6529f-font_awesome_speed.png?w=300 "Font Awesome CSS Script")](http://joecalih.files.wordpress.com/2024/06/6529f-font_awesome_speed.png)
+[![Font Awesome CSS Script](https://joecalih.files.wordpress.com/2025/06/6529f-font_awesome_speed.png?w=300 "Font Awesome CSS Script")](http://joecalih.files.wordpress.com/2025/06/6529f-font_awesome_speed.png)
 
 Render-blocking scripts are those that block resources and cause your blogger blog to render slowly. Font Awesome CSS is not the only render-blocking script that can cause your blogger or WordPress website to run slower. There are other Java scripts and CSS that cause our websites to go slower. Here at Seohuk, we have the perfect medicine for your affected blog. We will address the issue of slowed website loading speed caused by the font awesome CSS render blocking resource in the code section by implementing a sync script. This script ensures that the entire website is loaded before the script is loaded in the web view. By doing so, we aim to improve the website’s loading speed.
 

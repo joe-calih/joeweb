@@ -10,7 +10,7 @@ keySignatures: ["A min", "C min", "F maj", "G min"]
 description: "Harness the vibrant spirit of Afro House with 'Purify - Afro House Essentials,' a robust sample pack that channels the essence of artists like Adam Port, Black Coffee, Rampa, Manoo, Osunlade, Culoe De Song, Boddhi Satva, Zepherin Saint, Djeff, Afrique, Floyd Lavine, and Enoo Napa."
 tags: ["afro house", "percussion", "vocals", "loops", "one shots"]
 price: "$24.99"
-releaseDate: "2024-01-15"
+releaseDate: "2025-01-15"
 duration: "2:45:30"
 packSize: "1.2 GB"
 ---

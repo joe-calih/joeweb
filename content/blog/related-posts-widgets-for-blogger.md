@@ -1,7 +1,7 @@
 ---
 title: "Related Posts With Thumbnails For Blogger"
 excerpt: "How To Add Related Posts with thumbnails for Blogger Website. Learn how to add related posts widget bellow your blogger website posts body"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

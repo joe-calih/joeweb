@@ -1,7 +1,7 @@
 ---
 title: "Best Recent Comments Widget For Blogger"
 excerpt: "Get recent comments blogger widget for your website sidebar and showcase the recently posted comments on your blogger post with this widget."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

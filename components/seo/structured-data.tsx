@@ -28,7 +28,7 @@ export const organizationSchema = {
   url: "https://joecalih.co.ke",
   logo: "https://joecalih.co.ke/logo.png",
   description: "Creative resources hub for music, visuals, and educational content",
-  foundingDate: "2024",
+  foundingDate: "2025",
   contactPoint: {
     "@type": "ContactPoint",
     telephone: "+254-700-000-000",

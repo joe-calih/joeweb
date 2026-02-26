@@ -1,7 +1,7 @@
 ---
 title: "How To Add Google AMP To Blogger Website Full Setup"
 excerpt: "Steps On How To AMP To Blogger Website. 1. Set AMP HTML. 2. Charset and Viewport Meta Tags. 3. Setup AMP CDN. 4. Blogger Image AMP Setup ."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

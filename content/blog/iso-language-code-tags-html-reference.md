@@ -1,7 +1,7 @@
 ---
 title: "ISO Language Code Tags HTML Reference"
 excerpt: "Language Attributes HTML ISO code Tags for websites In all Countries. Learn How to Add ISO Language Code Tags HTML in Your Website Template."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

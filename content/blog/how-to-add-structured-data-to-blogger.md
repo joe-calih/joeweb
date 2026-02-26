@@ -1,7 +1,7 @@
 ---
 title: "How To Add Structured Data To Blogger Website"
 excerpt: "Learn to add Rich structured data markup to a blogger website. Such structured data include star reviews and breadcrumbs markup-rich spinets."
-date: "2024-06-25"
+date: "2025-06-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

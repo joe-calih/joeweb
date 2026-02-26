@@ -14,7 +14,7 @@ featured: true
 previewImage: "/placeholder.svg?height=600&width=600"
 beforeImage: "/placeholder.svg?height=800&width=600"
 afterImage: "/placeholder.svg?height=800&width=600"
-datePublished: "2023-09-15"
+datePublished: "2025-09-15"
 ---
 
 # Cinematic Film Look Lightroom Presets

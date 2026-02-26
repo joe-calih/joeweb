@@ -1,7 +1,7 @@
 ---
 title: "iMagz premium blogger template Free Download"
 excerpt: "Download iMagz Premium Blogger Template for free! Perfect for anime and movie blog on blogger fully customizable list and grid view options."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

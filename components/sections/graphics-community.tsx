@@ -38,7 +38,7 @@ const featuredPosts = [
   {
     author: "Alex Chen",
     avatar: "/placeholder.svg?height=40&width=40",
-    title: "Modern Logo Design Trends 2024",
+    title: "Modern Logo Design Trends 2025",
     image: "/placeholder.svg?height=200&width=300",
     likes: 234,
     views: "1.2K",

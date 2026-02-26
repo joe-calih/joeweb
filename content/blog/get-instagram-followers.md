@@ -1,7 +1,7 @@
 ---
 title: "How To Get More Followers On Instagram Fast"
 excerpt: "The best tutorial on how to get more followers on Instagram fast from new, organic, secure and most efficient. Get 100k followers in weeks"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

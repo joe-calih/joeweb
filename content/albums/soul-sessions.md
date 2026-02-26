@@ -4,7 +4,7 @@ artist: "Maya Johnson"
 slug: "soul-sessions"
 cover: "/placeholder.svg?height=400&width=400"
 genre: "Neo-Soul"
-releaseDate: "2024-02-28"
+releaseDate: "2025-02-28"
 duration: "38:45"
 totalTracks: 8
 label: "Groove Records"
@@ -88,7 +88,7 @@ Maya worked closely with producer Marcus Soul to create an intimate atmosphere i
 
 ## Tour Dates
 
-Maya Johnson will be touring in support of Soul Sessions throughout 2024:
+Maya Johnson will be touring in support of Soul Sessions throughout 2025:
 
 - March 15 - Apollo Theater, New York
 - March 22 - Kennedy Center, Washington DC

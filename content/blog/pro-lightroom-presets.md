@@ -1,7 +1,7 @@
 ---
 title: "20+ Pro Lightroom Presets Free Download"
 excerpt: " Download 20 + pro lightroom presets for free on our lightroom presets archives. Make editing faster using premium lightroom presets."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

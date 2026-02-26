@@ -1,7 +1,7 @@
 ---
 title: "Select And Share Twitter Widget For Blogger"
 excerpt: "highlighting Twitter sharing widget is here for Blogger. Select and share blogger content on Twitter. The widget will show a Twitter icon."
-date: "2023-12-15"
+date: "2025-12-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -16,7 +16,7 @@ Sharing is caring, and the easy way to get more Twitter followers is you share m
 
 Select and share the Twitter [widget](https://joecalih.co.ke/social-media-sidebar-widget-for-blogger/) on Blogger, you will have to add some code to your blogger template. Give the widget a good look and allow it to know the text selected and redirect the user to another page. Redirect to Twitter where they can paste the selected info. Am pretty sure you are now conversant with what we are talking about in this tutorial. The picture below shows how the widget will look upon implementing and selecting text in your blogger blog.
 
-![Tweet Quote](https://joecalih.co.ke/wp-content/uploads/2024/02/Quote-Tweet.jpg "Share Twitter Widget For Blogger")
+![Tweet Quote](https://joecalih.co.ke/wp-content/uploads/2025/02/Quote-Tweet.jpg "Share Twitter Widget For Blogger")
 
 ### How To Add Select And Share Twitter Widget in Blogger.
 

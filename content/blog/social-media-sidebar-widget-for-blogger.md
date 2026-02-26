@@ -14,7 +14,7 @@ views: 5432
 
 Social Widget media is one of the most effective and efficient ways to grow your audience. By implementing the social media follow widget in your blogger template. You are guaranteed that you will never miss people going to follow your work every day through the buttons [widget](https://joecalih.co.ke/responsive-newsletter-email-subscription-blogger-widgets/). The clean and responsive look of the social media follow widget. I want to share below what will give your blogger template looking premium and user-friendly theme. Archive or generate more traffic through your social media handle.
 
-[![Social Media Blogger Sidebar Widget](https://joecalih.files.wordpress.com/2024/06/5babb-social-media-blogger-widget.png?w=300 "Social Media Blogger Sidebar Widget")](http://joecalih.files.wordpress.com/2024/06/5babb-social-media-blogger-widget.png)
+[![Social Media Blogger Sidebar Widget](https://joecalih.files.wordpress.com/2025/06/5babb-social-media-blogger-widget.png?w=300 "Social Media Blogger Sidebar Widget")](http://joecalih.files.wordpress.com/2025/06/5babb-social-media-blogger-widget.png)
 
 Implementing the widget is as easy as adding the code that is below to a widget panel in the layout view of the template. Open [Blogger](http://blogger.com/) and navigate to the layout section. On the sidebar section, you’ll need the option of free widgets to add the code provided. Copy the code below and place it in the **HTML/Javascript** option in the sidebar widget.
 

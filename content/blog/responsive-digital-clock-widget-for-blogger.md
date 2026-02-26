@@ -1,7 +1,7 @@
 ---
 title: "Responsive Digital Clock Widget for Blogger"
 excerpt: "Responsive digital clock blogger widget for your website with step-by-step implementation. Add the blogger widget to increase web conversion."
-date: "2024-08-12"
+date: "2025-08-12"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

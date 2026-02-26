@@ -10,7 +10,7 @@ keySignatures: ["D min", "G maj", "C maj", "F maj"]
 description: "Warm, nostalgic lo-fi jazz samples with vintage character. Perfect for chill beats, study music, and relaxing atmospheric tracks with authentic vinyl warmth."
 tags: ["lo-fi", "jazz", "vintage", "chill", "vinyl"]
 price: "$20.99"
-releaseDate: "2024-02-12"
+releaseDate: "2025-02-12"
 duration: "2:45:30"
 packSize: "800 MB"
 ---

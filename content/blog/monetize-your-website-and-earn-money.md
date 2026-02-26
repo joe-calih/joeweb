@@ -1,7 +1,7 @@
 ---
 title: "How to Monetize Your Website and Earn Money"
 excerpt: "Website monetization is the process of generating revenue from a website. This include advertising, affiliates, e-commerce and sponsorships."
-date: "2024-02-106"
+date: "2025-02-106"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

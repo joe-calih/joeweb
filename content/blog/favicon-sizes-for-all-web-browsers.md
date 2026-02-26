@@ -1,7 +1,7 @@
 ---
 title: "All Website Favicon Sizes for Web Browsers"
 excerpt: "Set Logo Favicon sizes for all browsers supported to different screen sizes. Learn to add all favicon sizes with easy steps to your website."
-date: "2024-03-18"
+date: "2025-03-18"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

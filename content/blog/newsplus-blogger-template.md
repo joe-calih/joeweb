@@ -1,7 +1,7 @@
 ---
 title: "Newsplus Blogger Template Premium Free Download"
 excerpt: " Discover the versatile Newsplus Blogger Template. Fast, SEO-ready, perfect blog for tech, news, and magazine. Customized for professionals."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Igniplex v4 Premium Blogger Template Free Download"
 excerpt: "Download Igniplex v4 Premium Blogger Template for free! Mobile-friendly, SEO optimized, fully customizable, premium licenses, and dark mode."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

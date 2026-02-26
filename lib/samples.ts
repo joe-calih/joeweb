@@ -36,8 +36,8 @@ export function getAllSamples(): SamplePack[] {
       .filter((sample): sample is SamplePack => sample !== null)
 
     return allSamples.sort((a, b) => {
-      const dateA = new Date(a.releaseDate || "2024-01-01")
-      const dateB = new Date(b.releaseDate || "2024-01-01")
+      const dateA = new Date(a.releaseDate || "2025-01-01")
+      const dateB = new Date(b.releaseDate || "2025-01-01")
       return dateB.getTime() - dateA.getTime()
     })
   } catch (error) {
@@ -112,7 +112,7 @@ function getMockSamples(): SamplePack[] {
       mood: "Energetic",
       coverImage: "/placeholder.svg?height=400&width=400",
       cover: "/placeholder.svg?height=400&width=400",
-      releaseDate: "2024-01-15",
+      releaseDate: "2025-01-15",
       price: "$29.99",
       totalSamples: 45,
       bpmRange: "120-125",
@@ -129,7 +129,7 @@ function getMockSamples(): SamplePack[] {
       mood: "Uplifting",
       coverImage: "/placeholder.svg?height=400&width=400",
       cover: "/placeholder.svg?height=400&width=400",
-      releaseDate: "2024-01-10",
+      releaseDate: "2025-01-10",
       price: "$24.99",
       totalSamples: 38,
       bpmRange: "128-132",
@@ -146,7 +146,7 @@ function getMockSamples(): SamplePack[] {
       mood: "Nostalgic",
       coverImage: "/placeholder.svg?height=400&width=400",
       cover: "/placeholder.svg?height=400&width=400",
-      releaseDate: "2024-01-05",
+      releaseDate: "2025-01-05",
       price: "$19.99",
       totalSamples: 32,
       bpmRange: "85-95",

@@ -10,7 +10,7 @@ keySignatures: ["Various"]
 description: "Epic cinematic percussion and orchestral elements for film scoring and dramatic compositions. Features timpani, taiko drums, and atmospheric percussion textures."
 tags: ["cinematic", "orchestral", "epic", "film", "percussion"]
 price: "$29.99"
-releaseDate: "2024-02-18"
+releaseDate: "2025-02-18"
 duration: "3:10:45"
 packSize: "1.3 GB"
 ---

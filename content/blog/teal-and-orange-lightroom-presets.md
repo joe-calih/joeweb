@@ -19,17 +19,17 @@ This Lightroom preset transforms any urban photo into a more cinematic tone with
 
 ### Teal & Orange Lightroom Presets
 
-![Teal & Orange](https://joecalih.co.ke/wp-content/uploads/2024/04/teal-Snow.jpg)
+![Teal & Orange](https://joecalih.co.ke/wp-content/uploads/2025/04/teal-Snow.jpg)
 
-![Building Teal Orange](https://joecalih.co.ke/wp-content/uploads/2024/04/Building.jpg)
+![Building Teal Orange](https://joecalih.co.ke/wp-content/uploads/2025/04/Building.jpg)
 
-![Teal City](https://joecalih.co.ke/wp-content/uploads/2024/04/Teal-City.jpg)
+![Teal City](https://joecalih.co.ke/wp-content/uploads/2025/04/Teal-City.jpg)
 
-![Teal Blur](https://joecalih.co.ke/wp-content/uploads/2024/04/Teal-Blur.jpg)
+![Teal Blur](https://joecalih.co.ke/wp-content/uploads/2025/04/Teal-Blur.jpg)
 
-![Teal Watch](https://joecalih.co.ke/wp-content/uploads/2024/04/Teal-Watch.jpg)
+![Teal Watch](https://joecalih.co.ke/wp-content/uploads/2025/04/Teal-Watch.jpg)
 
-![Teal Highway](https://joecalih.co.ke/wp-content/uploads/2024/04/Teal-Highway.jpg)
+![Teal Highway](https://joecalih.co.ke/wp-content/uploads/2025/04/Teal-Highway.jpg)
 
 Many photographers to date have ventured into portrait photography as part of their main career. With this orange and teal preset you can bring the best out of your human subjects. Download the preset for free and enjoy the warm tones. Benefit from less clarity to reduce blemishes and compliment your subject facial expressions. Download this orange and teal preset, you can manage to have [professorial portrait photography](https://www.joecalih.co/2021/08/how-to-become-a-portrait-photographer.html) looks to your photos.
 

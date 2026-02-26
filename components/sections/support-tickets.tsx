@@ -33,7 +33,7 @@ export function SupportTickets() {
 
   const recentTickets = [
     {
-      id: "#TK-2024-001",
+      id: "#TK-2025-001",
       title: "Download link not working",
       status: "Resolved",
       priority: "High",
@@ -41,7 +41,7 @@ export function SupportTickets() {
       category: "Technical",
     },
     {
-      id: "#TK-2024-002",
+      id: "#TK-2025-002",
       title: "License clarification needed",
       status: "In Progress",
       priority: "Medium",
@@ -49,7 +49,7 @@ export function SupportTickets() {
       category: "Licensing",
     },
     {
-      id: "#TK-2024-003",
+      id: "#TK-2025-003",
       title: "Refund request",
       status: "Pending",
       priority: "Low",

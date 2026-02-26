@@ -1,7 +1,7 @@
 ---
 title: "How To Add Blogger Review Star Rating To Search Results"
 excerpt: " Learn how to Add Review Star Rating To Search Results. Use schema markup structured rich snippets to add review star rating to blogger."
-date: "2024-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

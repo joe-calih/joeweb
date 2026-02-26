@@ -18,7 +18,7 @@ fileSize: "2.8 MB"
 instructions: "Best with low-light and interior scenes"
 tags: ["thriller", "horror", "dark", "moody", "suspense", "atmospheric", "noir"]
 featured: false
-dateCreated: "2024-12-24"
+dateCreated: "2025-12-24"
 author: "Dark Cinema Studios"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Buzzspot Blogger Template Premium Free Download"
 excerpt: "Download Buzzspot Blogger Template Premium for free! Ideal for tech news, videos, and multipurpose blogs and responsive design website."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

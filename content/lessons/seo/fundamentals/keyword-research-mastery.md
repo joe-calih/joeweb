@@ -27,8 +27,8 @@ resources:
     url: "#"
     type: "download"
 order: 2
-publishedAt: "2024-01-16"
-updatedAt: "2024-01-16"
+publishedAt: "2025-01-16"
+updatedAt: "2025-01-16"
 ---
 
 # Keyword Research Mastery: Advanced Techniques for SEO Success

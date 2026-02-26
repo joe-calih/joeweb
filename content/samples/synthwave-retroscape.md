@@ -10,7 +10,7 @@ keySignatures: ["A min", "E min", "D min", "B min"]
 description: "Retro-futuristic synthwave sounds inspired by 80s nostalgia. Features analog synths, driving basslines, and atmospheric pads perfect for cyberpunk and retro aesthetics."
 tags: ["synthwave", "retro", "80s", "analog", "cyberpunk"]
 price: "$25.99"
-releaseDate: "2024-02-15"
+releaseDate: "2025-02-15"
 duration: "2:20:15"
 packSize: "1.0 GB"
 ---

@@ -10,7 +10,7 @@ keySignatures: ["C# min", "F# min", "B maj", "E maj"]
 description: "Modern future bass sounds with lush chords, powerful drops, and emotional melodies. Features cutting-edge synthesis and contemporary production techniques."
 tags: ["future bass", "chords", "drops", "emotional", "modern"]
 price: "$23.99"
-releaseDate: "2024-02-08"
+releaseDate: "2025-02-08"
 duration: "2:05:20"
 packSize: "950 MB"
 ---

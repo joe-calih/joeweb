@@ -1,7 +1,7 @@
 ---
 title: "JobZeek Premium Blogger Template Free Download"
 excerpt: "Download JobZeek Premium Blogger Template , an SEO-friendly job posting website theme. Easy to customize & mobile-friendly packed features!"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

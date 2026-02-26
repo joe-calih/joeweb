@@ -30,8 +30,8 @@ resources:
     url: "#"
     type: "download"
 order: 1
-publishedAt: "2024-01-17"
-updatedAt: "2024-01-17"
+publishedAt: "2025-01-17"
+updatedAt: "2025-01-17"
 ---
 
 # Complete Technical SEO Audit: Advanced Site Optimization
@@ -91,7 +91,7 @@ https://example.com/services/seo-consulting/
 ❌ **Poor URL Structure:**
 \`\`\`
 https://example.com/page.php?id=123&cat=seo&type=post
-https://example.com/2024/01/17/post-title-here/
+https://example.com/2025/01/17/post-title-here/
 https://example.com/category/subcategory/subsubcategory/page/
 \`\`\`
 
@@ -388,7 +388,7 @@ Low Priority Pages (Crawl Less):
        "@type": "Person",
        "name": "Author Name"
      },
-     "datePublished": "2024-01-17",
+     "datePublished": "2025-01-17",
      "image": "https://example.com/article-image.jpg"
    }
    \`\`\`

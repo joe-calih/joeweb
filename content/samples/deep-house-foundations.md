@@ -10,7 +10,7 @@ keySignatures: ["A min", "F maj", "C maj", "G min"]
 description: "Essential deep house elements with rolling basslines, atmospheric pads, and hypnotic grooves. Perfect for creating sophisticated underground house tracks with that classic deep house vibe."
 tags: ["deep house", "underground", "basslines", "atmospheric", "grooves"]
 price: "$26.99"
-releaseDate: "2024-02-05"
+releaseDate: "2025-02-05"
 duration: "2:30:45"
 packSize: "1.1 GB"
 ---

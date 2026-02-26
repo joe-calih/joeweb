@@ -1,6 +1,6 @@
 ---
 title: "Top 20 SEO New Tactics for Websites In 2025"
-excerpt: "SEO Tactics 2024 uses keywords, builds backlinks, structured data, tracks performance, improves UX, and social media & improves security."
+excerpt: "SEO Tactics 2025 uses keywords, builds backlinks, structured data, tracks performance, improves UX, and social media & improves security."
 date: "2026-02-15"
 author:
   name: "Joe Calih"
@@ -31,7 +31,7 @@ Today SEO defines the level of knowledge an SEO specialist should have. Optimiza
 
 Probably one of the most important areas, in terms of positive clients’ experience is loading time.
 
-## Premium New SEO Tactics for 2024
+## Premium New SEO Tactics for 2025
 
 1.  Follow user experience principles while designing the website and ensure that the website is neat with no distracting design frameworks.
 2.  Under the second option for the current research, the following is proposed: Enhance website security using HTTPS and other security mechanisms.

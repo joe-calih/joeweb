@@ -26,8 +26,8 @@ resources:
     url: "https://www.golden-hour.com"
     type: "link"
 order: 1
-publishedAt: "2024-01-15"
-updatedAt: "2024-01-15"
+publishedAt: "2025-01-15"
+updatedAt: "2025-01-15"
 ---
 
 # Natural Light Photography Basics

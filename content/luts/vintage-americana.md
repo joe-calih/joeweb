@@ -19,7 +19,7 @@ fileSize: "2.5 MB"
 instructions: "Best with natural lighting and period-appropriate settings"
 tags: ["vintage", "americana", "retro", "period", "nostalgic", "classic", "film"]
 featured: true
-dateCreated: "2024-12-20"
+dateCreated: "2025-12-20"
 author: "Americana Film Co."
 ---
 

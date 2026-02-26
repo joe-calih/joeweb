@@ -26,8 +26,8 @@ resources:
     url: "#"
     type: "link"
 order: 1
-publishedAt: "2024-01-15"
-updatedAt: "2024-01-15"
+publishedAt: "2025-01-15"
+updatedAt: "2025-01-15"
 ---
 
 # SEO Basics: Your Complete Guide to Search Engine Optimization
@@ -45,7 +45,7 @@ SEO is crucial for online visibility. Consider these statistics:
 | Users who click on third result | 11.0% |
 | Users who go to page 2 | 0.78% |
 
-*Source: Advanced Web Ranking, 2024*
+*Source: Advanced Web Ranking, 2025*
 
 ## How Search Engines Work
 
@@ -102,7 +102,7 @@ On-page SEO involves optimizing individual web pages. Here are the key elements:
 
 **Example:**
 \`\`\`html
-<title>SEO Basics: Complete Guide for Beginners (2024)</title>
+<title>SEO Basics: Complete Guide for Beginners (2025)</title>
 \`\`\`
 
 ### Meta Descriptions

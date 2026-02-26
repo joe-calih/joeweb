@@ -1,7 +1,7 @@
 ---
 title: "How To Add SEO Keywords In Blogger Website"
 excerpt: "Learn step-by-step how to add SEO keywords In Blogger. Build your website with SEO-optimized blogger post, meta description, URL, and title."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

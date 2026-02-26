@@ -1,7 +1,7 @@
 ---
 title: "Median UI Blogger Template Premium Free Download"
 excerpt: "Discover Median UI Blogger Template. With its modern design and SEO optimization, create a professional website. Download v1.7 for FREE!"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

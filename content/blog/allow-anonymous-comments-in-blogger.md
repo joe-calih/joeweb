@@ -28,7 +28,7 @@ Step 4. Click on it. And scroll to where the written comments are.
 Step 6. That’s the area, now click on ”Anyone – includes Anonymous Users”  
 Step 7. Now save your settings and let anyone comment now. That’s all
 
-[![Anonymous Comments](https://joecalih.files.wordpress.com/2024/06/ceb63-anonymous2bcomments.png?w=300 "Anonymous Comments")](http://joecalih.files.wordpress.com/2024/06/ceb63-anonymous2bcomments.png)
+[![Anonymous Comments](https://joecalih.files.wordpress.com/2025/06/ceb63-anonymous2bcomments.png?w=300 "Anonymous Comments")](http://joecalih.files.wordpress.com/2025/06/ceb63-anonymous2bcomments.png)
 
 #### Importance Of Allowing Anonymous Comments In Blogger
 

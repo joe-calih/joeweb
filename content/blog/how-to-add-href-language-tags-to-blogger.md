@@ -1,7 +1,7 @@
 ---
 title: "How To Add Href Language Tags to Blogger"
 excerpt: "Learn how to add Href Language tag to Blogger website to specify on languages used in blogger posts. Language Href tags increase on-page SEO."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

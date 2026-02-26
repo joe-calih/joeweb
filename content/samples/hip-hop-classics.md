@@ -10,7 +10,7 @@ keySignatures: ["C min", "F min", "Bb maj", "Eb maj"]
 description: "Classic hip hop beats and samples inspired by the golden era. Perfect for old school and modern hip hop production with authentic drum breaks and melodic elements."
 tags: ["hip hop", "boom bap", "classic", "drums", "samples"]
 price: "$22.99"
-releaseDate: "2024-01-20"
+releaseDate: "2025-01-20"
 duration: "2:15:30"
 packSize: "980 MB"
 ---

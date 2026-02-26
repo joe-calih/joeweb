@@ -14,7 +14,7 @@ featured: true
 previewImage: "/placeholder.svg?height=600&width=600"
 beforeImage: "/placeholder.svg?height=800&width=600"
 afterImage: "/placeholder.svg?height=800&width=600"
-datePublished: "2024-01-05"
+datePublished: "2025-01-05"
 ---
 
 # Sunset Glow Lightroom Presets

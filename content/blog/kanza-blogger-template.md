@@ -1,7 +1,7 @@
 ---
 title: "Kanza Premium Blogger Template Free Download"
 excerpt: "Download Kanza, a responsive Blogger theme ideal for SEO and marketing agencies. Features modern design, custom pages, and SEO optimization."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

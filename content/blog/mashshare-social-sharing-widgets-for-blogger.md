@@ -1,7 +1,7 @@
 ---
 title: "Mashshare Social Sharing Widgets For Blogger"
 excerpt: " Steps on how to add Mashshare Social Sharing Blogger widget to blogger website. Learn to add a social sharing widget to your blogger blog."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

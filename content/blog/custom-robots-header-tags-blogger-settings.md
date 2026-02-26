@@ -1,7 +1,7 @@
 ---
 title: "Custom Robots Header Tags Blogger Settings"
 excerpt: "Set custom robots header tags in Blogger to control how search engines index and interact with logger content optimized for SEO."
-date: "2024-11-06"
+date: "2025-11-06"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -58,11 +58,11 @@ As we’re speaking about establishing robot tags on bloggers. Observe the steps
 
 **Step 3**: At this step, you’ll discover two radio buttons. The primary one must be your choice.
 
-[![Custom Robots Header Tags Settings For Blogger](https://joecalih.files.wordpress.com/2024/06/28c7b-custom-robots-header-tags-settings-for-blogger.png?w=300 "Custom Robots Header Tags Settings For Blogger")](http://joecalih.files.wordpress.com/2024/06/28c7b-custom-robots-header-tags-settings-for-blogger.png)
+[![Custom Robots Header Tags Settings For Blogger](https://joecalih.files.wordpress.com/2025/06/28c7b-custom-robots-header-tags-settings-for-blogger.png?w=300 "Custom Robots Header Tags Settings For Blogger")](http://joecalih.files.wordpress.com/2025/06/28c7b-custom-robots-header-tags-settings-for-blogger.png)
 
 **Step 4**: Now, you’re going to get a set of checkboxes. However, don’t get intimidated! It could feel like an advanced one, however, it’s not. You possibly can set them by yourself by studying the Customized Robots Header Tags and Goal” as soon as once more. Or, simply comply with the identical settings I selected (discuss with the picture given beneath) and hit Save modifications.
 
-[![Custom Robots Header Tags Settings For Blogger](https://joecalih.files.wordpress.com/2024/06/e34b3-custom-robots-header-tags-settings.png?w=300 "Custom Robots Header Tags Settings For Blogger")](http://joecalih.files.wordpress.com/2024/06/e34b3-custom-robots-header-tags-settings.png)
+[![Custom Robots Header Tags Settings For Blogger](https://joecalih.files.wordpress.com/2025/06/e34b3-custom-robots-header-tags-settings.png?w=300 "Custom Robots Header Tags Settings For Blogger")](http://joecalih.files.wordpress.com/2025/06/e34b3-custom-robots-header-tags-settings.png)
 
 Believe me, customized robot header tags are highly effective! As Google gives a readymade setup to make use of them, why don’t you go for it?
 

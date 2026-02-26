@@ -18,7 +18,7 @@ fileSize: "2.0 MB"
 instructions: "Perfect for sunny tropical locations and beach scenes"
 tags: ["tropical", "vibrant", "beach", "paradise", "summer", "vacation", "colorful"]
 featured: true
-dateCreated: "2024-12-22"
+dateCreated: "2025-12-22"
 author: "Paradise Visuals"
 ---
 

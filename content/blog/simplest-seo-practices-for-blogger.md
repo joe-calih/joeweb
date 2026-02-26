@@ -1,6 +1,6 @@
 ---
 title: "Simplest SEO Practices For Blogger Websites"
-excerpt: "SEO this year is all about the practices you engage your content. 2023 statistics show that people with the listed best SEO practices ranked."
+excerpt: "SEO this year is all about the practices you engage your content. 2025 statistics show that people with the listed best SEO practices ranked."
 date: "2025-05-15"
 author:
   name: "Joe Calih"

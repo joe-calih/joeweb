@@ -1,7 +1,7 @@
 ---
 title: "E-commerce Personalization Strategies for 2025"
 excerpt: "Master the art of e-commerce personalization with advanced strategies, AI-powered tools, and data-driven approaches that boost conversions and customer loyalty."
-date: "2024-01-28"
+date: "2025-01-28"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -34,7 +34,7 @@ Personalization in e-commerce has reached new levels of sophistication, powered 
 - Email personalization
 - Basic behavioral tracking
 
-**Advanced Personalization** (2023-2025):
+**Advanced Personalization** (2025-2025):
 - AI-powered real-time personalization
 - Predictive analytics and machine learning
 - Cross-channel experience orchestration

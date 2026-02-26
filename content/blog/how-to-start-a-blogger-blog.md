@@ -1,7 +1,7 @@
 ---
 title: "How To Start a Blogger Blog: blogspot"
 excerpt: "Dive deep into React Hooks and learn how they can simplify your components and improve your React applications."
-date: "2024-11-05"
+date: "2025-11-05"
 author:
   name: "Joecalih"
   avatar: "/img/authors/04.png"

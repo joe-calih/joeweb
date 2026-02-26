@@ -1,7 +1,7 @@
 ---
 title: "SEO Marketing Strategies for Website Traffic"
 excerpt: "SEO Marketing Strategies for Traffic 1. Digital marketing 2. content marketing 3. Affiliate Marketing 4. Growth hacking 5. Google Adwords"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

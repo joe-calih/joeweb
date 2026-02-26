@@ -1,7 +1,7 @@
 ---
 title: "How To Redirect 404 Page To Blogger Homepage"
 excerpt: "Step By Step On How To Redirect 404 Error Page To Homepage In Blogger. 404 an SEO Redirect to the homepage in Blogger to increase CTR."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
@@ -50,7 +50,7 @@ Steps To Use Meta tag 404 redirects in Blogger.
 
 The above Java script will redirect your static 404 page to the homepage is done in search preferences in blogger settings. let me take you step by step in integrating the redirect to your blogger blog.
 
-[![How To Redirect Blogger 404 Error page To Homepage in blogger with   javascript.](https://joecalih.files.wordpress.com/2024/06/c2c6d-how-to-redirect-blogger-404-error-page-to-homepage-in-blogger-with-javascript.jpg "How To Redirect Blogger 404 Error page To Homepage in blogger with   javascript.")](https://joecalih.files.wordpress.com/2024/06/c2c6d-how-to-redirect-blogger-404-error-page-to-homepage-in-blogger-with-javascript.jpg)
+[![How To Redirect Blogger 404 Error page To Homepage in blogger with   javascript.](https://joecalih.files.wordpress.com/2025/06/c2c6d-how-to-redirect-blogger-404-error-page-to-homepage-in-blogger-with-javascript.jpg "How To Redirect Blogger 404 Error page To Homepage in blogger with   javascript.")](https://joecalih.files.wordpress.com/2025/06/c2c6d-how-to-redirect-blogger-404-error-page-to-homepage-in-blogger-with-javascript.jpg)
 
 Custom Page Not Found 404 Error Page Redirect to Homepage in Blogger: -
 

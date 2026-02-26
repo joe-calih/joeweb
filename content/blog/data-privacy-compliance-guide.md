@@ -1,7 +1,7 @@
 ---
 title: "Data Privacy Compliance Guide for 2025"
 excerpt: "Navigate the complex landscape of data privacy regulations with this comprehensive guide covering GDPR, CCPA, and emerging privacy laws affecting businesses worldwide."
-date: "2024-01-30"
+date: "2025-01-30"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

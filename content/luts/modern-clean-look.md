@@ -18,7 +18,7 @@ fileSize: "1.5 MB"
 instructions: "Apply at 100% intensity for optimal results"
 tags: ["modern", "clean", "corporate", "tech", "professional", "neutral", "contemporary"]
 featured: false
-dateCreated: "2024-12-08"
+dateCreated: "2025-12-08"
 author: "Digital Vision Co."
 ---
 

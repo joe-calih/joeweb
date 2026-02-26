@@ -14,7 +14,7 @@ const portfolioItems = [
     category: "Web Design",
     image: "/placeholder.svg?height=400&width=600",
     client: "TechStore",
-    year: "2024",
+    year: "2025",
     featured: true,
   },
   {
@@ -23,7 +23,7 @@ const portfolioItems = [
     category: "Mobile UI",
     image: "/placeholder.svg?height=400&width=600",
     client: "FinanceApp",
-    year: "2024",
+    year: "2025",
     featured: false,
   },
   {
@@ -32,7 +32,7 @@ const portfolioItems = [
     category: "Branding",
     image: "/placeholder.svg?height=400&width=600",
     client: "StartupCo",
-    year: "2023",
+    year: "2025",
     featured: true,
   },
   {
@@ -41,7 +41,7 @@ const portfolioItems = [
     category: "Social Media",
     image: "/placeholder.svg?height=400&width=600",
     client: "FashionBrand",
-    year: "2024",
+    year: "2025",
     featured: false,
   },
 ]

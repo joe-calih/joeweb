@@ -1,7 +1,7 @@
 ---
 title: "How To Disable Text Selection In Blogger Posts"
 excerpt: " Step by step do disable text selection in blogger website pages content. With simple CSS or Javascript you can block website post selection."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

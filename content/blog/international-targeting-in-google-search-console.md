@@ -1,7 +1,7 @@
 ---
 title: "International Targeting in Google Search Console"
 excerpt: "Change the international targeting option in Google Search Console to target a country on google search results. Learn how to set this."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

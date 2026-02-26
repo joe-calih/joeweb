@@ -28,7 +28,7 @@ export function AboutStory() {
       color: "from-pink-500 to-red-500",
     },
     {
-      year: "2023",
+      year: "2025",
       title: "Global Impact",
       description: "Expanded to serve creators worldwide with localized content and support.",
       icon: Target,

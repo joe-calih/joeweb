@@ -4,7 +4,7 @@ artist: "Electric Dreams"
 slug: "neon-nights"
 cover: "/placeholder.svg?height=400&width=400"
 genre: "Synthwave"
-releaseDate: "2024-03-15"
+releaseDate: "2025-03-15"
 duration: "42:18"
 totalTracks: 10
 label: "Retro Future Records"

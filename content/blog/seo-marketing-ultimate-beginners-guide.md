@@ -1,7 +1,7 @@
 ---
 title: "SEO Marketing Ultimate Beginner's Guide"
 excerpt: "Learn SEO marketing and optimization using keyword research, content optimization, link building, and improving the experience of a website."
-date: "2023-12-25"
+date: "2025-12-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

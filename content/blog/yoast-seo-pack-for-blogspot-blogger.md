@@ -1,7 +1,7 @@
 ---
 title: "Yoast SEO Pack For Blogspot Blogger Website"
 excerpt: "Add the all-in-one Yoast SEO pack for Blogger to improve your website indexing, ranking, and website experience. Add Yoast SEO to Blogger."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

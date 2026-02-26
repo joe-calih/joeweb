@@ -1,7 +1,7 @@
 ---
 title: "SEO Code For Optimizing Blogger Templates"
 excerpt: " Learn to do SEO with Blogger SEO code for Blogger templates. With step-by-step tutorial to add SEO Meta Tags and template code to website."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

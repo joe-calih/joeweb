@@ -22,8 +22,8 @@ resources:
     url: "/downloads/exposure-triangle-card.pdf"
     type: "download"
 order: 1
-publishedAt: "2024-01-10"
-updatedAt: "2024-01-10"
+publishedAt: "2025-01-10"
+updatedAt: "2025-01-10"
 ---
 
 # Exposure Triangle Mastery

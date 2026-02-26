@@ -1,7 +1,7 @@
 ---
 title: "Image SEO Optimization In Blogger Blog Guide"
 excerpt: "How to SEO optimize your blogger blog post images before publishing for indexing by search engines to rank your content with image SEO."
-date: "2024-12-29"
+date: "2025-12-29"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

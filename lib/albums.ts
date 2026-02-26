@@ -86,7 +86,7 @@ export function getAllAlbums(): Album[] {
           artist: data.artist || "Joecalih",
           cover: data.cover || "/placeholder.svg?height=400&width=400",
           genre: data.genre || "Electronic",
-          releaseDate: data.releaseDate || "2024-01-01",
+          releaseDate: data.releaseDate || "2025-01-01",
           totalTracks: data.totalTracks || 0,
           duration: data.duration || "0:00",
           description: data.description || "",
