@@ -1,7 +1,7 @@
 ---
 title: "WordPress vs Blogger : The Best Blogging Platform"
 excerpt: "Wordpress vs Blogger Blogging platform1. It offers FREE Hosting 2. It offers a Free Domain Name 3. FREE Email Marketing 4. Fast Indexing"
-date: "2024-04-17"
+date: "2026-02-17"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

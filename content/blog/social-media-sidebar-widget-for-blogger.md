@@ -1,7 +1,7 @@
 ---
 title: "Social Media Blogger Sidebar Widget With Counter"
 excerpt: "Get the sidebar social media widget for blogger website templates. The widget responsive, clean and minimalist look for blogger Template."
-date: "2023-05-15"
+date: "205-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

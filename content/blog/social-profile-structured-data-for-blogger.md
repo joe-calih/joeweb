@@ -1,7 +1,7 @@
 ---
 title: "Social Profile Structured Data for Blogger Website"
 excerpt: "Add social profile structured data to search results with schema. Learn to add your favorite social media links to Google search /results."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

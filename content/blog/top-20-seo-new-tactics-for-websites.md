@@ -1,7 +1,7 @@
 ---
 title: "Top 20 SEO New Tactics for Websites In 2025"
 excerpt: "SEO Tactics 2024 uses keywords, builds backlinks, structured data, tracks performance, improves UX, and social media & improves security."
-date: "2023-05-15"
+date: "2026-02-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

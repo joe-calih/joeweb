@@ -1,7 +1,7 @@
 ---
 title: "Solve Duplicate Meta Description In Google Search"
 excerpt: "Solve duplicate meta descriptions in the Google search console. Learn to fix with custom robot.txt, header tags, and meta description tags"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

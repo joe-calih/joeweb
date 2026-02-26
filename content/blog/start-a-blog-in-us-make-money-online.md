@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Blog and Make Money in  U.S"
 excerpt: "Learn how to start a blog in US and start earning money. Get access to lessons on hosting , SEO, Marketing and choosing domain name."
-date: "2023-05-15"
+date: "2026-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

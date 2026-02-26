@@ -1,7 +1,7 @@
 ---
 title: "Video Marketing Trends for 2025"
 excerpt: "Explore the latest video marketing trends shaping 2025, from AI-powered personalization to immersive experiences that drive engagement and conversions."
-date: "2024-01-25"
+date: "2025-01-25"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

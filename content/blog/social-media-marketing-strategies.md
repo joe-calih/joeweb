@@ -1,7 +1,7 @@
 ---
 title: "Social Media Marketing Strategies That Drive Results"
 excerpt: "Discover proven social media marketing strategies to grow your brand, engage your audience, and drive conversions across all major platforms."
-date: "2024-01-18"
+date: "2025-01-18"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

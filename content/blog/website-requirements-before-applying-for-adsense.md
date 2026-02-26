@@ -1,7 +1,7 @@
 ---
 title: "Website Requirements before Applying For Adsense"
 excerpt: "Learn the requirements you need to adhere to before signing up for AdSense. Reach website needs and policies to become eligible for Adsense."
-date: "2024-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

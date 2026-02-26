@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Business Practices for 2025"
 excerpt: "Explore comprehensive strategies for building sustainable business practices that drive profitability while creating positive environmental and social impact."
-date: "2024-02-02"
+date: "2025-02-02"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

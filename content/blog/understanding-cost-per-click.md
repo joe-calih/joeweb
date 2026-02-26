@@ -1,7 +1,7 @@
 ---
 title: "Understanding Cost Per Click (CPC) in Online Advertising"
 excerpt: "Cost Per Click (CPC) is a fundamental metric in online advertising, the amount an advertiser pays for each click on their ad."
-date: "2024-05-15"
+date: "2026-02-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

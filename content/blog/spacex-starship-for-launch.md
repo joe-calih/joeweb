@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Starship Is Ready To Launch To Orbit"
 excerpt: "The Space X starship program is ready for launch to orbit awaiting regulatory approval from the Federal Aviation Administration this Week."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

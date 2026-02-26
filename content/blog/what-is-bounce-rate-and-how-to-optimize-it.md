@@ -1,7 +1,7 @@
 ---
 title: "What is Bounce Rate? and How to Optimize it"
 excerpt: "Bounce rate is a metric that measures the percentage of visitors who leave a website after viewing, high bounce rate shows low conversion."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

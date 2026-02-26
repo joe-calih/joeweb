@@ -1,7 +1,7 @@
 ---
 title: "What is SEO? Why is SEO Important in Blogging"
 excerpt: "Learners Guide what is SEO. The post includes the types of SEO, and types of search engines and shows how they work in driving traffic."
-date: "2024-11-16"
+date: "2026-01-16"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

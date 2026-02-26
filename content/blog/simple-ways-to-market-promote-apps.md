@@ -1,7 +1,7 @@
 ---
 title: "YouTube SEO: How to Optimize Videos in 2025"
 excerpt: "Market and promote apps through various channels such as social media, app store optimization, and advertising to increase downloads."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

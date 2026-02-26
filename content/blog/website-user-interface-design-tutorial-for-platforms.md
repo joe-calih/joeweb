@@ -1,7 +1,7 @@
 ---
 title: "Website User Interface Design Tutorial For Platforms"
 excerpt: "Design your website user interface with steps on how to choose colors , blogging platform according to user preferences design for better SEO"
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

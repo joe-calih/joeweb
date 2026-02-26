@@ -1,7 +1,7 @@
 ---
 title: "How To Speed Up Google Ajax Jquery Code"
 excerpt: "Speed up Google Ajax Jquery Code in your Blogger website today to increase website speed. Adding async functions helps load Jquery faster."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

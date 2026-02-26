@@ -1,7 +1,7 @@
 ---
 title: "Speedup A Blogger with Image Lazy Load Script"
 excerpt: "Lazy load Blogger images to increase your website speed with image lazy load script. Learn to add image lazy load to better SEO ranking today"
-date: "2023-12-28"
+date: "2025-12-28"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Shoot in RAW Format"
 excerpt: "Discover why shooting in RAW format elevates your photography with enhanced image quality, editing flexibility, and professional standards."
-date: "2024-12-13"
+date: "2026-02-13"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

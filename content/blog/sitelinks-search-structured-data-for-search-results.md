@@ -1,7 +1,7 @@
 ---
 title: "Sitelinks Search Structured Data For Search Results"
 excerpt: " Sitelinks search box is added by jslod-ld or microdata to Blogger website. Get Blogger or WordPress sitelinks search box in search results."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

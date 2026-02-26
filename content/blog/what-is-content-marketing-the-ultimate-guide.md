@@ -1,7 +1,7 @@
 ---
 title: "What is Content Marketing? The Ultimate Guide"
 excerpt: "Content marketing is a form of marketing focused on creating, publishing, and distributing content for a targeted audience online."
-date: "2024-05-15"
+date: "2026-01-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

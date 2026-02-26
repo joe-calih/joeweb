@@ -1,7 +1,7 @@
 ---
 title: "Free! Teal and Orange Lightroom Presets Download"
 excerpt: "Download premium color grading, Lightroom presets called Brown and Aqua curated by colorists. Get the presets zip download free today!"
-date: "2024-05-18"
+date: "2025-02-28"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

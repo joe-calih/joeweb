@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to PPC Marketing (Pay-Per-Click)"
 excerpt: "PPC Marketing for pay-per-click, an online advertising model in which advertisers pay each time one of their ads is clicked."
-date: "2024-11-05"
+date: "2025-11-05"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

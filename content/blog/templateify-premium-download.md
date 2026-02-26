@@ -1,7 +1,7 @@
 ---
 title: "Templateify Pro v4.5 Blogger Template Free Download"
 excerpt: "Download Templateify Premium Blogger Template for selling responsive and SEO-optimized themes. Perfect for template-sharing websites!."
-date: "2023-05-15"
+date: "2025-05-15"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"

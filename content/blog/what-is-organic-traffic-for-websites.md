@@ -1,7 +1,7 @@
 ---
 title: "What Is Organic Traffic? Definition - Content Marketing"
 excerpt: "OOrganic traffic refers to the visitors that come to a website through unpaid search engine results such as SEO, rather to paid advertising. "
-date: "2024-05-10"
+date: "2026-02-10"
 author:
   name: "Joe Calih"
   avatar: "/authors/08.jpg"
